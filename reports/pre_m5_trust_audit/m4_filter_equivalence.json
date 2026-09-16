@@ -1,0 +1,203 @@
+{
+  "design": {
+    "input_hz": 1250,
+    "output_hz": 50,
+    "factor": 25,
+    "phase_raw_index_modulo_25": 24,
+    "observation_k_interval_s": "[k/50,(k+1)/50)",
+    "observation_k_latest_raw_index": "25*k+24",
+    "observation_k_latest_raw_time_s": "(25*k+24)/1250 < (k+1)/50",
+    "fir_taps": 909,
+    "overlap_input_samples": 908,
+    "group_delay_samples": 454.0,
+    "group_delay_s": 0.3632,
+    "waveform_first_valid_step": 36,
+    "waveform_first_valid_right_edge_s": 0.74,
+    "physio_settling_steps_by_band": {
+      "delta": 407,
+      "theta": 99,
+      "sigma": 74,
+      "broadband": 267
+    },
+    "trailing_power_steps": 100,
+    "physio_first_valid_step_formula": "36+max([407, 99, 74, 267])+100-1",
+    "physio_first_valid_step": 542,
+    "physio_first_valid_right_edge_s": 10.86
+  },
+  "integer_second_examples": {
+    "right_edge_1s_observation_step": 49,
+    "raw_latest_index": 1249,
+    "raw_latest_time_s": 0.9992,
+    "next_observation_step": 50,
+    "next_interval_s": [
+      1.0,
+      1.02
+    ],
+    "decision_time_10s_last_step": 499,
+    "decision_time_10s_latest_raw_index": 12499,
+    "decision_time_10s_latest_raw_time_s": 9.9992
+  },
+  "sessions": [
+    {
+      "session_id": "Templeton_032415",
+      "tested_raw_frames": 750000,
+      "tested_observations": 30000,
+      "crossed_chunk_boundaries": 2,
+      "one_shot_method": "scipy.signal.oaconvolve full causal prefix, then phase-24 decimation",
+      "chunked_cache_dtype": "float32",
+      "max_abs_difference": 0.000483969157357933,
+      "median_abs_difference": 3.3919868869247694e-06,
+      "max_relative_difference_with_1e-12_floor": 5.91455384629818e-08,
+      "all_float32_rounded_equal": true,
+      "chunk_boundary_checks": [
+        {
+          "raw_chunk_boundary": 250000,
+          "observation_index": 10000,
+          "max_abs_difference_near_boundary": 1.2493352812725789e-05
+        },
+        {
+          "raw_chunk_boundary": 500000,
+          "observation_index": 20000,
+          "max_abs_difference_near_boundary": 1.4681468314847734e-05
+        }
+      ],
+      "physio_tested_steps": 20000,
+      "physio_max_abs_difference": 4.768349075590095e-07,
+      "physio_all_float32_rounded_equal": true,
+      "cached_shapes": {
+        "waveform": [
+          952880,
+          2
+        ],
+        "physio": [
+          952880,
+          2,
+          4
+        ]
+      },
+      "cache_metadata_protocol_hash": "8e10ab11ccbda0e46a7a64eb97eb3bb5fd9ae4409eb262610eb204b7886ca6ac"
+    },
+    {
+      "session_id": "Bogey_012615",
+      "tested_raw_frames": 750000,
+      "tested_observations": 30000,
+      "crossed_chunk_boundaries": 2,
+      "one_shot_method": "scipy.signal.oaconvolve full causal prefix, then phase-24 decimation",
+      "chunked_cache_dtype": "float32",
+      "max_abs_difference": 0.0002439900063109235,
+      "median_abs_difference": 4.574757710429367e-06,
+      "max_relative_difference_with_1e-12_floor": 5.931203111290168e-08,
+      "all_float32_rounded_equal": true,
+      "chunk_boundary_checks": [
+        {
+          "raw_chunk_boundary": 250000,
+          "observation_index": 10000,
+          "max_abs_difference_near_boundary": 1.5612073866577703e-05
+        },
+        {
+          "raw_chunk_boundary": 500000,
+          "observation_index": 20000,
+          "max_abs_difference_near_boundary": 1.5010627919309627e-05
+        }
+      ],
+      "physio_tested_steps": 20000,
+      "physio_max_abs_difference": 4.7683670523213095e-07,
+      "physio_all_float32_rounded_equal": true,
+      "cached_shapes": {
+        "waveform": [
+          1213170,
+          2
+        ],
+        "physio": [
+          1213170,
+          2,
+          4
+        ]
+      },
+      "cache_metadata_protocol_hash": "8e10ab11ccbda0e46a7a64eb97eb3bb5fd9ae4409eb262610eb204b7886ca6ac"
+    },
+    {
+      "session_id": "Dino_061814_mPFC",
+      "tested_raw_frames": 750000,
+      "tested_observations": 30000,
+      "crossed_chunk_boundaries": 2,
+      "one_shot_method": "scipy.signal.oaconvolve full causal prefix, then phase-24 decimation",
+      "chunked_cache_dtype": "float32",
+      "max_abs_difference": 7.035666749288794e-05,
+      "median_abs_difference": 2.842067132746706e-06,
+      "max_relative_difference_with_1e-12_floor": 5.936456085493904e-08,
+      "all_float32_rounded_equal": true,
+      "chunk_boundary_checks": [
+        {
+          "raw_chunk_boundary": 250000,
+          "observation_index": 10000,
+          "max_abs_difference_near_boundary": 1.4925730738468701e-05
+        },
+        {
+          "raw_chunk_boundary": 500000,
+          "observation_index": 20000,
+          "max_abs_difference_near_boundary": 2.859528603949002e-05
+        }
+      ],
+      "physio_tested_steps": 20000,
+      "physio_max_abs_difference": 4.7683640325146825e-07,
+      "physio_all_float32_rounded_equal": true,
+      "cached_shapes": {
+        "waveform": [
+          982310,
+          2
+        ],
+        "physio": [
+          982310,
+          2,
+          4
+        ]
+      },
+      "cache_metadata_protocol_hash": "8e10ab11ccbda0e46a7a64eb97eb3bb5fd9ae4409eb262610eb204b7886ca6ac"
+    },
+    {
+      "session_id": "Rizzo_022715",
+      "tested_raw_frames": 750000,
+      "tested_observations": 30000,
+      "crossed_chunk_boundaries": 2,
+      "one_shot_method": "scipy.signal.oaconvolve full causal prefix, then phase-24 decimation",
+      "chunked_cache_dtype": "float32",
+      "max_abs_difference": 0.00046040373854339123,
+      "median_abs_difference": 3.7102810637179573e-06,
+      "max_relative_difference_with_1e-12_floor": 5.941647197549183e-08,
+      "all_float32_rounded_equal": true,
+      "chunk_boundary_checks": [
+        {
+          "raw_chunk_boundary": 250000,
+          "observation_index": 10000,
+          "max_abs_difference_near_boundary": 1.3094634084609424e-05
+        },
+        {
+          "raw_chunk_boundary": 500000,
+          "observation_index": 20000,
+          "max_abs_difference_near_boundary": 8.096881231267616e-06
+        }
+      ],
+      "physio_tested_steps": 20000,
+      "physio_max_abs_difference": 4.768331418603111e-07,
+      "physio_all_float32_rounded_equal": true,
+      "cached_shapes": {
+        "waveform": [
+          1296605,
+          2
+        ],
+        "physio": [
+          1296605,
+          2,
+          4
+        ]
+      },
+      "cache_metadata_protocol_hash": "8e10ab11ccbda0e46a7a64eb97eb3bb5fd9ae4409eb262610eb204b7886ca6ac"
+    }
+  ],
+  "conclusion": {
+    "chunked_matches_one_shot_to_float32": true,
+    "physio_recomputation_matches_to_float32": true,
+    "future_dependent_operation_found": false
+  }
+}

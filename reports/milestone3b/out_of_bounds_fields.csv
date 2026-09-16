@@ -1,0 +1,46 @@
+﻿session_id,field,role,count,intervals_s
+BWRat17_121712,REMEpisodeTimePairFormat,other,0,[]
+BWRat17_121712,REMTimePairFormat,core_target,0,[]
+BWRat17_121712,SWSEpisodeTimePairFormat,other,0,[]
+BWRat17_121712,SWSPacketTimePairFormat,core_target,0,[]
+BWRat17_121712,MATimePairFormat,auxiliary_substate,1,"[[8145.0, 8155.0]]"
+BWRat17_121712,WakeInterruptionTimePairFormat,auxiliary_substate,1,"[[6801.0, 6890.0]]"
+BWRat17_121712,WakeTimePairFormat,core_target,0,[]
+BWRat17_121712,SleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat17_121712,WakeSleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat18_020513,REMEpisodeTimePairFormat,other,0,[]
+BWRat18_020513,REMTimePairFormat,core_target,0,[]
+BWRat18_020513,SWSEpisodeTimePairFormat,other,0,[]
+BWRat18_020513,SWSPacketTimePairFormat,core_target,0,[]
+BWRat18_020513,MATimePairFormat,auxiliary_substate,29,"[[8168.0, 8175.0], [8219.0, 8252.0], [8374.0, 8393.0], [8636.0, 8664.0], [8669.0, 8676.0], [8990.0, 8996.0], [9044.0, 9047.0], [10313.0, 10321.0], [10333.0, 10361.0], [12464.0, 12498.0], [12803.0, 12827.0], [13164.0, 13192.0], [13197.0, 13208.0], [13221.0, 13226.0], [13239.0, 13249.0], [13401.0, 13404.0], [13442.0, 13466.0], [13833.0, 13841.0], [13915.0, 13922.0], [14066.0, 14078.0], [14665.0, 14671.0], [15156.0, 15179.0], [15235.0, 15274.0], [15395.0, 15401.0], [15661.0, 15691.0], [15950.0, 15958.0], [16202.0, 16217.0], [17029.0, 17055.0], [17820.0, 17853.0]]"
+BWRat18_020513,WakeInterruptionTimePairFormat,auxiliary_substate,22,"[[10098.0, 10202.0], [10212.0, 10308.0], [12340.0, 12423.0], [13738.0, 13822.0], [14290.0, 14299.0], [14312.0, 14351.0], [14888.0, 14903.0], [14960.0, 14966.0], [14995.0, 15003.0], [15107.0, 15139.0], [15435.0, 15521.0], [15877.0, 15918.0], [16008.0, 16052.0], [16629.0, 16633.0], [16678.0, 16687.0], [16882.0, 16905.0], [16951.0, 16964.0], [17581.0, 17587.0], [17607.0, 17622.0], [17765.0, 17793.0], [18176.0, 18248.0], [18439.0, 18536.0]]"
+BWRat18_020513,WakeTimePairFormat,core_target,0,[]
+BWRat18_020513,SleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat18_020513,WakeSleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat19_032513,REMEpisodeTimePairFormat,other,0,[]
+BWRat19_032513,REMTimePairFormat,core_target,0,[]
+BWRat19_032513,SWSEpisodeTimePairFormat,other,0,[]
+BWRat19_032513,SWSPacketTimePairFormat,core_target,0,[]
+BWRat19_032513,MATimePairFormat,auxiliary_substate,29,"[[5860.0, 5864.0], [5879.0, 5892.0], [5904.0, 5912.0], [5939.0, 5968.0], [5985.0, 5993.0], [6025.0, 6029.0], [6088.0, 6092.0], [6884.0, 6897.0], [6925.0, 6948.0], [7422.0, 7431.0], [7474.0, 7478.0], [7695.0, 7728.0], [7770.0, 7779.0], [7862.0, 7867.0], [8467.0, 8485.0], [8539.0, 8546.0], [8556.0, 8567.0], [8896.0, 8908.0], [9012.0, 9026.0], [9820.0, 9847.0], [10039.0, 10045.0], [10165.0, 10173.0], [10338.0, 10346.0], [10468.0, 10475.0], [10688.0, 10712.0], [10719.0, 10725.0], [11534.0, 11537.0], [11944.0, 11963.0], [13040.0, 13054.0]]"
+BWRat19_032513,WakeInterruptionTimePairFormat,auxiliary_substate,25,"[[5305.0, 5354.0], [5618.0, 5665.0], [5676.0, 5717.0], [5751.0, 5827.0], [7137.0, 7160.0], [7349.0, 7352.0], [7389.0, 7408.0], [7977.0, 8000.0], [8276.0, 8282.0], [8407.0, 8459.0], [8644.0, 8660.0], [8675.0, 8691.0], [8696.0, 8716.0], [9207.0, 9236.0], [10633.0, 10644.0], [10664.0, 10683.0], [11007.0, 11022.0], [11238.0, 11292.0], [11863.0, 11916.0], [11921.0, 11926.0], [12847.0, 12866.0], [12898.0, 12901.0], [12965.0, 12974.0], [12995.0, 12998.0], [13065.0, 13069.0]]"
+BWRat19_032513,WakeTimePairFormat,core_target,0,[]
+BWRat19_032513,SleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat19_032513,WakeSleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat20_101013,REMEpisodeTimePairFormat,other,0,[]
+BWRat20_101013,REMTimePairFormat,core_target,0,[]
+BWRat20_101013,SWSEpisodeTimePairFormat,other,0,[]
+BWRat20_101013,SWSPacketTimePairFormat,core_target,0,[]
+BWRat20_101013,MATimePairFormat,auxiliary_substate,16,"[[14212.0, 14218.0], [15784.0, 15816.0], [15829.0, 15834.0], [15935.0, 15943.0], [16026.0, 16043.0], [16078.0, 16108.0], [16608.0, 16634.0], [17475.0, 17510.0], [17538.0, 17546.0], [17750.0, 17788.0], [19805.0, 19809.0], [19841.0, 19855.0], [19894.0, 19900.0], [20003.0, 20014.0], [20873.0, 20904.0], [20938.0, 20948.0]]"
+BWRat20_101013,WakeInterruptionTimePairFormat,auxiliary_substate,10,"[[14131.0, 14207.0], [14625.0, 14650.0], [15126.0, 15189.0], [17353.0, 17440.0], [17648.0, 17745.0], [19656.0, 19753.0], [20048.0, 20100.0], [20415.0, 20420.0], [20491.0, 20525.0], [21243.0, 21285.0]]"
+BWRat20_101013,WakeTimePairFormat,core_target,0,[]
+BWRat20_101013,SleepTimePairFormat,broad_state_or_episode,0,[]
+BWRat20_101013,WakeSleepTimePairFormat,broad_state_or_episode,0,[]
+Splinter_020915,REMEpisodeTimePairFormat,other,0,[]
+Splinter_020915,REMTimePairFormat,core_target,0,[]
+Splinter_020915,SWSEpisodeTimePairFormat,other,0,[]
+Splinter_020915,SWSPacketTimePairFormat,core_target,0,[]
+Splinter_020915,MATimePairFormat,auxiliary_substate,0,[]
+Splinter_020915,WakeInterruptionTimePairFormat,auxiliary_substate,0,[]
+Splinter_020915,WakeTimePairFormat,core_target,0,[]
+Splinter_020915,SleepTimePairFormat,broad_state_or_episode,0,[]
+Splinter_020915,WakeSleepTimePairFormat,broad_state_or_episode,0,[]

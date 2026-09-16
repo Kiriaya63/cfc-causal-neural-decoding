@@ -1,0 +1,22 @@
+# Raw and rebuildable data
+cache/
+data/
+raw/
+*.eeg
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+

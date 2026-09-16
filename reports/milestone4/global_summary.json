@@ -1,0 +1,45 @@
+{
+  "sessions": 27,
+  "animals": 11,
+  "status_counts": {
+    "PASS": 0,
+    "WARN": 27,
+    "FAIL": 0
+  },
+  "protocol_version": "m4-v1.1.0",
+  "protocol_hash": "e4879fcb53b76286b317460fafdf56cd352b9e00bd766910f1ebca35ebec8a26",
+  "identity_specific_branches": [],
+  "stable_unit_min_median_max": [
+    10,
+    36.0,
+    113
+  ],
+  "m2_valid_samples_by_context": {
+    "5": 203805,
+    "10": 203765,
+    "30": 203565
+  },
+  "representation_invalid_samples_by_context": {
+    "5": 100,
+    "10": 110,
+    "30": 110
+  },
+  "representation_invalid_fraction_by_context": {
+    "5": 0.0004906650965383578,
+    "10": 0.0005398375579711923,
+    "30": 0.0005403679414437649
+  },
+  "normalization_statistics_fit": false,
+  "raw_preservation": {
+    "files_checked": 523,
+    "changed_files": [],
+    "method": "size/mtime for all; SHA256 for non-EEG files under 100 MB; raw files opened read-only"
+  },
+  "unresolved_structural_issues": [],
+  "sanity_figures": [
+    "D:\\\u5de5\u4f5c\u76f8\u5173\\\u671b\u9053\u9879\u76ee\\work\\reports\\milestone4\\figures\\Templeton_032415_causal_sanity.png",
+    "D:\\\u5de5\u4f5c\u76f8\u5173\\\u671b\u9053\u9879\u76ee\\work\\reports\\milestone4\\figures\\Bogey_012615_causal_sanity.png",
+    "D:\\\u5de5\u4f5c\u76f8\u5173\\\u671b\u9053\u9879\u76ee\\work\\reports\\milestone4\\figures\\Rizzo_022715_causal_sanity.png",
+    "D:\\\u5de5\u4f5c\u76f8\u5173\\\u671b\u9053\u9879\u76ee\\work\\reports\\milestone4\\figures\\BWRat17_121912_causal_sanity.png"
+  ]
+}

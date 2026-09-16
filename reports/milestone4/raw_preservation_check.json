@@ -1,0 +1,5 @@
+{
+  "files_checked": 523,
+  "changed_files": [],
+  "method": "size/mtime for all; SHA256 for non-EEG files under 100 MB; raw files opened read-only"
+}

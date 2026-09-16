@@ -1,0 +1,490 @@
+{
+  "session_id": "BWRat18_020513",
+  "animal_id": "BWRat18",
+  "local_path": "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513",
+  "availability": true,
+  "manifest_processing_status": "audited",
+  "qc_status": "WARN",
+  "recording_duration_s": 7591.0,
+  "metadata_recording_intervals_s": [
+    [
+      0.0,
+      973.9
+    ],
+    [
+      973.9,
+      9388.8
+    ]
+  ],
+  "lfp_support_intervals_s": [
+    [
+      0.0,
+      7591.0
+    ]
+  ],
+  "good_sleep_intervals_s": [
+    [
+      0.0,
+      7591.0
+    ]
+  ],
+  "candidate_analysis_intervals_s": [
+    [
+      0.0,
+      7591.0
+    ]
+  ],
+  "metadata_recording_end_s": 9388.8,
+  "lfp_support_end_s": 7591.0,
+  "good_sleep_support_end_s": 7591.0,
+  "duration_mismatch": true,
+  "n_channels": 135,
+  "lfp_sample_rate_hz": 1250.0,
+  "acquisition_sample_rate_hz": 20000.0,
+  "recommended_lfp_channel": 59,
+  "recommended_lfp_anatomy": "MotorCtx",
+  "theta_channel": 113,
+  "theta_channel_anatomy": "piriformL3",
+  "anatomical_regions": [
+    "MotorCtx",
+    "dhipp",
+    "piriformL3"
+  ],
+  "channels_without_anatomy_label": 7,
+  "stable_unit_count": 40,
+  "total_spike_count": 222046,
+  "spike_count_distribution": {
+    "min": 28.0,
+    "q25": 2048.0,
+    "median": 3977.0,
+    "q75": 6547.75,
+    "max": 48765.0,
+    "mean": 5551.15
+  },
+  "shank_unit_distribution": {
+    "1": 7,
+    "2": 4,
+    "3": 11,
+    "4": 7,
+    "5": 7,
+    "6": 4
+  },
+  "full_1s_bin_count": 7591,
+  "wake_seconds": 2012,
+  "nrem_seconds": 4158,
+  "rem_seconds": 611,
+  "ignore_seconds": 810,
+  "unlabeled_seconds": 171,
+  "fine_state_gap_seconds": 64,
+  "conflict_seconds": 90,
+  "out_of_bounds_annotation_count": 51,
+  "incomplete_tail_duration_s": 0.0,
+  "excluded_tail_spike_count": 0,
+  "metadata_valid": true,
+  "lfp_valid": true,
+  "spikes_valid": true,
+  "sleep_annotations_valid": true,
+  "wake_sleep_episodes_valid": true,
+  "all_annotation_rows_within_support": false,
+  "invalid_annotations_masked": true,
+  "label_coverage_arithmetic_valid": true,
+  "core_alignment_valid": true,
+  "causal_sample_valid": true,
+  "causal_contexts_checked_s": [
+    5,
+    10,
+    30
+  ],
+  "causal_sample_counts_by_context": {
+    "5": 6781,
+    "10": 6777,
+    "30": 6757
+  },
+  "findings": [
+    {
+      "severity": "warning",
+      "finding_type": "duration_mismatch",
+      "field": "BasicMetaData.RecordingFileIntervals_vs_LFP",
+      "observed_value": "Metadata ends at 9388.800000000 s while actual LFP support ends at 7591.000000000 s.",
+      "explanation": "The mismatch is retained as provenance; it does not redefine support from spikes or annotations."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8168.0, 8175.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8219.0, 8252.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8374.0, 8393.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8636.0, 8664.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8669.0, 8676.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[8990.0, 8996.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[9044.0, 9047.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[10313.0, 10321.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[10333.0, 10361.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[12464.0, 12498.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[12803.0, 12827.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13164.0, 13192.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13197.0, 13208.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13221.0, 13226.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13239.0, 13249.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13401.0, 13404.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13442.0, 13466.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13833.0, 13841.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[13915.0, 13922.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[14066.0, 14078.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[14665.0, 14671.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[15156.0, 15179.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[15235.0, 15274.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[15395.0, 15401.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[15661.0, 15691.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[15950.0, 15958.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[16202.0, 16217.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[17029.0, 17055.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "MATimePairFormat",
+      "observed_value": "[17820.0, 17853.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[10098.0, 10202.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[10212.0, 10308.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[12340.0, 12423.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[13738.0, 13822.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[14290.0, 14299.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[14312.0, 14351.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[14888.0, 14903.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[14960.0, 14966.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[14995.0, 15003.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[15107.0, 15139.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[15435.0, 15521.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[15877.0, 15918.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[16008.0, 16052.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[16629.0, 16633.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[16678.0, 16687.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[16882.0, 16905.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[16951.0, 16964.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[17581.0, 17587.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[17607.0, 17622.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[17765.0, 17793.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[18176.0, 18248.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_out_of_bounds",
+      "field": "WakeInterruptionTimePairFormat",
+      "observed_value": "[18439.0, 18536.0]",
+      "explanation": "outside recording bounds [0, 7591.0]"
+    },
+    {
+      "severity": "warning",
+      "finding_type": "unlabeled_coverage",
+      "field": "broad_state",
+      "observed_value": "171",
+      "explanation": "Complete 1-s bins without a broad WAKE/SLEEP label remain IGNORE."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "fine_state_gap",
+      "field": "fine_state",
+      "observed_value": "64",
+      "explanation": "Broad SLEEP bins without a unique NREM/REM state remain IGNORE."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_conflict",
+      "field": "target_label",
+      "observed_value": "90",
+      "explanation": "Conflicting annotations remain IGNORE and are not repaired."
+    }
+  ]
+}

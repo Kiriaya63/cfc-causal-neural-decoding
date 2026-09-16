@@ -1,0 +1,466 @@
+{
+  "canonical_roles": [
+    "recommended_lfp",
+    "theta",
+    "spindle",
+    "up_state"
+  ],
+  "sessions": {
+    "BWRat17_121712": {
+      "animal_id": "BWRat17",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 13,
+        "theta": 65,
+        "spindle": 13,
+        "up_state": 13
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat17_121912": {
+      "animal_id": "BWRat17",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 13,
+        "theta": 67,
+        "spindle": 13,
+        "up_state": 13
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat18_020513": {
+      "animal_id": "BWRat18",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 59,
+        "theta": 113,
+        "spindle": 59,
+        "up_state": 59
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat19_032413": {
+      "animal_id": "BWRat19",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 54,
+        "theta": 54,
+        "spindle": 54,
+        "up_state": 54
+      },
+      "unique_physical_channels": 1,
+      "equality_pairs": [
+        "recommended_lfp=theta",
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "theta=spindle",
+        "theta=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat19_032513": {
+      "animal_id": "BWRat19",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 24,
+        "theta": 8,
+        "spindle": 24,
+        "up_state": 24
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat20_101013": {
+      "animal_id": "BWRat20",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 22,
+        "theta": 25,
+        "spindle": 59,
+        "up_state": 22
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "BWRat20_101513": {
+      "animal_id": "BWRat20",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 61,
+        "theta": 22,
+        "spindle": 61,
+        "up_state": 61
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "BWRat21_121113": {
+      "animal_id": "BWRat21",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 14,
+        "theta": 60,
+        "spindle": 7,
+        "up_state": 14
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "BWRat21_121613": {
+      "animal_id": "BWRat21",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 22,
+        "theta": 55,
+        "spindle": 12,
+        "up_state": 22
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "BWRat21_121813": {
+      "animal_id": "BWRat21",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 22,
+        "theta": 55,
+        "spindle": 12,
+        "up_state": 22
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "Dino_061814_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 69,
+        "theta": 7,
+        "spindle": 92,
+        "up_state": 69
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "Dino_061914_ACC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 19,
+        "theta": 129,
+        "spindle": 19,
+        "up_state": 19
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Dino_061914_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 83,
+        "theta": 129,
+        "spindle": 83,
+        "up_state": 83
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Dino_062014_ACC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 18,
+        "theta": 129,
+        "spindle": 14,
+        "up_state": 18
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "recommended_lfp=up_state"
+      ]
+    },
+    "Dino_062014_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 83,
+        "theta": 129,
+        "spindle": 83,
+        "up_state": 83
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Dino_072114_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 120,
+        "theta": 120,
+        "spindle": 106,
+        "up_state": 120
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=theta",
+        "recommended_lfp=up_state",
+        "theta=up_state"
+      ]
+    },
+    "Dino_072314_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 120,
+        "theta": 120,
+        "spindle": 106,
+        "up_state": 120
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=theta",
+        "recommended_lfp=up_state",
+        "theta=up_state"
+      ]
+    },
+    "Dino_072414_mPFC": {
+      "animal_id": "Dino",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 120,
+        "theta": 120,
+        "spindle": 106,
+        "up_state": 120
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=theta",
+        "recommended_lfp=up_state",
+        "theta=up_state"
+      ]
+    },
+    "20140526_277um": {
+      "animal_id": "JennBuzsaki22",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 33,
+        "theta": 65,
+        "spindle": 33,
+        "up_state": 33
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "20140527_421um": {
+      "animal_id": "JennBuzsaki22",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 9,
+        "theta": 65,
+        "spindle": 9,
+        "up_state": 9
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "20140528_565um": {
+      "animal_id": "JennBuzsaki22",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 9,
+        "theta": 65,
+        "spindle": 9,
+        "up_state": 9
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Bogey_012615": {
+      "animal_id": "Bogey",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 46,
+        "theta": 67,
+        "spindle": 46,
+        "up_state": 46
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Splinter_020515": {
+      "animal_id": "Splinter",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 42,
+        "theta": 42,
+        "spindle": 42,
+        "up_state": 42
+      },
+      "unique_physical_channels": 1,
+      "equality_pairs": [
+        "recommended_lfp=theta",
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "theta=spindle",
+        "theta=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Splinter_020915": {
+      "animal_id": "Splinter",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 43,
+        "theta": 12,
+        "spindle": 43,
+        "up_state": 43
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    },
+    "Rizzo_022615": {
+      "animal_id": "Rizzo",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 60,
+        "theta": 1,
+        "spindle": 17,
+        "up_state": 1
+      },
+      "unique_physical_channels": 3,
+      "equality_pairs": [
+        "theta=up_state"
+      ]
+    },
+    "Rizzo_022715": {
+      "animal_id": "Rizzo",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 40,
+        "theta": 1,
+        "spindle": 52,
+        "up_state": 17
+      },
+      "unique_physical_channels": 4,
+      "equality_pairs": []
+    },
+    "Templeton_032415": {
+      "animal_id": "Templeton",
+      "canonical_roles_one_based": {
+        "recommended_lfp": 27,
+        "theta": 57,
+        "spindle": 27,
+        "up_state": 27
+      },
+      "unique_physical_channels": 2,
+      "equality_pairs": [
+        "recommended_lfp=spindle",
+        "recommended_lfp=up_state",
+        "spindle=up_state"
+      ]
+    }
+  },
+  "unique_physical_channel_count_distribution": {
+    "1": 2,
+    "2": 17,
+    "3": 7,
+    "4": 1
+  },
+  "pairwise_role_equality_session_counts": {
+    "recommended_lfp=spindle": 16,
+    "recommended_lfp=up_state": 25,
+    "spindle=up_state": 16,
+    "recommended_lfp=theta": 5,
+    "theta=spindle": 2,
+    "theta=up_state": 6
+  },
+  "m4_recommended_equals_theta_sessions": [
+    "BWRat19_032413",
+    "Dino_072114_mPFC",
+    "Dino_072314_mPFC",
+    "Dino_072414_mPFC",
+    "Splinter_020515"
+  ],
+  "animal_family_pattern_counts": {
+    "BWRat17": {
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 2
+    },
+    "BWRat18": {
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    },
+    "BWRat19": {
+      "[[\"recommended_lfp\", \"spindle\", \"theta\", \"up_state\"]]": 1,
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    },
+    "BWRat20": {
+      "[[\"recommended_lfp\", \"up_state\"], [\"spindle\"], [\"theta\"]]": 1,
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    },
+    "BWRat21": {
+      "[[\"recommended_lfp\", \"up_state\"], [\"spindle\"], [\"theta\"]]": 3
+    },
+    "Dino": {
+      "[[\"recommended_lfp\", \"up_state\"], [\"spindle\"], [\"theta\"]]": 2,
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 3,
+      "[[\"recommended_lfp\", \"theta\", \"up_state\"], [\"spindle\"]]": 3
+    },
+    "JennBuzsaki22": {
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 3
+    },
+    "Bogey": {
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    },
+    "Splinter": {
+      "[[\"recommended_lfp\", \"spindle\", \"theta\", \"up_state\"]]": 1,
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    },
+    "Rizzo": {
+      "[[\"recommended_lfp\"], [\"spindle\"], [\"theta\", \"up_state\"]]": 1,
+      "[[\"recommended_lfp\"], [\"spindle\"], [\"theta\"], [\"up_state\"]]": 1
+    },
+    "Templeton": {
+      "[[\"recommended_lfp\", \"spindle\", \"up_state\"], [\"theta\"]]": 1
+    }
+  },
+  "detector_cross_source_mismatches": []
+}

@@ -1,0 +1,145 @@
+{
+  "session_id": "Splinter_020915",
+  "animal_id": "Splinter",
+  "local_path": "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915",
+  "availability": true,
+  "manifest_processing_status": "audited",
+  "qc_status": "WARN",
+  "recording_duration_s": 23487.5,
+  "metadata_recording_intervals_s": [
+    [
+      0.0,
+      6421.0
+    ],
+    [
+      6421.0,
+      10385.4
+    ],
+    [
+      10385.4,
+      18646.3
+    ],
+    [
+      18646.3,
+      23487.5
+    ]
+  ],
+  "lfp_support_intervals_s": [
+    [
+      0.0,
+      23487.5
+    ]
+  ],
+  "good_sleep_intervals_s": [
+    [
+      0.0,
+      23487.5
+    ]
+  ],
+  "candidate_analysis_intervals_s": [
+    [
+      0.0,
+      23487.5
+    ]
+  ],
+  "metadata_recording_end_s": 23487.5,
+  "lfp_support_end_s": 23487.5,
+  "good_sleep_support_end_s": 23487.5,
+  "duration_mismatch": false,
+  "n_channels": 54,
+  "lfp_sample_rate_hz": 1250.0,
+  "acquisition_sample_rate_hz": 20000.0,
+  "recommended_lfp_channel": 43,
+  "recommended_lfp_anatomy": "OFC",
+  "theta_channel": 12,
+  "theta_channel_anatomy": "OFC",
+  "anatomical_regions": [
+    "OFC"
+  ],
+  "channels_without_anatomy_label": 6,
+  "stable_unit_count": 51,
+  "total_spike_count": 2132698,
+  "spike_count_distribution": {
+    "min": 938.0,
+    "q25": 6969.0,
+    "median": 14990.0,
+    "q75": 35562.0,
+    "max": 451250.0,
+    "mean": 41817.60784313725
+  },
+  "shank_unit_distribution": {
+    "2": 6,
+    "3": 8,
+    "4": 16,
+    "5": 17,
+    "6": 4
+  },
+  "full_1s_bin_count": 23487,
+  "wake_seconds": 3852,
+  "nrem_seconds": 8336,
+  "rem_seconds": 1064,
+  "ignore_seconds": 10235,
+  "unlabeled_seconds": 8956,
+  "fine_state_gap_seconds": 241,
+  "conflict_seconds": 86,
+  "out_of_bounds_annotation_count": 0,
+  "incomplete_tail_duration_s": 0.5,
+  "excluded_tail_spike_count": 85,
+  "metadata_valid": true,
+  "lfp_valid": true,
+  "spikes_valid": true,
+  "sleep_annotations_valid": true,
+  "wake_sleep_episodes_valid": true,
+  "all_annotation_rows_within_support": true,
+  "invalid_annotations_masked": true,
+  "label_coverage_arithmetic_valid": true,
+  "core_alignment_valid": true,
+  "causal_sample_valid": true,
+  "causal_contexts_checked_s": [
+    5,
+    10,
+    30
+  ],
+  "causal_sample_counts_by_context": {
+    "5": 13252,
+    "10": 13252,
+    "30": 13252
+  },
+  "findings": [
+    {
+      "severity": "warning",
+      "finding_type": "unlabeled_coverage",
+      "field": "broad_state",
+      "observed_value": "8956",
+      "explanation": "Complete 1-s bins without a broad WAKE/SLEEP label remain IGNORE."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "fine_state_gap",
+      "field": "fine_state",
+      "observed_value": "241",
+      "explanation": "Broad SLEEP bins without a unique NREM/REM state remain IGNORE."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "annotation_conflict",
+      "field": "target_label",
+      "observed_value": "86",
+      "explanation": "Conflicting annotations remain IGNORE and are not repaired."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "incomplete_tail",
+      "field": "analysis_support",
+      "observed_value": "0.5",
+      "explanation": "The non-integer tail cannot form a complete 1-s target bin."
+    },
+    {
+      "severity": "warning",
+      "finding_type": "excluded_tail_spikes",
+      "field": "stable_spikes",
+      "observed_value": "85",
+      "explanation": "Spikes outside complete target bins are counted but not silently used."
+    }
+  ]
+}

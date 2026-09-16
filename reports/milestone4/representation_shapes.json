@@ -1,0 +1,2162 @@
+{
+  "BWRat17_121712": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat17_121912": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        35
+      ],
+      "neuron_mask": [
+        35
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        35
+      ],
+      "neuron_mask": [
+        35
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        35
+      ],
+      "neuron_mask": [
+        35
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat18_020513": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        40
+      ],
+      "neuron_mask": [
+        40
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        40
+      ],
+      "neuron_mask": [
+        40
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        40
+      ],
+      "neuron_mask": [
+        40
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat19_032413": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        50
+      ],
+      "neuron_mask": [
+        50
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat19_032513": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        61
+      ],
+      "neuron_mask": [
+        61
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        61
+      ],
+      "neuron_mask": [
+        61
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        61
+      ],
+      "neuron_mask": [
+        61
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat20_101013": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        22
+      ],
+      "neuron_mask": [
+        22
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        22
+      ],
+      "neuron_mask": [
+        22
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        22
+      ],
+      "neuron_mask": [
+        22
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat20_101513": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        66
+      ],
+      "neuron_mask": [
+        66
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        66
+      ],
+      "neuron_mask": [
+        66
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        66
+      ],
+      "neuron_mask": [
+        66
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat21_121113": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        32
+      ],
+      "neuron_mask": [
+        32
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        32
+      ],
+      "neuron_mask": [
+        32
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        32
+      ],
+      "neuron_mask": [
+        32
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat21_121613": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        21
+      ],
+      "neuron_mask": [
+        21
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        21
+      ],
+      "neuron_mask": [
+        21
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        21
+      ],
+      "neuron_mask": [
+        21
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "BWRat21_121813": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        12
+      ],
+      "neuron_mask": [
+        12
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        12
+      ],
+      "neuron_mask": [
+        12
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        12
+      ],
+      "neuron_mask": [
+        12
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_061814_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        113
+      ],
+      "neuron_mask": [
+        113
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        113
+      ],
+      "neuron_mask": [
+        113
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        113
+      ],
+      "neuron_mask": [
+        113
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_061914_ACC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        52
+      ],
+      "neuron_mask": [
+        52
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        52
+      ],
+      "neuron_mask": [
+        52
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        52
+      ],
+      "neuron_mask": [
+        52
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_061914_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        60
+      ],
+      "neuron_mask": [
+        60
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        60
+      ],
+      "neuron_mask": [
+        60
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        60
+      ],
+      "neuron_mask": [
+        60
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_062014_ACC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        24
+      ],
+      "neuron_mask": [
+        24
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        24
+      ],
+      "neuron_mask": [
+        24
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        24
+      ],
+      "neuron_mask": [
+        24
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_062014_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_072114_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        18
+      ],
+      "neuron_mask": [
+        18
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        18
+      ],
+      "neuron_mask": [
+        18
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        18
+      ],
+      "neuron_mask": [
+        18
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_072314_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        16
+      ],
+      "neuron_mask": [
+        16
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        16
+      ],
+      "neuron_mask": [
+        16
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        16
+      ],
+      "neuron_mask": [
+        16
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Dino_072414_mPFC": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        46
+      ],
+      "neuron_mask": [
+        46
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        46
+      ],
+      "neuron_mask": [
+        46
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        46
+      ],
+      "neuron_mask": [
+        46
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "20140526_277um": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        62
+      ],
+      "neuron_mask": [
+        62
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        62
+      ],
+      "neuron_mask": [
+        62
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        62
+      ],
+      "neuron_mask": [
+        62
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "20140527_421um": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        29
+      ],
+      "neuron_mask": [
+        29
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        29
+      ],
+      "neuron_mask": [
+        29
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        29
+      ],
+      "neuron_mask": [
+        29
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "20140528_565um": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        33
+      ],
+      "neuron_mask": [
+        33
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        33
+      ],
+      "neuron_mask": [
+        33
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        33
+      ],
+      "neuron_mask": [
+        33
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Bogey_012615": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        36
+      ],
+      "neuron_mask": [
+        36
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Splinter_020515": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        27
+      ],
+      "neuron_mask": [
+        27
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        27
+      ],
+      "neuron_mask": [
+        27
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        27
+      ],
+      "neuron_mask": [
+        27
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Splinter_020915": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        51
+      ],
+      "neuron_mask": [
+        51
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        51
+      ],
+      "neuron_mask": [
+        51
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        51
+      ],
+      "neuron_mask": [
+        51
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Rizzo_022615": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        26
+      ],
+      "neuron_mask": [
+        26
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        26
+      ],
+      "neuron_mask": [
+        26
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        26
+      ],
+      "neuron_mask": [
+        26
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Rizzo_022715": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        93
+      ],
+      "neuron_mask": [
+        93
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        93
+      ],
+      "neuron_mask": [
+        93
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        93
+      ],
+      "neuron_mask": [
+        93
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  },
+  "Templeton_032415": {
+    "5": {
+      "steps": 250,
+      "lfp_waveform": [
+        250,
+        1
+      ],
+      "lfp_physio": [
+        250,
+        4
+      ],
+      "spike_population_rate": [
+        250,
+        1
+      ],
+      "spike_set_counts": [
+        250,
+        10
+      ],
+      "neuron_mask": [
+        10
+      ],
+      "causal_validity_mask": [
+        250,
+        4
+      ]
+    },
+    "10": {
+      "steps": 500,
+      "lfp_waveform": [
+        500,
+        1
+      ],
+      "lfp_physio": [
+        500,
+        4
+      ],
+      "spike_population_rate": [
+        500,
+        1
+      ],
+      "spike_set_counts": [
+        500,
+        10
+      ],
+      "neuron_mask": [
+        10
+      ],
+      "causal_validity_mask": [
+        500,
+        4
+      ]
+    },
+    "30": {
+      "steps": 1500,
+      "lfp_waveform": [
+        1500,
+        1
+      ],
+      "lfp_physio": [
+        1500,
+        4
+      ],
+      "spike_population_rate": [
+        1500,
+        1
+      ],
+      "spike_set_counts": [
+        1500,
+        10
+      ],
+      "neuron_mask": [
+        10
+      ],
+      "causal_validity_mask": [
+        1500,
+        4
+      ]
+    }
+  }
+}

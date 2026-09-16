@@ -1,0 +1,20 @@
+{
+  "basename": "BWRat17_121712",
+  "common_time_origin_s": 0.0,
+  "common_end_s": 6059.4,
+  "lfp_duration_matches_metadata": true,
+  "lfp_has_complete_timepoints": true,
+  "spikes_within_recording": true,
+  "spikes_on_acquisition_grid": true,
+  "wake_sleep_episodes_valid": true,
+  "all_sleep_rows_within_recording": false,
+  "sleep_interval_issue_count": 2,
+  "core_alignment_valid": true,
+  "notes": [
+    "LFP index i maps to seconds as i / lfp_sample_rate_hz.",
+    "Spike timestamps are already seconds from the same session origin.",
+    "Sleep annotations are start/stop seconds at 1-second resolution.",
+    "Use half-open [start, stop) intervals when assigning continuous times.",
+    "Out-of-record annotation rows are preserved in the raw result; use valid_only=True for aligned analyses."
+  ]
+}

@@ -1,0 +1,2 @@
+session_id,source_a,claim_a,source_b,claim_b,conflict_type,exclude_session,model_input_allowed
+Templeton_032415,WatsonSleepHomestasis2016Table.xlsx,OFC,ChannelAnatomy.csv recommended channel 27,mPFC,anatomical_label_disagreement,false,false

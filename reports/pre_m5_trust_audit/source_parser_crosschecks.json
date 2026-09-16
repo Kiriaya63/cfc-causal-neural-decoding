@@ -1,0 +1,37 @@
+{
+  "mat_xml_disagreements": [],
+  "geometry_summary": {
+    "nonzero_remainder_sessions": [
+      "Dino_061914_ACC",
+      "Dino_061914_mPFC"
+    ],
+    "remainder_ge_frame_sessions": [],
+    "mat_xml_scalar_disagreement_sessions": [],
+    "mat_xml_group_disagreement_sessions": []
+  },
+  "support_summary": {
+    "all_raw_parser_exact": true,
+    "all_parser_m3_match": true,
+    "alternative_sleepstop_would_shorten": [
+      "BWRat20_101013"
+    ]
+  },
+  "label_summary": {
+    "session_reconstructions_all_equal": true,
+    "timepair_intervalset_mismatch_rows": []
+  },
+  "spike_summary": {
+    "raw_parser_all_exact": true,
+    "xml_pair_missing_sessions": [
+      "BWRat20_101513",
+      "BWRat21_121613",
+      "BWRat21_121813",
+      "Dino_072414_mPFC"
+    ],
+    "cellids_partition_incomplete_sessions": [],
+    "duplicate_timestamp_sessions": [],
+    "declared_grid_mismatch_sessions": [
+      "20140526_277um"
+    ]
+  }
+}

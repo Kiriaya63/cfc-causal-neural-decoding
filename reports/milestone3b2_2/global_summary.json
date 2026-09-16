@@ -1,0 +1,244 @@
+{
+  "total_sessions": 27,
+  "total_animals": 11,
+  "status_counts": {
+    "PASS": 0,
+    "WARN": 27,
+    "FAIL": 0
+  },
+  "pipeline_valid_sessions": 27,
+  "total_analysis_duration_s": 462250.7632,
+  "total_supervised_seconds": 203805,
+  "verified_physical_lfp_duration_s": 462250.7632,
+  "verified_physical_lfp_sessions": 27,
+  "raw_unit_count_all_27": {
+    "n": 27,
+    "min": 10.0,
+    "median": 36.0,
+    "max": 113.0
+  },
+  "validated_unit_count": {
+    "n": 27,
+    "min": 10.0,
+    "median": 36.0,
+    "max": 113.0
+  },
+  "valid_supervision": {
+    "n": 27,
+    "min": 0.1036579704762789,
+    "median": 0.44376210691175866,
+    "max": 0.8932946910815439
+  },
+  "support_resolution_methods": {
+    "finite_constraints_intersected_with_verified_lfp_support": 22,
+    "complete_frame_prefix_with_incomplete_tail": 2,
+    "open_end_clipped_to_verified_lfp_support": 3
+  },
+  "open_ended_sessions": [
+    "20140526_277um",
+    "20140527_421um",
+    "20140528_565um"
+  ],
+  "duration_mismatch_sessions": [
+    "BWRat18_020513",
+    "BWRat20_101513",
+    "Dino_061914_ACC",
+    "Dino_061914_mPFC",
+    "20140526_277um",
+    "20140527_421um",
+    "20140528_565um",
+    "Bogey_012615"
+  ],
+  "core_OOB_count": 0,
+  "auxiliary_OOB_count": 2224,
+  "OOB_fields": {
+    "REMEpisodeTimePairFormat": 0,
+    "REMTimePairFormat": 0,
+    "SWSEpisodeTimePairFormat": 0,
+    "SWSPacketTimePairFormat": 0,
+    "MATimePairFormat": 1118,
+    "WakeInterruptionTimePairFormat": 1106,
+    "WakeTimePairFormat": 0,
+    "SleepTimePairFormat": 0,
+    "WakeSleepTimePairFormat": 0
+  },
+  "conflict_types_seconds": {
+    "WAKE+MA": 358.0,
+    "WAKE+WakeInterruption": 2544.0,
+    "WAKE+SLEEP+WakeInterruption": 110.0,
+    "WAKE+SLEEP": 10.0,
+    "WAKE+SLEEP+MA": 21.0,
+    "WAKE+SLEEP+NREM": 70.0
+  },
+  "conflict_duration_distribution": {
+    "n": 27,
+    "min": 0.0,
+    "median": 86.0,
+    "max": 713.0
+  },
+  "LFP_anatomies": {
+    "ACC": 6,
+    "MotorCtx": 3,
+    "mPFC": 14,
+    "OFC": 4
+  },
+  "theta_anatomies": {
+    "dhipp": 3,
+    "piriformL3": 1,
+    "MotorCtx": 2,
+    "ACC": 3,
+    "": 5,
+    "mPFC": 5,
+    "dHipp": 4,
+    "OFC": 4
+  },
+  "region_session_availability": {
+    "ACC": 12,
+    "dhipp": 4,
+    "MotorCtx": 3,
+    "piriformL3": 1,
+    "CeA": 2,
+    "mPFC": 16,
+    "dHipp": 4,
+    "OFC": 4
+  },
+  "missing_core_classes": {
+    "BWRat19_032413": [
+      "REM"
+    ]
+  },
+  "protocol_breaking_sessions": {},
+  "new_conflict_types_since_m3b1_1": [
+    "WAKE+SLEEP+MA"
+  ],
+  "missing_theta_anatomy_sessions": [
+    "BWRat21_121113",
+    "Dino_061914_ACC",
+    "Dino_061914_mPFC",
+    "Dino_062014_ACC",
+    "Dino_062014_mPFC"
+  ],
+  "incomplete_tail_sessions": [
+    "Dino_061914_ACC",
+    "Dino_061914_mPFC"
+  ],
+  "invalid_frame_geometry_sessions": [],
+  "declared_grid_mismatch_sessions": [
+    "20140526_277um"
+  ],
+  "zero_duration_provenance_sessions": [
+    "Dino_061914_ACC",
+    "Dino_061914_mPFC"
+  ],
+  "metadata_shorter_than_verified_LFP": [],
+  "GoodSleep_shorter_than_verified_LFP": [],
+  "wake_fraction": {
+    "n": 27,
+    "min": 0.0217714232661777,
+    "median": 0.15928689080515454,
+    "max": 0.4072631314400603
+  },
+  "nrem_fraction": {
+    "n": 27,
+    "min": 0.07120972983009934,
+    "median": 0.21201981574830522,
+    "max": 0.5477539191147411
+  },
+  "rem_fraction": {
+    "n": 27,
+    "min": 0.0,
+    "median": 0.039603960396039604,
+    "max": 0.15931812946325732
+  },
+  "ignore_fraction": {
+    "n": 27,
+    "min": 0.10670530891845606,
+    "median": 0.5562378930882413,
+    "max": 0.8963420295237211
+  },
+  "lowest_valid_supervision": [
+    {
+      "BWRat21_121613": 0.1036579704762789
+    },
+    {
+      "Dino_061914_mPFC": 0.1440150693532736
+    },
+    {
+      "Dino_061914_ACC": 0.14806781208973116
+    },
+    {
+      "20140527_421um": 0.2063014476298609
+    },
+    {
+      "BWRat20_101013": 0.24700688416641725
+    }
+  ],
+  "highest_IGNORE": [
+    {
+      "BWRat21_121613": 0.8963420295237211
+    },
+    {
+      "Dino_061914_mPFC": 0.8559849306467264
+    },
+    {
+      "Dino_061914_ACC": 0.8519321879102688
+    },
+    {
+      "20140527_421um": 0.7936985523701391
+    },
+    {
+      "BWRat20_101013": 0.7529931158335827
+    }
+  ],
+  "lowest_REM": [
+    {
+      "BWRat19_032413": 0.0
+    },
+    {
+      "BWRat21_121613": 0.010676817380001856
+    },
+    {
+      "20140527_421um": 0.011637808685779166
+    },
+    {
+      "Dino_072414_mPFC": 0.012492428831011508
+    },
+    {
+      "20140526_277um": 0.013336280577659888
+    }
+  ],
+  "lowest_units": [
+    {
+      "Templeton_032415": 10
+    },
+    {
+      "BWRat21_121813": 12
+    },
+    {
+      "Dino_072314_mPFC": 16
+    },
+    {
+      "Dino_072114_mPFC": 18
+    },
+    {
+      "BWRat21_121613": 21
+    }
+  ],
+  "highest_units": [
+    {
+      "Dino_061814_mPFC": 113
+    },
+    {
+      "Rizzo_022715": 93
+    },
+    {
+      "BWRat20_101513": 66
+    },
+    {
+      "20140526_277um": 62
+    },
+    {
+      "BWRat19_032513": 61
+    }
+  ]
+}

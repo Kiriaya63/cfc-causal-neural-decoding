@@ -1,0 +1,72 @@
+protocol_version: m4-v1.1.0
+decision_grid_hz: 1
+observation_grid_hz: 50
+observation_interval_s: 0.02
+context_lengths_s: [5, 10, 30]
+target: "state on [t-1,t) using frozen M2 WAKE/NREM/REM/IGNORE"
+lfp:
+  source_rate_hz: 1250
+  main_waveform_role: good_eeg
+  main_waveform_shape: "[T,1]"
+  provenance_roles: [good_eeg, theta, spindle, up_state]
+  role_mapping_is_model_input: false
+  value_unit: ADC_count
+  waveform:
+    design: kaiser_window_fir
+    passband_edge_hz: 20
+    stopband_edge_hz: 25
+    cutoff_hz: 22.5
+    required_stopband_attenuation_db: 60
+    numtaps: 909
+    kaiser_beta: 5.65326
+    group_delay_s: 0.3632
+    full_history_warmup_s: 0.7264
+    decimation_factor: 25
+    phase: last_input_sample_before_observation_right_edge
+  physiological_features:
+    filters: causal_order_4_butterworth_sos
+    bands_hz:
+      delta: [0.5, 4]
+      theta: [4, 10]
+      sigma: [10, 16]
+      broadband: [0.5, 20]
+    source_roles:
+      delta: good_eeg
+      theta: theta
+      sigma: spindle
+      broadband: good_eeg
+    operation: "causal SOS -> square -> trailing 2-s mean -> log1p"
+    iir_settling_rule: "impulse-response suffix <= 1e-4 of peak"
+    iir_settling_search_s: 60
+spikes:
+  source: unchanged stable spike timestamps in seconds
+  bins: "50-Hz half-open [start,stop)"
+  branch_a: "sum(counts)/(N_units*0.02s), shape [T,1]"
+  branch_b: "local-unit counts, shape [T,N_units], variable N"
+  padding: batching_only_with_boolean_neuron_mask
+normalization:
+  statistics_fit_now: false
+  future_fit_scope: M5_training_animals_only
+  deterministic_transforms: [count_to_rate, log1p, dtype_conversion]
+cache:
+  root: cache/milestone4
+  format: rebuildable_versioned_npy_memmap
+  identity: protocol_hash_plus_implementation_hash
+  source_integrity: sha256_content_fingerprint
+  array_integrity: [shape, dtype, file_size, sha256]
+  raw_data_is_source_of_truth: true
+model_input:
+  allowed:
+    - neural_observation_values
+    - observation_delta_t_or_relative_elapsed_timing_only
+    - causal_validity_masks
+    - modality_masks
+    - computational_padding_masks
+  absolute_recording_or_session_time_allowed: false
+  provenance_identifiers_allowed: false
+anatomy:
+  model_input_allowed: false
+  conflict_registry: config/fcx1_anatomy_provenance_conflicts.csv
+fairness:
+  regular_benchmark_information: "same 50-Hz causal LFP and spike information for every model"
+  raw_event_interface_reserved_for: M8

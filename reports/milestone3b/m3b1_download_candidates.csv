@@ -1,0 +1,7 @@
+animal_id,recommended_session,compressed_size_bytes,compressed_size,reason,expected_new_coverage
+JennBuzsaki22,20140528_565um,2567266345,2.3 GB,Smallest of three official sessions; adds currently uncovered JennBuzsaki22 and mPFC+dHipp configuration,one new animal
+Bogey,Bogey_012615,4273115481,3.9 GB,Only official Bogey session; adds an uncovered mPFC animal,one new animal
+BWRat21,BWRat21_121613,2629442277,2.4 GB,Smallest of three official sessions; table identifies a ketamine condition that must remain explicit during audit,one new animal
+Dino,Dino_072114_mPFC,2155009132,2.0 GB,Smallest of eight official Dino sessions; adds an uncovered mPFC animal; table notes few units and almost no assemblies,one new animal
+Rizzo,Rizzo_022715,3942532487,3.6 GB,Smaller of two official Rizzo sessions; adds an uncovered OFC animal,one new animal
+Templeton,Templeton_032415,3690380449,3.4 GB,Only official Templeton session; table warns of unstable units and high-frequency noise,one new animal

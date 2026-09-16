@@ -1,0 +1,53 @@
+{
+  "alignment": {
+    "basename": "BWRat17_121712",
+    "common_time_origin_s": 0.0,
+    "common_end_s": 6059.4,
+    "lfp_duration_matches_metadata": true,
+    "lfp_has_complete_timepoints": true,
+    "spikes_within_recording": true,
+    "spikes_on_acquisition_grid": true,
+    "wake_sleep_episodes_valid": true,
+    "all_sleep_rows_within_recording": false,
+    "sleep_interval_issue_count": 2,
+    "core_alignment_valid": true,
+    "notes": [
+      "LFP index i maps to seconds as i / lfp_sample_rate_hz.",
+      "Spike timestamps are already seconds from the same session origin.",
+      "Sleep annotations are start/stop seconds at 1-second resolution.",
+      "Use half-open [start, stop) intervals when assigning continuous times.",
+      "Out-of-record annotation rows are preserved in the raw result; use valid_only=True for aligned analyses."
+    ]
+  },
+  "label_coverage": {
+    "wake_seconds": 2426,
+    "nrem_seconds": 952,
+    "rem_seconds": 103,
+    "ignore_seconds": 2578,
+    "unlabeled_seconds": 2055,
+    "conflict_seconds": 0,
+    "out_of_bounds_annotation_count": 2,
+    "full_bin_count": 6059,
+    "excluded_tail_seconds": 0.4
+  },
+  "spike_bins": {
+    "shape": [
+      6059,
+      50
+    ],
+    "unit": "spikes/bin",
+    "excluded_tail_spikes": 7
+  },
+  "sample": {
+    "session_id": "BWRat17_121712",
+    "decision_time_s": 2431.0,
+    "context_start_s": 2401.0,
+    "context_stop_s": 2431.0,
+    "target_start_s": 2430.0,
+    "target_stop_s": 2431.0,
+    "target_label": "WAKE",
+    "valid": true,
+    "invalid_reason": "",
+    "target_kind": "retrospective_state"
+  }
+}

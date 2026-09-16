@@ -1,0 +1,2585 @@
+{
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712.eeg": {
+    "size": 1090692000,
+    "mtime_ns": 1464498834000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712.xml": {
+    "size": 49266,
+    "mtime_ns": 1464498834000000000,
+    "sha256": "effb981904c21c28aecd5f27170715942147742b3dc692ae3bf630cb80a20a22"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_BasicMetaData.mat": {
+    "size": 872,
+    "mtime_ns": 1464498826000000000,
+    "sha256": "0a6516874dda54a206ad2c34e3f0b5a7f665e7ba8caa052c22a5d93abc4a7e16"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_CellClassificationOutput.mat": {
+    "size": 957,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "128b43b1432fab00d7c5fc83d7977ec915e793ea31e07d0f7ab30a365dc5c6b4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_CellIDs.mat": {
+    "size": 362,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "bcd7212297f185c6ad5c088497a3c46411ffeacecc14b4afece9022dc84a3fd6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_ChannelAnatomy.csv": {
+    "size": 484,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "18e3357598fad7acca4b991c849a1177041583a7d3269281f03d5804b4bb7fca"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_ClusteringNotes.csv": {
+    "size": 419,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "305575f676deff0c14a9b07300d0cc8eca9224dd2a440deb9b5ac15ad379d724"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_ClusterQualityMeasures.mat": {
+    "size": 33475484,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "61a1dd9c59b8f2bb9316779cb8bcd0b3d674eb415bcdbf416a9206bace04165a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_EMGCorr.mat": {
+    "size": 108918,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "867ba0e79c2914b09ac90467c88242a43db88e6667a7ae504404fe1b0b4e363c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_funcsynapsesMoreStringent.mat": {
+    "size": 591276,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "37d03dbf49417e4571b17f63eeac3e14a0a848600fe6104c44551a5868782536"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_GoodSleepInterval.mat": {
+    "size": 371,
+    "mtime_ns": 1464498825000000000,
+    "sha256": "44d7ec72c6c41a4daa367e9add6d5d038d1af5e3e13b82273881395d6c6d9b3a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_MeanWaveforms.mat": {
+    "size": 13041,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "c9ef3cee813cd7c44dad6d8f9f70a72c46591f7b549e22176d761759381a9cb6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_Motion.mat": {
+    "size": 22306,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "9d82279945bc46be080e061e5622702b2078e43fad9cca9721c80242b394bd64"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_SAll.mat": {
+    "size": 9099976,
+    "mtime_ns": 1464498835000000000,
+    "sha256": "d45b7e557e2f46125548970e71a217a42c6c56cead3ec2f9e1f76b658a98f3d7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_SBurstFiltered.mat": {
+    "size": 5607859,
+    "mtime_ns": 1464498835000000000,
+    "sha256": "1560dfbc0ef17276474d073a18efe630be6bc654c6a57ad765a77537b582061f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_Spindles.mat": {
+    "size": 1755562,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "b03f62243cc5ea5dc34fd33e4e8cde6206dc043f37a10034f133a04f93260dde"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_SStable.mat": {
+    "size": 5648423,
+    "mtime_ns": 1464498836000000000,
+    "sha256": "72306a1b3e58c56c040652fac1e5147686455f8e5b04de498039ff5db847ecf4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_SSubtypes.mat": {
+    "size": 11297165,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "3d465753e55235113b46662dca4e1542a43a9a63f80b73cdd081101f6e79f6c7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_UPDOWNINtervals.mat": {
+    "size": 139837,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "14c51e32511037739a185a5e6ada970111c61ae389224c4c951c324de1b0f97f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121712\\BWRat17_121712_WSRestrictedIntervals.mat": {
+    "size": 2775,
+    "mtime_ns": 1464498834000000000,
+    "sha256": "181b846869ec30c41979b31e0605ddf2a82f5236024bfec3afe1d14ad789291a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912.eeg": {
+    "size": 1192582750,
+    "mtime_ns": 1464498846000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912.xml": {
+    "size": 41078,
+    "mtime_ns": 1464498846000000000,
+    "sha256": "c6c2798c6c940d2072ae2628ea4d4b0f6fdf891b18820f4885dff4adbd0eb36a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_BasicMetaData.mat": {
+    "size": 876,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "655d0dae645d810649b5359f2dea63013fe1522516d310488ef2eb63661bbec2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_CellClassificationOutput.mat": {
+    "size": 705,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "dd6356cf57c437e52121705d386fb34e520f697ad6169f79a98a8f006b422ac4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_CellIDs.mat": {
+    "size": 304,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "9c4d04000bc7dfc9eaf36ee06fb671f1c38a6a0c73512628a15031f111ac24f7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_ChannelAnatomy.csv": {
+    "size": 494,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "4c8ba52ac313bfe4c0de78cbf5662a2edb4f608a73ba404838344398385057d2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_ClusteringNotes.csv": {
+    "size": 140,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "1dff37542a39560826cc40b31a4cf6c4f13f9c956f973a87e74006ac1c4c191e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_ClusterQualityMeasures.mat": {
+    "size": 15631951,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "53dea88d5db8c83e1a0d14c5f6f857d1c36990a5aedcc8595e2534655f9df2ef"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_EMGCorr.mat": {
+    "size": 117132,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "76461f47f261be7275407fcf60bbee740a391d8e4f93398fcd902a5afe7a8d5a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_funcsynapsesMoreStringent.mat": {
+    "size": 315699,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "78419599eca31d0376fd96af669843b4249d130ba56105206792e2d8d0078039"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_GoodSleepInterval.mat": {
+    "size": 375,
+    "mtime_ns": 1464498837000000000,
+    "sha256": "72e7982a19ba96ed0b7173f03a470c4b5c701405fdd9c5bb91af5611c8b8bfa6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_MeanWaveforms.mat": {
+    "size": 9225,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "55909be3f3c0983c14b554f32a5daae028d478e9f56a15ca0412e694aa0edbc9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_Motion.mat": {
+    "size": 24475,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "2e28aa78d78e6ab46510c763424ef58bf4134a16879bc693d832ee6146f01088"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_SAll.mat": {
+    "size": 3321721,
+    "mtime_ns": 1464498847000000000,
+    "sha256": "a52da7a90f585d9a297887afa1183afb51db6ab25a7215da6dbda539aff9826f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_SBurstFiltered.mat": {
+    "size": 3295970,
+    "mtime_ns": 1464498847000000000,
+    "sha256": "178dfd8e7668a17a83dba0613a222028c26df79eb56486a721ef8e9b8ae2e666"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_Spindles.mat": {
+    "size": 5185495,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "d8ef8ceb980cff82ecfb07fc8631665919be02b3eb2a9fa2bcbee8ed6b9e7939"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_SStable.mat": {
+    "size": 3321881,
+    "mtime_ns": 1464498847000000000,
+    "sha256": "dcd5b5e3d5f07b3ea8c9867d918b7bc31777b732f969c45e86639e628828b747"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_SSubtypes.mat": {
+    "size": 6644278,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "ac258bd0c55b9f25f2f11725b82d3bea008368fb8780f110de0e91468f8494a6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_UPDOWNINtervals.mat": {
+    "size": 362165,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "1e8c2358c64fc73f4b3280ce22e7cb861a9579711bb1def102689cf1f51231db"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat17_121912\\BWRat17_121912_WSRestrictedIntervals.mat": {
+    "size": 3919,
+    "mtime_ns": 1464498846000000000,
+    "sha256": "193483b7fb585222b480d3a33fd1e101c3a7e396cfa6ba3927241dedcafeb629"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513.eeg": {
+    "size": 2561962500,
+    "mtime_ns": 1464498871000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513.xml": {
+    "size": 74778,
+    "mtime_ns": 1464498872000000000,
+    "sha256": "3c3d3ed566b11142c8287a2b3406323edf7396fe1d74cd2320d959692eaa2d48"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_BasicMetaData.mat": {
+    "size": 1123,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "fed6474e6355e397d1ac59e5dc03c2ad3760b6a3bcf8f2670a3cc3c7ce9f59bf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_CellClassificationOutput.mat": {
+    "size": 815,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "67463d7d8ff35ecb7a6c1e466437d42a73f61c231de1653c9e7bd237b1090d07"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_CellIDs.mat": {
+    "size": 298,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "077349c771cf6426f699b04e48ba19b271a8d800f7f52c171f911c000c848252"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_ChannelAnatomy.csv": {
+    "size": 1558,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "cbaa5c767f87263ed71a4196902f2f5645dacd5096772313276fef8855baa136"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_ClusteringNotes.csv": {
+    "size": 1280,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "49ac860b0faf2b5ab95df8362343d2e74ec42290c78e16ab2780b4bab9afa723"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_ClusterQualityMeasures.mat": {
+    "size": 28259442,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "13d10ac0cbe0624a8449692cad01cecfa278d6b510812a10ed26237c91e4c86f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_EMGCorr.mat": {
+    "size": 135759,
+    "mtime_ns": 1464498873000000000,
+    "sha256": "865f1dfb263522b9bb43a3ac52a2341743a1085a787c39361dbc80c9e7f49da6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_funcsynapsesMoreStringent.mat": {
+    "size": 356412,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "54076ce6a9669e5f2ca5b520e71d6253f25efeac1d3cce9a220d0cee5074393e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_GoodSleepInterval.mat": {
+    "size": 359,
+    "mtime_ns": 1464498848000000000,
+    "sha256": "f1d174636ac495b0efdc31df67e1f39e0f61ef4091680a26586640208dd63175"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_MeanWaveforms.mat": {
+    "size": 10562,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "1dba9539f14a35fe8bf0d6acd0126458454fc1878e05617fe41248948cba013c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_Motion.mat": {
+    "size": 27769,
+    "mtime_ns": 1464498873000000000,
+    "sha256": "b1487e6cdf819b810af31b81ba859e3a9d2bccc33020366615305bf366f12987"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_SAll.mat": {
+    "size": 7698947,
+    "mtime_ns": 1464498872000000000,
+    "sha256": "b61d7a84a66413e42437453ad6e2fa527c057e35b6de4f873b8f07dfd1785fa9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_SBurstFiltered.mat": {
+    "size": 3543971,
+    "mtime_ns": 1464498872000000000,
+    "sha256": "904d7b99fe40a54977be2879788de14375434261decaa9aa6c3fc24fbe2b4ff1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_Spindles.mat": {
+    "size": 6570909,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "6c6585922580e36942df9e4257b06abd626d1dc85f29e3bec345ffa1a15fb4f4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_SStable.mat": {
+    "size": 3613836,
+    "mtime_ns": 1464498873000000000,
+    "sha256": "c93d61f7af419b95e7654f62e9938743769194880285e661845d17fee22cb018"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_SSubtypes.mat": {
+    "size": 7224439,
+    "mtime_ns": 1464498873000000000,
+    "sha256": "b6a6f62d40ae8c8e2bab010f16dd176b2cf212a73734ea2187ffc3f26b86d473"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_UPDOWNINtervals.mat": {
+    "size": 559521,
+    "mtime_ns": 1464498873000000000,
+    "sha256": "1502899ea3570b29430d8660b4151b9ac8f86b36e3cbeb1dab22c3f7812b5344"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat18_020513\\BWRat18_020513_WSRestrictedIntervals.mat": {
+    "size": 3622,
+    "mtime_ns": 1464498872000000000,
+    "sha256": "f60e97905609ee26fbca2161cc447ffb192099a2a8fa4a880ed4f58737dcf45a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413.eeg": {
+    "size": 1692022500,
+    "mtime_ns": 1464498888000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413.xml": {
+    "size": 72397,
+    "mtime_ns": 1464498888000000000,
+    "sha256": "5392147ea3e056c5402b4cfe91f43c42a9306905f62f60036ec7b1883884553b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_BasicMetaData.mat": {
+    "size": 1199,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "f1e2380cd58bf1354bc1de82596aa63a948988c5d531c439bd4bcb3d28e324ca"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_CellClassificationOutput.mat": {
+    "size": 931,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "5f93fc9c994d3377766eb479317bc5e3be99590e458467091f788faabbd72ed8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_CellIDs.mat": {
+    "size": 360,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "603373bb2c57e151d54c4e3bb56e2fc686d1ffac2909929e375f0a814492b1cd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_ChannelAnatomy.csv": {
+    "size": 1270,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "e7175e004f13b24be8a063e84d1d84988b74249f60779f5702caef3d6f408d64"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_ClusteringNotes.csv": {
+    "size": 108,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "f177b8d63af6d1246580e58c4996b2c513f3381c74b6187d36087556d19d34c9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_ClusterQualityMeasures.mat": {
+    "size": 91738553,
+    "mtime_ns": 1464498892000000000,
+    "sha256": "5d1edc9f9016c8b726ca3d21e6796c0818a82cd7c5ed72de6e4868e85e01412c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_EMGCorr.mat": {
+    "size": 90558,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "32c1931058d9a6db9f59a5e6b16124239e5b4d3e3aedfbe76b5bda0594dcb029"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_funcsynapsesMoreStringent.mat": {
+    "size": 1086249,
+    "mtime_ns": 1464498892000000000,
+    "sha256": "3de5b9f6a1f4fa906968bbebd40168f63ceee6e0b3bc88d49446d3e729678ad9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_GoodSleepInterval.mat": {
+    "size": 372,
+    "mtime_ns": 1464498874000000000,
+    "sha256": "fe9dfc21ded2a257ceb9c9fd912ae6cc874832915f5a80ae6daea5f2b35ff7d0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_MeanWaveforms.mat": {
+    "size": 137580,
+    "mtime_ns": 1464498892000000000,
+    "sha256": "94e82c19971d3945807ea599f56bb728d63cbcb3903aee8327236af758ebc003"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_Motion.mat": {
+    "size": 18721,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "ebd929804e32cf3fd4228986c9edcc1c7504bec04599f1db794c2443dd0fe3cd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_SAll.mat": {
+    "size": 12976609,
+    "mtime_ns": 1464498889000000000,
+    "sha256": "6e4d8fc815180186b89308c0b65237e54ce3411fa90485d667a393ebf91a0d60"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_SBurstFiltered.mat": {
+    "size": 11043158,
+    "mtime_ns": 1464498889000000000,
+    "sha256": "52a0b791bad0e8016a79cd19c87c5447db56b9babb73d786d6fb0671ea3825ba"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_Spindles.mat": {
+    "size": 2794200,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "cbd6949964718395701dc66de31198bd4ae53833393f3eee82a335f1138b092b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_SStable.mat": {
+    "size": 11141497,
+    "mtime_ns": 1464498890000000000,
+    "sha256": "c19dc4a406f8137c5b2cf326f0023d2ad69719a65b8b8287b458a31e7d8da7ae"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_SSubtypes.mat": {
+    "size": 22284446,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "2db7517c4791fc77ddbe3463618c289f70d58c8de6e9baca67ec2b2da1e92e99"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_UPDOWNINtervals.mat": {
+    "size": 190193,
+    "mtime_ns": 1464498891000000000,
+    "sha256": "34ad874a6ab07b9076511a55f11453c65837aa0e724eef316f1b214c0f14f864"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032413\\BWRat19_032413_WSRestrictedIntervals.mat": {
+    "size": 3398,
+    "mtime_ns": 1464498888000000000,
+    "sha256": "d99fc2d4857ec8ecd1522d74151d09b050abc401a1349033b3f5cf02e2019796"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513.eeg": {
+    "size": 1325970000,
+    "mtime_ns": 1464498902000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513.xml": {
+    "size": 72026,
+    "mtime_ns": 1464498903000000000,
+    "sha256": "5bb0cefe6fdd8826a75cb78123c4f359f8b9d607f7bd5fb0e41d984f6c693800"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_BasicMetaData.mat": {
+    "size": 1202,
+    "mtime_ns": 1464498892000000000,
+    "sha256": "8e3769491822f4d9e4e72c865b2e88e76969a158cf0d689a5807e45a04d7b6a0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_CellClassificationOutput.mat": {
+    "size": 967,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "7e48d4de04279fa36f4ddb2e97d8aebfbd91fbf06d46706f4c0b5d8781dfdcee"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_CellIDs.mat": {
+    "size": 380,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "3592f65da2414f28fbf0627cbfedf6fe0a8fa5ed96160ed424e886d8b68e6f1e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_ChannelAnatomy.csv": {
+    "size": 1270,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "e7175e004f13b24be8a063e84d1d84988b74249f60779f5702caef3d6f408d64"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_ClusteringNotes.csv": {
+    "size": 147,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "3dd7be3a12e216b3ca0c35cd4b901327691edd69c4ad421d3c0ee262bc942260"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_ClusterQualityMeasures.mat": {
+    "size": 82141237,
+    "mtime_ns": 1464498907000000000,
+    "sha256": "08d88029d154f8b845fe38c09e0b0c918e9fe286e3d576ce1ac6afce309b836e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_EMGCorr.mat": {
+    "size": 71464,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "aa91694ba95b1d507824ab403af29764687236b7756ab6d41b03f8b2a8f67d86"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_funcsynapsesMoreStringent.mat": {
+    "size": 1474439,
+    "mtime_ns": 1464498907000000000,
+    "sha256": "29e6f156ee3fe15b53736c903e96e26f9662f5348fd6cf80360527ff47f76304"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_GoodSleepInterval.mat": {
+    "size": 374,
+    "mtime_ns": 1464498892000000000,
+    "sha256": "c30e8412bd1da63f682676dfead3c17cbca4110afdbf030184dced185b642282"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_MeanWaveforms.mat": {
+    "size": 15871,
+    "mtime_ns": 1464498907000000000,
+    "sha256": "bba7d999b1b58285f95ca3434e8443fa45800338b47973cbf4fc56f40371f2d9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_Motion.mat": {
+    "size": 9912,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "5b6ee6fc3e23cc43178cb7a2a6b76fa6abc7b0c073e87fe4e7a65282add3dd37"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_SAll.mat": {
+    "size": 10121916,
+    "mtime_ns": 1464498903000000000,
+    "sha256": "0d9f7e04d5a6f1f45ad58bed0c6f2a8386bc10e3bf63c024a73b2f19c5083ff8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_SBurstFiltered.mat": {
+    "size": 8798700,
+    "mtime_ns": 1464498904000000000,
+    "sha256": "b45d7beb702454747312cb8ee2191e150c3e3aa88f7af45b6336f179073d373f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_Spindles.mat": {
+    "size": 2139733,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "d9e6875a7986a00ace88b167f99dfee24905631e8b0b15896da593f9b7569227"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_SStable.mat": {
+    "size": 8918236,
+    "mtime_ns": 1464498905000000000,
+    "sha256": "0762253a55623485270e9a9cc3ce0817fb3def195af4d70993f7bdcbefe143e7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_SSubtypes.mat": {
+    "size": 17835650,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "5e900eab4dc1b21c7a4253bdb98c6b4ec87c3dbb77fab70dcf3a857b480480e4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_UPDOWNINtervals.mat": {
+    "size": 108146,
+    "mtime_ns": 1464498906000000000,
+    "sha256": "a095cb80432617cb490aa4a1f80f1046c7e3dd4d5b61722da95dd881a0a7d874"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat19_032513\\BWRat19_032513_WSRestrictedIntervals.mat": {
+    "size": 3405,
+    "mtime_ns": 1464498903000000000,
+    "sha256": "e41c616295afb6d58eb3ad7e7cc8794762ac083fb0cee9187d035261d2d7d7ca"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013.eeg": {
+    "size": 2405574000,
+    "mtime_ns": 1464498927000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013.xml": {
+    "size": 38319,
+    "mtime_ns": 1464498927000000000,
+    "sha256": "89f205f3fa8b0caf5e5040d08246e7aae054319211d13d406697ae6cc3784c06"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_BasicMetaData.mat": {
+    "size": 911,
+    "mtime_ns": 1464498907000000000,
+    "sha256": "9ade678a1391187c8a73fb228d2f7a91445d4fa22ee179c024f58722f3140974"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_CellClassificationOutput.mat": {
+    "size": 685,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "936642eaf2c297801a4867b8a2d88dd8c3343ccdef3b4832afc8b1fd29fd6eb6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_CellIDs.mat": {
+    "size": 313,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "3d1721260eda2b4058e705e1bb1d60b5f5369a83fa6c5c06cd3e5baaea51de14"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_ChannelAnatomy.csv": {
+    "size": 470,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "360b089c46021057c86e73183101ef016ebd6cef5a1dfd8cdde15dd3cf50ee5e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_ClusteringNotes.csv": {
+    "size": 89,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "cac040d6b793f76617861cdad49c7b5ec8b267c0ea3c88fa176fabdb488fa237"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_ClusterQualityMeasures.mat": {
+    "size": 55827585,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "f1747f1750a54abb6117d8f14ff4e6c56db10f923b50f06d7f602bd5c2bbf83c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_EMGCorr.mat": {
+    "size": 235125,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "cdae395806d6738d722bfe800f9f317eb614210df6d80cabcc8b6bdde8d7a56a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_funcsynapsesMoreStringent.mat": {
+    "size": 250325,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "c510e38ee7d7798f7ca89b8279d51b0cf097ad91321a373f8aaaec0dcdd2b43b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_GoodSleepInterval.mat": {
+    "size": 371,
+    "mtime_ns": 1464498907000000000,
+    "sha256": "8b5f33215d0b62431591e6788fed3f08e72367179dfe4939f5973596e95cc7ef"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_MeanWaveforms.mat": {
+    "size": 6062,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "ddb661c185d2e6a9ee13842efaeca15ba70d42075bb3d1e5f22fa925b5c01ec7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_Motion.mat": {
+    "size": 49291,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "1c5ff9f37ace221186fb6f50b62ff87489241ff12c2feec13a59c7de90265e98"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_SAll.mat": {
+    "size": 16237625,
+    "mtime_ns": 1464498928000000000,
+    "sha256": "99baf31813cf883683a6b70b403789c49884622c8f9bf218a8d8bc0cdac1e0b5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_SBurstFiltered.mat": {
+    "size": 16003245,
+    "mtime_ns": 1464498929000000000,
+    "sha256": "e891d6d103ecf9c7be4ede807dc313dfd32493d9776c043c6014712465bff8b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_Spindles.mat": {
+    "size": 3398485,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "25738ba7291e145e2064c128e227c8d1c41262fda37a8919c97b0993396a9bc1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_SStable.mat": {
+    "size": 16095539,
+    "mtime_ns": 1464498930000000000,
+    "sha256": "d915e6c244c25575bd2e02ab68e555c4bce9b238d57f790503175b7779f51eca"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_SSubtypes.mat": {
+    "size": 32190315,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "1510ea72ebcd29270dca25aef45d1d2a6dc51ae0505a667f703064c3a2091e76"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_UPDOWNINtervals.mat": {
+    "size": 272665,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "1e8a35e2cc86b98bbe802a3e6f2e021cd0500da2f0b789795e03475d47160605"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101013\\BWRat20_101013_WSRestrictedIntervals.mat": {
+    "size": 3412,
+    "mtime_ns": 1464498927000000000,
+    "sha256": "326bee9e621563828e3fb63cfd3f86a5fdca3c7614dd7ef477519441c44bf20c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513.eeg": {
+    "size": 4142160000,
+    "mtime_ns": 1464498965000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513.xml": {
+    "size": 49615,
+    "mtime_ns": 1464498965000000000,
+    "sha256": "5c06326a4509e841857c5a89b7f2670848bb798e608c192b645b7d923e6a7113"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_BasicMetaData.mat": {
+    "size": 917,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "331bb87ce649f6a6975576b22e5ebd87f52b40833d3b984e1ac1dc01786d0f25"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_CellClassificationOutput.mat": {
+    "size": 980,
+    "mtime_ns": 1464498980000000000,
+    "sha256": "608eb53dcdc95e77bacd765a61e5f3907a815482b229a6a32fa05918b1748a46"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_CellIDs.mat": {
+    "size": 393,
+    "mtime_ns": 1464498980000000000,
+    "sha256": "3d1e56c36bc49aad02aae56151e1328c1e984824282baa5db5db4fcfdc3dcdb3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_ChannelAnatomy.csv": {
+    "size": 470,
+    "mtime_ns": 1464498980000000000,
+    "sha256": "360b089c46021057c86e73183101ef016ebd6cef5a1dfd8cdde15dd3cf50ee5e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_ClusteringNotes.csv": {
+    "size": 275,
+    "mtime_ns": 1464498980000000000,
+    "sha256": "d171ca0339db481371ee8e7b50fe95355667f7feb71b72e46ec7fd007999bcbd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_ClusterQualityMeasures.mat": {
+    "size": 382073718,
+    "mtime_ns": 1464498989000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_EMGCorr.mat": {
+    "size": 402456,
+    "mtime_ns": 1464498978000000000,
+    "sha256": "f361954decc211d18de234d902d2af39c5a15c0db2188f6073c3f14dbd9d5c26"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_funcsynapsesMoreStringent.mat": {
+    "size": 1844885,
+    "mtime_ns": 1464498990000000000,
+    "sha256": "7492fdf92d7f68f3c6f495d92728251161d7e17e676ad4de42dc194f2cd60539"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_GoodSleepInterval.mat": {
+    "size": 360,
+    "mtime_ns": 1464498932000000000,
+    "sha256": "4beaf5e0fdd52d4f11f1d6b427506594a42f167c40ceff973e774bb3581e71eb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_MeanWaveforms.mat": {
+    "size": 17092,
+    "mtime_ns": 1464498990000000000,
+    "sha256": "694fef3d2eb24be6a39559f43159dc49653c013c54557fcf7fce18b7faa695db"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_Motion.mat": {
+    "size": 110655,
+    "mtime_ns": 1464498978000000000,
+    "sha256": "ea46aadc6d7fc0741ceb0a8ae3f8e3a296150ece0c10629dfa9db9a6cee2e71f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_SAll.mat": {
+    "size": 26013922,
+    "mtime_ns": 1464498971000000000,
+    "sha256": "cda764e4b7a0a5ef1a78deb49927b6da999b8715356844ad97d6fb0076fff4b6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_SBurstFiltered.mat": {
+    "size": 25106015,
+    "mtime_ns": 1464498973000000000,
+    "sha256": "92c77b21c508d08ab7da7c3ae5aaeca7f0f601fee52bcbeba98d8b497542f0b4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_Spindles.mat": {
+    "size": 9279837,
+    "mtime_ns": 1464498980000000000,
+    "sha256": "4099430579472f3015333dd6cfe1ef8af01f02dd6afe06bf683daa4250b699cf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_SStable.mat": {
+    "size": 25491217,
+    "mtime_ns": 1464498974000000000,
+    "sha256": "2cc0ef7f6efd227c962dec78727a6a075b064f7bf56aa79a235d433ba0713e63"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_SSubtypes.mat": {
+    "size": 50980439,
+    "mtime_ns": 1464498978000000000,
+    "sha256": "421ad4145e4948ceccfa0f56bc52329821f53f5554350354763777fb825d82ad"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_UPDOWNINtervals.mat": {
+    "size": 708870,
+    "mtime_ns": 1464498979000000000,
+    "sha256": "141aae7d1f2c1505abf3e39f74e3954fe8bf0442e045104ebaa6abf9f3a58a8b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat20_101513\\BWRat20_101513_WSRestrictedIntervals.mat": {
+    "size": 9401,
+    "mtime_ns": 1464498965000000000,
+    "sha256": "06c971195115752ab994c358624099e88014beaf516ffe4d724e4c937b8c610d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113.eeg": {
+    "size": 3391896000,
+    "mtime_ns": 1464499019000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113.xml": {
+    "size": 41499,
+    "mtime_ns": 1464499019000000000,
+    "sha256": "5f3c0a485fdc77624ba1d9321bcde82c5506b0112e08bb03b7c29d44935d1382"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_BasicMetaData.mat": {
+    "size": 1064,
+    "mtime_ns": 1464498990000000000,
+    "sha256": "7b7781628d41fe9b439853687a2550e7053f401efe03ed98cc3f4e563b84d823"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_CellClassificationOutput.mat": {
+    "size": 741,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "342a503de725556923c9396404ee023380495e0342927bad48d80b07a6c5bc6c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_CellIDs.mat": {
+    "size": 287,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "25a5c7a97d6299de7c8c758a48fe50a4b7ab6aafb65d722df99dcdf25a48b405"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_ChannelAnatomy.csv": {
+    "size": 470,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "8a5cfa23839c5ef0b061868e8831b63a08ae686b859a3a45bfb080141b42bc47"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_ClusteringNotes.csv": {
+    "size": 522,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "be93fb4cd9f4996637d9cdce8f93585a74b74bece40fb91c6eb2c4017d37461c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_ClusterQualityMeasures.mat": {
+    "size": 70520987,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "7dceb66f7676b88e79a040cd2d7c2215a57a0c9713bf04268dac9d75e79642ab"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_EMGCorr.mat": {
+    "size": 389208,
+    "mtime_ns": 1464499026000000000,
+    "sha256": "7ae90040b33b67a7089bea43e13a1861e4cd67492488c234947e673eb86447f2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_funcsynapsesMoreStringent.mat": {
+    "size": 419734,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "d52f7048d1e4fa95e813d4a54964b51008f8bb23c99460f0c678d3e18ecd7907"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464498990000000000,
+    "sha256": "9d540febe4abae21dde2d5073836bcbb06ef8688bea7a22449f2bcb1b42f0a22"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_MeanWaveforms.mat": {
+    "size": 70846,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "76b4a4c22a55d46fbb809e14209cb948283da70d6f34a755f365e96875c40170"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_Motion.mat": {
+    "size": 18345,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "5fdafad69026632345f201aee9fe4618854b2c0439eb2b16e85382b8289b1d54"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_SAll.mat": {
+    "size": 15837870,
+    "mtime_ns": 1464499020000000000,
+    "sha256": "7b0bc9136995eb22c7afd7fb792e6cf2b207aa59f5165d059665c2b83b3b9f54"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_SBurstFiltered.mat": {
+    "size": 15032046,
+    "mtime_ns": 1464499021000000000,
+    "sha256": "ff38f7f5ab0de6ef7075de34c69ac2eb44c98e59369784ab6dc4874f8ac96099"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_Spindles.mat": {
+    "size": 4736263,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "6ee01a4c68d23524372a20cb7e8790e70525d4e8f27e6737c818539bedc535fc"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_SStable.mat": {
+    "size": 15186141,
+    "mtime_ns": 1464499023000000000,
+    "sha256": "f2c8b0c7e59244aef0682442071fc6f88bdc99fc2faf1748d5e6a826eaaacaec"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_SSubtypes.mat": {
+    "size": 30369775,
+    "mtime_ns": 1464499026000000000,
+    "sha256": "e4e9cefb617150f1a1c7eded60668ebd2cd4d3a55f5fc321cf2b746ffed5a335"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_UPDOWNINtervals.mat": {
+    "size": 504076,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "69d066627ab529f845454fb4f2df619c897db141653f5fd030b00da789d35aee"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121113\\BWRat21_121113_WSRestrictedIntervals.mat": {
+    "size": 5612,
+    "mtime_ns": 1464499019000000000,
+    "sha256": "cd451dbfb84aa6099d8b70f4c341505b37cfdceff4403037daee9025846e137d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613.eeg": {
+    "size": 3339025500,
+    "mtime_ns": 1464499054000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613.xml": {
+    "size": 43170,
+    "mtime_ns": 1464499054000000000,
+    "sha256": "1dbbca3d1e8cd79df950d86d25bbe4aa6f1927a5123fcf492b4ca3b7921ab8a3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_BasicMetaData.mat": {
+    "size": 1105,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "277c4ee5e8c1d331f5aa8e562b088441d44a6e76819f6697ce6ea76e7946a721"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_CellClassificationOutput.mat": {
+    "size": 639,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "92dc1eece2e51e5b110e54bdb61d4d1047510e98bca165f3c77aa042315d42a6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_CellIDs.mat": {
+    "size": 282,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "e610d711b1d1eacad5e06f3bfdba64a80454bdd441a288671171c07e51f57321"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_ChannelAnatomy.csv": {
+    "size": 470,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "8a5cfa23839c5ef0b061868e8831b63a08ae686b859a3a45bfb080141b42bc47"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_ClusteringNotes.csv": {
+    "size": 131,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "9a99bdd900701c227812c4d2c32234d020d1c2aa860908d6367d556bf4fc0ff8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_ClusterQualityMeasures.mat": {
+    "size": 28243186,
+    "mtime_ns": 1464499061000000000,
+    "sha256": "523f9b1ce2984e1f39a8216cbed5496b2dde23e450800c8420523eb05c9023a0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_EMGCorr.mat": {
+    "size": 378563,
+    "mtime_ns": 1464499057000000000,
+    "sha256": "ba8dbc4b4eed14bbee54bab274f29d8e762cbfcc77e8391817fd382286a606c0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_funcsynapsesMoreStringent.mat": {
+    "size": 118528,
+    "mtime_ns": 1464499062000000000,
+    "sha256": "20ad2840b49f7d6e2562aeaac07865517d80cdede7ae0a390a7f463de09af104"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464499027000000000,
+    "sha256": "f3a840115a8f95023545988dae3f1fbd75e445eed439145411623430864100d5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_MeanWaveforms.mat": {
+    "size": 5763,
+    "mtime_ns": 1464499062000000000,
+    "sha256": "fbb43d62ca88a5dba098ee9cd8e676782e7d87a170c49d8cd32901e9e105e7f7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_Motion.mat": {
+    "size": 75846,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "65d795c70f17f2053113f06a025c0bb5c28d03b10f8dca191f46a72994a23aee"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_SAll.mat": {
+    "size": 2915665,
+    "mtime_ns": 1464499054000000000,
+    "sha256": "71f59edf8d1449fbfdf2efee46818a7c4f652599515034672328a22b7018f0fd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_SBurstFiltered.mat": {
+    "size": 2901825,
+    "mtime_ns": 1464499054000000000,
+    "sha256": "8c5276ec53e46728d5be326634c11c6de74c406050736e53b9d8fdb64c89990f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_Spindles.mat": {
+    "size": 2520527,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "b069b97408ef0a1b60b0ece3621534ac9c57bc1b6718fdbcbd1fd2a896b8cf9c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_SStable.mat": {
+    "size": 2909723,
+    "mtime_ns": 1464499055000000000,
+    "sha256": "eaae78725775db1d5a5cee4cfa20607a24f503cf2321f9e8527fd35976144a32"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_SSubtypes.mat": {
+    "size": 5819282,
+    "mtime_ns": 1464499056000000000,
+    "sha256": "865ef0e7dadfa18b1150dae97ba1e644db2191ec714f700393d0be9c4c20e3e4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_UPDOWNINtervals.mat": {
+    "size": 182865,
+    "mtime_ns": 1464499058000000000,
+    "sha256": "4dc9df3b76b26e64920ca2b51043d45000db786c2526222eb2628fa39e526cfb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121613\\BWRat21_121613_WSRestrictedIntervals.mat": {
+    "size": 8619,
+    "mtime_ns": 1464499054000000000,
+    "sha256": "301b176b3a333e31b44b1f945fecca957228dd4c340b548dfe143bb4705cf12c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813.eeg": {
+    "size": 3364399000,
+    "mtime_ns": 1464499109000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813.xml": {
+    "size": 38578,
+    "mtime_ns": 1464499109000000000,
+    "sha256": "5df2befa1153bbfaf57e86789b9c51d01e046a6253b1201f0b58c7d91c6e1f10"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_BasicMetaData.mat": {
+    "size": 3017,
+    "mtime_ns": 1464499062000000000,
+    "sha256": "fbf0a1ae3209e5c9a63ad19e231b12e0ef32554b85c8c7b4a5c97676d9342f6b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_CellClassificationOutput.mat": {
+    "size": 564,
+    "mtime_ns": 1464499115000000000,
+    "sha256": "f001db6b18b41acd7e6eebfc39e7f0d3bc202d4c3f774656c0e1b50e19cd5dac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_CellIDs.mat": {
+    "size": 267,
+    "mtime_ns": 1464499115000000000,
+    "sha256": "9d1a8491f7e6678a70fa52cb3050c19c80325bad67d3a64507283b451728f115"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_ChannelAnatomy.csv": {
+    "size": 470,
+    "mtime_ns": 1464499115000000000,
+    "sha256": "8a5cfa23839c5ef0b061868e8831b63a08ae686b859a3a45bfb080141b42bc47"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_ClusteringNotes.csv": {
+    "size": 517,
+    "mtime_ns": 1464499115000000000,
+    "sha256": "bd42f6a6c2f06c01cf9959f783c9f84b1df273b9a529da4b0b47e0868e93f86c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_ClusterQualityMeasures.mat": {
+    "size": 24532715,
+    "mtime_ns": 1464499120000000000,
+    "sha256": "c4369d429b0875d32e52f2c50c88e202e24f574bffc2d571210d05cdfff70d40"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_EMGCorr.mat": {
+    "size": 380268,
+    "mtime_ns": 1464499113000000000,
+    "sha256": "f06c2612e0dab3314b4da3969defb6352abea9b72be49f485cc6f64f3fc145ad"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_funcsynapsesMoreStringent.mat": {
+    "size": 45476,
+    "mtime_ns": 1464499122000000000,
+    "sha256": "82e9a741c782b7b57b19ef1384756fde5421d15efa8a2204bc19306b9d6f4d38"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_GoodSleepInterval.mat": {
+    "size": 372,
+    "mtime_ns": 1464499062000000000,
+    "sha256": "94b42007de011d5ef2eab46671f0adc4ee1daa723d3656f7cb9ad8a76af73dff"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_MeanWaveforms.mat": {
+    "size": 26928,
+    "mtime_ns": 1464499122000000000,
+    "sha256": "995943000ad51219e7f1a0d4c4842d5bcf63ef7be4cf79fa96f874e7bb8575df"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_Motion.mat": {
+    "size": 76977,
+    "mtime_ns": 1464499113000000000,
+    "sha256": "39b1fff63615e6b849bbae9c130f11e29dd8ea83539f95cdcaebc5dd418d577b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_SAll.mat": {
+    "size": 5006652,
+    "mtime_ns": 1464499109000000000,
+    "sha256": "c8adad7446c55642291d0e695384c6ebc41fb8ceaaad939e5fd9148223680d6e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_SBurstFiltered.mat": {
+    "size": 2994113,
+    "mtime_ns": 1464499110000000000,
+    "sha256": "a565efb9cb526f4269c1e3aacae067246534c9954da6cd21fd5ac6faa2207126"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_Spindles.mat": {
+    "size": 5639359,
+    "mtime_ns": 1464499115000000000,
+    "sha256": "9ae0054f054ece9c8ee0e45db983505937380e56879d5d5c48329a8e91c96435"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_SStable.mat": {
+    "size": 3009669,
+    "mtime_ns": 1464499110000000000,
+    "sha256": "faae28f569e7d12f7f109f760beadf889367eee55bab6790e7a0f6f0b2697b07"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_SSubtypes.mat": {
+    "size": 6019127,
+    "mtime_ns": 1464499111000000000,
+    "sha256": "2a3798f32ca5b0af0076bf60b43cf5e7fa9aaa4fe695173744f6a134f2ee0160"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_UPDOWNINtervals.mat": {
+    "size": 709408,
+    "mtime_ns": 1464499114000000000,
+    "sha256": "81efba53fdf6356cebca7832022fd163dce9c3945243369d1c49be1a1bbe21a4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\BWRat21_121813\\BWRat21_121813_WSRestrictedIntervals.mat": {
+    "size": 9675,
+    "mtime_ns": 1464499109000000000,
+    "sha256": "da689027c3f399f2cb059fed9742119fe1525f1f95f9b79befd502900b3898ea"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC.eeg": {
+    "size": 6974401000,
+    "mtime_ns": 1464499556000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC.xml": {
+    "size": 80612,
+    "mtime_ns": 1464499559000000000,
+    "sha256": "ad9c1430748a463ad539478621dc07242f9dcdb86f92b090b747236e08119a55"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_BasicMetaData.mat": {
+    "size": 1454,
+    "mtime_ns": 1464499511000000000,
+    "sha256": "293db302b57bdc6be082e8a9a980c0a3cf93b05ac0eea4de998cd386618839cb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_CellClassificationOutput.mat": {
+    "size": 1237,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "4f900cfb4a36e96b0b194f56ec9b6d0a2ce235e778c95cd84f72d108aa95aee9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_CellIDs.mat": {
+    "size": 440,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "ff94383ac3d026eed6e638a690cc72619e9f4653e8599a18bc236623341c053c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_EMGCorr.mat": {
+    "size": 347366,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "2675f7c029089a4e69715216110d03be1fc672947aeb8d673ecfcb40647dd340"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 4161684,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "47c41c4b60b5165c6074b77c98cc82c6a2438600f1681f30b3e59131561ad987"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_GoodSleepInterval.mat": {
+    "size": 376,
+    "mtime_ns": 1464499511000000000,
+    "sha256": "da2dc22bdd8707b62ddfb417d25958d305cddb01047ec77d10507277e804c166"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_MeanWaveforms.mat": {
+    "size": 244781,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "cff62186f4bea51d6e33292011e0a8f8c972ec3bfb6e808e1fcaecf4a5f5eb1a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_Motion.mat": {
+    "size": 69752,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "d94bacd6759afc4ada70a8251280970656fdb2344d38bc8b1cd53987b5a8bf12"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_SAll.mat": {
+    "size": 43397518,
+    "mtime_ns": 1464499561000000000,
+    "sha256": "5aaf461e10fa6e13b4c9c58595ee6cdfa8c8bb9df72ad8be33063ad79e744ece"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_SBurstFiltered.mat": {
+    "size": 42920976,
+    "mtime_ns": 1464499565000000000,
+    "sha256": "3e0339a576b48819467d40b4bf86367775815a6c6705008780a741e502e6f1ea"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_Spindles.mat": {
+    "size": 5497716,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "4a04acda572e59e42585faf0921faa2c2cfcd2dcca92f1b798b4ac7520be0e1e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_SStable.mat": {
+    "size": 43088495,
+    "mtime_ns": 1464499568000000000,
+    "sha256": "2f71b28090f9f0dc4bfa95d2c08935da59933fb1f4786ba137d32275d954e1e5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_SSubtypes.mat": {
+    "size": 86183625,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "76ae6e89e88c0bb48e70b5751008aa68b2f3ea04bf4ddc269f0b861845c4f1df"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_UPDOWNINtervals.mat": {
+    "size": 241289,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "f45f7b8f98373f63ac75c57697dd9cd17ce0f5682ba2cb8c8027def6f500ce3c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061814_mPFC\\Dino_061814_mPFC_WSRestrictedIntervals.mat": {
+    "size": 4202,
+    "mtime_ns": 1464499559000000000,
+    "sha256": "eb0b4a8a3be322e382ddfb9c123dfa1487cc90a271a78f1b5286d0289f108ed4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC.eeg": {
+    "size": 6219440250,
+    "mtime_ns": 1464499618000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC.xml": {
+    "size": 81834,
+    "mtime_ns": 1464499618000000000,
+    "sha256": "91aaadbeca266f56f91c477752b6b4426030c52d17fd7856061f6ccd8a31e7fe"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_BasicMetaData.mat": {
+    "size": 1522,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "4dc84b666566a42f96042ceecef3e1f6a4b25cbccf38b32112c91efdc02edadf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_CellClassificationOutput.mat": {
+    "size": 990,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "1448c98680cc8add4f0ab87d1f244c56690cc9472eb6519cc35ac8a11005a488"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_CellIDs.mat": {
+    "size": 329,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "1183c8f2f2af0ef9af39e6bdae082c4db7164ffe302037ffe23040195a79a2a4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_EMGCorr.mat": {
+    "size": 308190,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "d639609844a90b7225ec163fc08c79cfe8e72bb6495d54f84198f14658fbb013"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_funcsynapsesMoreStringent.mat": {
+    "size": 985765,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "0044a427cce08830a3aa1e710458c28756628d4fa60c71ec0dd1689914635316"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_GoodSleepInterval.mat": {
+    "size": 374,
+    "mtime_ns": 1464499573000000000,
+    "sha256": "da03496ea1e0255e82e14bc861b2d9e0b070c66c7c10bae12074f3d90eee4a14"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_MeanWaveforms.mat": {
+    "size": 137916,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "07f33493a298606e55fb77e6f45c8a2f3e08134276a2b0ae176f97fb1e15f8bf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_Motion.mat": {
+    "size": 61688,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "ee1f8a216e166cb4f9637a238c666cc9e8d7bc79ee40a6493b1e857ce78499fa"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_SAll.mat": {
+    "size": 18339523,
+    "mtime_ns": 1464499619000000000,
+    "sha256": "8df823c0a845dde9045269cc3f544cbf56a08883edcbc79dafec6064be638ac2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_SBurstFiltered.mat": {
+    "size": 17674567,
+    "mtime_ns": 1464499620000000000,
+    "sha256": "6e40f155c49d29d17d9e234b35efb43f23de38a1af9dd21a0dfd29efcd23d551"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_Spindles.mat": {
+    "size": 3132155,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "938c796144b3267c500b307fc14411a33a7b19b6a34cc1f5e6fb56d7dd8abfe8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_SStable.mat": {
+    "size": 17734975,
+    "mtime_ns": 1464499622000000000,
+    "sha256": "e3bc7a41f78bf4c56620121e69e1b467de9971e260094edbf504cfb03dc5c666"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_SSubtypes.mat": {
+    "size": 35471805,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "a81d4114e5db0e126b1449851f73de1c8be7ff55ea7bba75dcd16835f2f94358"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_UPDOWNINtervals.mat": {
+    "size": 213186,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "e1e5280e57fe4c7dd9dc2a114b205ede78ba2cac56636d32e2defe58fc3bac85"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_ACC\\Dino_061914_ACC_WSRestrictedIntervals.mat": {
+    "size": 3347,
+    "mtime_ns": 1464499618000000000,
+    "sha256": "952f3d59f17e16a8eca7b7dafbbe33faf569617fc126217df09df0b22cbc1812"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC.eeg": {
+    "size": 6219440250,
+    "mtime_ns": 1464499652000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC.xml": {
+    "size": 81834,
+    "mtime_ns": 1464499653000000000,
+    "sha256": "91aaadbeca266f56f91c477752b6b4426030c52d17fd7856061f6ccd8a31e7fe"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_BasicMetaData.mat": {
+    "size": 1519,
+    "mtime_ns": 1464499625000000000,
+    "sha256": "1321857052244ab3f76ed026177070e4f5c2afd97599dc5860d4e32d756d600e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_CellClassificationOutput.mat": {
+    "size": 953,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "ee3c5093cb971fc9fdbe51f3f81ee52fc6c1c9667e6eaa436ed4503d123a7f69"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_CellIDs.mat": {
+    "size": 340,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "7382bdeb71741f662f782d62f935c812f8fdd8377dd73746b73396bbd9363a92"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_EMGCorr.mat": {
+    "size": 309281,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "d55cb2b58ea40c8d7bcbc7e71515ee99ee04d9a215bab2dac21a2bc29c80173f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 1256698,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "529e45d8ba2d03e0f156f4932f3284262c6080358906848e120338683ae5c1d6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_GoodSleepInterval.mat": {
+    "size": 374,
+    "mtime_ns": 1464499624000000000,
+    "sha256": "56201c045926e9148f0c7a5a6d0296c1766f22b32093025c8992993c4c93a3db"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_MeanWaveforms.mat": {
+    "size": 130340,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "9ddc786d8de6d9f9727315a3ea69139c7e8fda7c5e70912f2aad1dcecd6007d5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_Motion.mat": {
+    "size": 61688,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "d62984d3dfccb485b9a3d20a74dcc168f4a83cd48cfbd016f3d26c0474d3d83f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_SAll.mat": {
+    "size": 27290838,
+    "mtime_ns": 1464499654000000000,
+    "sha256": "034389dc26d1c9ce1f4a56dc83a6dc13f446bf37574292f047f3734f10c42ba2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_SBurstFiltered.mat": {
+    "size": 26770277,
+    "mtime_ns": 1464499656000000000,
+    "sha256": "7d1af0a4a923057724f6d66e0b340a246536d670a96935d8469f4d254671e36b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_Spindles.mat": {
+    "size": 2368597,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "ff2cf016dcf6d214cb8b402f9fc8a9bf6e2e6fee2a0e915c266bb8efd4638bae"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_SStable.mat": {
+    "size": 27290941,
+    "mtime_ns": 1464499658000000000,
+    "sha256": "eb12cf4d07b74cd5f807f9e8f5a53936f57cd76f67e391ced9bc1c669750856a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_SSubtypes.mat": {
+    "size": 54583596,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "fe2d24ab6f7482c1ed66db134a3ffa1588ac67479527b1d599143bb71adde38a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_UPDOWNINtervals.mat": {
+    "size": 184736,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "130b2482815d359e9201d05c65d5a195e0ee6f479c105ccbe7152a9f63e62a57"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_061914_mPFC\\Dino_061914_mPFC_WSRestrictedIntervals.mat": {
+    "size": 3471,
+    "mtime_ns": 1464499653000000000,
+    "sha256": "d64d86b928ac0eb2fcbddcabd0e9fbe92d29bc406b60a34c3bcca65a8b2c207a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC.eeg": {
+    "size": 7938936000,
+    "mtime_ns": 1464499727000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC.xml": {
+    "size": 72439,
+    "mtime_ns": 1464499727000000000,
+    "sha256": "83a6afcc3cc3c61c649c7bea0874c06c3fbb1e07d63f7ca9fc4251c8e8590280"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_BasicMetaData.mat": {
+    "size": 1517,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "c8b5fe79274e5fb99672f20dc1922c45985909d39a77e62930ed3e7733009352"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_CellClassificationOutput.mat": {
+    "size": 573,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "5943ce3ed410c5420fc653e67327937fd5bcbd03f95793507220b6734776389f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_CellIDs.mat": {
+    "size": 284,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "cb031cf3b5593d9abd9fe004f415322f57ca87c23ab44cb384e90c3d0ff1c5ef"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_EMGCorr.mat": {
+    "size": 392075,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "8c2bf2914789bebec2a43c75d38f81a09c02b00c7d470190d338c9e3c3e650a5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_funcsynapsesMoreStringent.mat": {
+    "size": 213310,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "7d14ac55765ff8c5ebb853cf4888046fe77fbfb4408cc953d9bed0d019c0bb54"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464499662000000000,
+    "sha256": "fb678cbc67877058780eb79e13ed2c3545c48a91a4139cead05f661951ee6ec0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_MeanWaveforms.mat": {
+    "size": 64204,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "6a77b7e6fbb57125f3e0fe16dbdc9d005007d7c078d469c281d3f47adc9f95b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_Motion.mat": {
+    "size": 79123,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "535e2b700d9218f517aae1b5b40ec732f85d6fb59d3e4c7ff317cb9fc4c44f58"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_SAll.mat": {
+    "size": 10181143,
+    "mtime_ns": 1464499728000000000,
+    "sha256": "1d63df4c98312ad65dd0924b1e774a367084e36b0299029f35fbe99a34fe3d5e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_SBurstFiltered.mat": {
+    "size": 9764121,
+    "mtime_ns": 1464499728000000000,
+    "sha256": "7f20ff3a315349aa324340422a72f8f06ae1cd7005bc974471dd026b6750e3f4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_Spindles.mat": {
+    "size": 14465690,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "ab213209c1027d3d497e0a0efcdd9fc96607885ed6f11f02d87474128ab1a308"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_SStable.mat": {
+    "size": 9800403,
+    "mtime_ns": 1464499728000000000,
+    "sha256": "517397ff346c8c9cbb5052f1dd78c2bbd11ba56fd910a48e450124c340c53151"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_SSubtypes.mat": {
+    "size": 19602612,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "af106ffc1bbda73d6607e703cbc41c8cdeeb7953b9611dc405fe29befe8a8cc8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_UPDOWNINtervals.mat": {
+    "size": 1051511,
+    "mtime_ns": 1464499729000000000,
+    "sha256": "101a1d14ff49e2a1382767d16a133f6601e5bf87e5b1b6ded1b71ad51f1cf335"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_ACC\\Dino_062014_ACC_WSRestrictedIntervals.mat": {
+    "size": 4189,
+    "mtime_ns": 1464499727000000000,
+    "sha256": "04ab28a5a9c752e1f1a86a9b9a57b6e6328f13eda79c8b0f092dec368bdd00f0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC.eeg": {
+    "size": 7938936000,
+    "mtime_ns": 1464499790000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC.xml": {
+    "size": 72439,
+    "mtime_ns": 1464499790000000000,
+    "sha256": "83a6afcc3cc3c61c649c7bea0874c06c3fbb1e07d63f7ca9fc4251c8e8590280"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_BasicMetaData.mat": {
+    "size": 1513,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "f1b2d115399ec4d07e7c079d03b4a14dd3d48106fc5868f5abcab5c2a701586d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_CellClassificationOutput.mat": {
+    "size": 799,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "5cc779e57733b0e693cf17ed5f2b4d1cb778ee5616a82b394ed6c16573e21d8a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_CellIDs.mat": {
+    "size": 309,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "3fe86ec085b154c6b06e3e5c7d4287ee72cf024d6b42089ed3107e33ba665295"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_EMGCorr.mat": {
+    "size": 393677,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "3a0ed2e4c72bb1854b23074d1db342d578ac2eed7f9f21302d88901df688e670"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 525993,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "fa46f4e7d763a6d6bb0af4259c05cfd87fae279017bc09a39a8d089166002365"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464499730000000000,
+    "sha256": "db4938b95d1a0fab9eda78e9467b4138c0f5b9c0e28d50f07b0d66bc5b874249"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_MeanWaveforms.mat": {
+    "size": 79350,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "37d09c8b23b8eee6c6ecb3f42e04932576229f5809ad692be338712b4e46a659"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_Motion.mat": {
+    "size": 79123,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "facbb08c3b99b4776ed9306921b7edec7cb57af6c62e929831e5c72867c9cca3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_SAll.mat": {
+    "size": 28257660,
+    "mtime_ns": 1464499791000000000,
+    "sha256": "c7415aeeaaa359a2a075e74ff51d5154f9a200e78bc8e78b1d49ad52819a95a8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_SBurstFiltered.mat": {
+    "size": 27769211,
+    "mtime_ns": 1464499793000000000,
+    "sha256": "243fc56b8d419835e08dc8d42a27b473cb8a6c0a21d68cf03b783b0ce4af8036"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_Spindles.mat": {
+    "size": 6069167,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "0744ebf72f805571c243349014b46707fcf4eb55f485fa5baaf40c1894dbe9b2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_SStable.mat": {
+    "size": 28257763,
+    "mtime_ns": 1464499796000000000,
+    "sha256": "e038b10b813e209c8667ee9f09022629a091ab33cee34066acfcf8a7aca2e1c2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_SSubtypes.mat": {
+    "size": 56512836,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "12f3458a267acbd4422d7621bba258fa95c98c0df2327cb4358eb928062b6b3f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_UPDOWNINtervals.mat": {
+    "size": 452733,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "91b1455ec2a817988ece1d1af87e007c0cdfc1a8aeda2980fb267ffeb2c082b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_062014_mPFC\\Dino_062014_mPFC_WSRestrictedIntervals.mat": {
+    "size": 3877,
+    "mtime_ns": 1464499790000000000,
+    "sha256": "a9550c00470a958fb3e9ea06c9e164d061a528b6bee68a75c2aa68a29173a3aa"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC.eeg": {
+    "size": 2825338500,
+    "mtime_ns": 1464499820000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC.xml": {
+    "size": 71742,
+    "mtime_ns": 1464499821000000000,
+    "sha256": "e604d7379fa84f8a0b74998c22eccd42f94f460632e041210869db42e4fa63e0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_BasicMetaData.mat": {
+    "size": 1499,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "7135b7d932f642ac3ec4d4a31c8f2fb4ef641dc474c8728d6a0ed345cb7a248d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_CellClassificationOutput.mat": {
+    "size": 544,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "b4e28fc01095510fa9b7594ad2ed9c4919f3b6eb011508309bb9ddba5a0781b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_CellIDs.mat": {
+    "size": 267,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "174956599cbe3c4209d203d35f6a8e7747f2b8274ee507e3a85e5d98bfe4cf10"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_EMGCorr.mat": {
+    "size": 142359,
+    "mtime_ns": 1464499827000000000,
+    "sha256": "744629833039862777c4791ca8619cc615ca2c112c133c11f726b8ea71026254"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 155256,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "badc2f56fd2cae92ab29ea46518a213f92f0cb1dd728c4fe0af274db34eaf1a9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_GoodSleepInterval.mat": {
+    "size": 374,
+    "mtime_ns": 1464499799000000000,
+    "sha256": "f63306470b321ec5135a9460e15415166ef3910cac5066ceba7442b59c6d9c50"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_MeanWaveforms.mat": {
+    "size": 40607,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "4feb47cd46b95fd68e557399dc7e1d90e25bfd64988a540b93bdcc3113483fdf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_Motion.mat": {
+    "size": 9007,
+    "mtime_ns": 1464499827000000000,
+    "sha256": "b6ec67e583b7cbf91362c9aaeaa61a1badf8e943de244834ef1a40c85227a169"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_SAll.mat": {
+    "size": 3500445,
+    "mtime_ns": 1464499821000000000,
+    "sha256": "6b235abea0ed71dca9a0d39345bc589113395004cec48321db1c893034609c5f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_SBurstFiltered.mat": {
+    "size": 3371039,
+    "mtime_ns": 1464499823000000000,
+    "sha256": "55091bd835edcd6130bbeac1ef64e517113a905b92e955eabb8f187540cb0684"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_Spindles.mat": {
+    "size": 2176319,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "fc965397cf9b082cbc3384046bd5dafa62ea099e472465d0cd5068560ff9f98b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_SStable.mat": {
+    "size": 3410172,
+    "mtime_ns": 1464499824000000000,
+    "sha256": "0faaae7b3fa39d3633ec0198a924bbc90ce0594e425de97f932eb916a38d9d10"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_SSubtypes.mat": {
+    "size": 6819741,
+    "mtime_ns": 1464499826000000000,
+    "sha256": "d738c02aa673587d88fadb62073db493d01316f4f20f50e99df972a0ef344da2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_UPDOWNINtervals.mat": {
+    "size": 147772,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "237ab9dc15a55e283b7e40c49fd6f98e146bb4e459ab7c4b2bc09f3a8480444e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072114_mPFC\\Dino_072114_mPFC_WSRestrictedIntervals.mat": {
+    "size": 3971,
+    "mtime_ns": 1464499821000000000,
+    "sha256": "ef7b610683f62882d47c6ab6bef079fe598d681b790f3d2ff1655ac543d69dff"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC.eeg": {
+    "size": 3663990500,
+    "mtime_ns": 1464499858000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC.xml": {
+    "size": 85999,
+    "mtime_ns": 1464499858000000000,
+    "sha256": "217198395e8ef3327d377a7277bea364ca1fc1b026b3002d2a1ecd16b9139dee"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_BasicMetaData.mat": {
+    "size": 1493,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "a73f4a58c269e155239cc3276812e9c0b181ea95f27a7bd4bdae401769f01540"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_CellClassificationOutput.mat": {
+    "size": 619,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "f48106acdeddb755e9316933522d400a5c5d331af0a7b6b2d2ceaf5515e1cf6a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_CellIDs.mat": {
+    "size": 282,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "63eca0b682f53bacae89e54098db7105eaada8ed23c850b61cc3178adba23062"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_EMGCorr.mat": {
+    "size": 183447,
+    "mtime_ns": 1464499860000000000,
+    "sha256": "2c91f51e2c32964d2a338ac8b260883de9dbd9c22417396c36c6f37dadd8bb48"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 129924,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "e6c62b5ba25af866d4126bc5e4dde12facfba51501cd0c7650a75a5c5c5241a8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_GoodSleepInterval.mat": {
+    "size": 376,
+    "mtime_ns": 1464499828000000000,
+    "sha256": "24ddfc2d4a62508ccdc1b44e68b71bf3c9c981f0234c1801cd3c6f72457983a6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_MeanWaveforms.mat": {
+    "size": 35702,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "4b929e5abe9b54d29f0dea11acf714941a0e2db8c698102d5016820671983b80"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_Motion.mat": {
+    "size": 8845,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "c3acf33ee9f8dcf975f0fe34fd6033988bc6b1a7a663fbfb62ec11fe77ccfd1b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_SAll.mat": {
+    "size": 7187354,
+    "mtime_ns": 1464499858000000000,
+    "sha256": "7b19087b1703c4cc751e381adcce68d96cfd9da477ef2595220cadb30ca6bdc8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_SBurstFiltered.mat": {
+    "size": 5339866,
+    "mtime_ns": 1464499859000000000,
+    "sha256": "f913d2838ebec1e86667f85dc75907a8808a4a76bfd2257783841c5413c87677"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_Spindles.mat": {
+    "size": 3817014,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "bc833b0aae6837aa2d037d59e81c5dea4fe266772cca0a3cf7453714aa4ddde2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_SStable.mat": {
+    "size": 5440162,
+    "mtime_ns": 1464499859000000000,
+    "sha256": "2bd74ceb1f358677e29aeb8c13cd5b310509052dbb80b53ab8033966a9b1ccfa"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_SSubtypes.mat": {
+    "size": 10880581,
+    "mtime_ns": 1464499860000000000,
+    "sha256": "91eb92911728c830a4a3b54f4f273de196496a512afa393843b6dbf9cd10acdf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_UPDOWNINtervals.mat": {
+    "size": 276620,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "b7ace84af56ac57dadf851613f9b78e6a388dd279938d29fdeb9d5efe8a23f28"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072314_mPFC\\Dino_072314_mPFC_WSRestrictedIntervals.mat": {
+    "size": 4269,
+    "mtime_ns": 1464499858000000000,
+    "sha256": "33081fe130ee6beb0f34bc5686997f23a664b9dc8e094efbedca459f637fae99"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC.eeg": {
+    "size": 4689124000,
+    "mtime_ns": 1464499895000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC.xml": {
+    "size": 69548,
+    "mtime_ns": 1464499896000000000,
+    "sha256": "8aba48b13741851a352699a2a3d29933c58a1670857578a5620040d16e783548"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_BasicMetaData.mat": {
+    "size": 1489,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "93cb56a7c868b5fd03b96871673e057d8cccb6c74c8fb168d6b564f89526b78d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_CellClassificationOutput.mat": {
+    "size": 886,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "705484be404ceca0471eb0aa2b10fad5ac1b0134cd4459ab8b0d7312ecb80d5f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_CellIDs.mat": {
+    "size": 334,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "c389087c2ba150a76120ed53cc4af5d1d0c1d0851edf1b822faa146905afd51e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_ChannelAnatomy.csv": {
+    "size": 1049,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "060a7613f0e9447762329b2152db989dc2673a946bd1c14ccee1c85288ec77ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_EMGCorr.mat": {
+    "size": 233202,
+    "mtime_ns": 1464499902000000000,
+    "sha256": "40929961d4f8ad580a97c72eb569d6ef71c2d9479ea7c8d1bb242a77bacd33ce"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_funcsynapsesMoreStringent.mat": {
+    "size": 917939,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "d47507babc451793ba01a80c020336733f8692107640d3b76021b9483f588d84"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_GoodSleepInterval.mat": {
+    "size": 370,
+    "mtime_ns": 1464499861000000000,
+    "sha256": "1b568ad471c5652c07a7ef66a37ce4be17e7bfc5c912f3f17c74b33aa3b534d5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_MeanWaveforms.mat": {
+    "size": 100508,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "c1289571fd9d9b18d476784c6fd2feed855811fcb3c4e527bb2f4d7ac429bba9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_Motion.mat": {
+    "size": 10095,
+    "mtime_ns": 1464499902000000000,
+    "sha256": "d68ad76d7993ac2927fbc6bf52c607f077fcad96fd6bb64893a6a6ca1a12ee6b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_SAll.mat": {
+    "size": 23415341,
+    "mtime_ns": 1464499897000000000,
+    "sha256": "54e93808997d0a9c10851d5455044eea393ca48800a3f58524bc2137dac9b9b3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_SBurstFiltered.mat": {
+    "size": 20190040,
+    "mtime_ns": 1464499898000000000,
+    "sha256": "b8fcfb73c0ff8bef9791b7130998cc1b4b6b6dba5ee265e3d5f13e909c542120"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_Spindles.mat": {
+    "size": 1909284,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "fe8396a0f45e16dd53924ebb7b565e1d1816ad5ccabaa19863da5ed1589222bd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_SStable.mat": {
+    "size": 20588597,
+    "mtime_ns": 1464499900000000000,
+    "sha256": "5ea188146a158b8a2233ed0bfe1d70a8bc7058b5820ab47819fa6818aaa5c5e3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_SSubtypes.mat": {
+    "size": 41177436,
+    "mtime_ns": 1464499902000000000,
+    "sha256": "72b48456a9360dabff40b19282d15a204a0843365e0b96a4caba28815646d578"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_UPDOWNINtervals.mat": {
+    "size": 108610,
+    "mtime_ns": 1464499902000000000,
+    "sha256": "7c08265a4765895bb110da52e82e537747ec0f3022e1023920eab41a8caa7a86"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Dino_072414_mPFC\\Dino_072414_mPFC_WSRestrictedIntervals.mat": {
+    "size": 3867,
+    "mtime_ns": 1464499896000000000,
+    "sha256": "60c02a5cfc486876cb6a7b26066667e2222474ff7fbe802c3b3528ce60d1d821"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um.eeg": {
+    "size": 3257366400,
+    "mtime_ns": 1465579401000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um.xml": {
+    "size": 49354,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "9aa61e439b144957912414ffdccfdf77b3dd9a4d17994d782c9833efddeb40cb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_BasicMetaData.mat": {
+    "size": 799,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "ad4daac5ae7e4a58c7b31d065dfda75df1df3c704c4357e3f63ec23b87431822"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_CellClassificationOutput.mat": {
+    "size": 999,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "12728961da6437a7aa00772a9f1d842717051cd8c088c432232244b68b09a4e2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_CellIDs.mat": {
+    "size": 368,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "5cb19d8fec9170e93071015f41a26cef3a875f946cce402b98771d9434e64270"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_ChannelAnatomy.csv": {
+    "size": 582,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "570844c9dae3a5f3ddf3a83accb63d5a18ecec307dc989c070d8088a45e8bf26"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_ClusterQualityMeasures.mat": {
+    "size": 88771569,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "756002adc468ae23b57946210940660d0f24ef11bc2b45015e3071ea31261391"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_EMGCorr.mat": {
+    "size": 241023,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "36effc9a4d6710316259d79bb3e71fed98bedd5ec6607761973a260994d7be54"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_funcsynapsesMoreStringent.mat": {
+    "size": 1595175,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "6d1adb0ce0a8b2c1193986ba6dae1655d0754552444609cf2060c84c3c1cad8f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_GoodSleepInterval.mat": {
+    "size": 368,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "29724a071d1b80d3d82fce247218d50b5d45c9c36ebe57ae0395013844d8420f"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_MeanWaveforms.mat": {
+    "size": 134498,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "830b1bc46582af98577072e9d4efc2071783f8353791c4b281cce60a1d7e05cd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_Motion.mat": {
+    "size": 104074,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "b0a0a04660cf217e831f1141a286159e11ff86a3b7ebea1631fbf246c4d524b0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_SAll.mat": {
+    "size": 37818838,
+    "mtime_ns": 1464499905000000000,
+    "sha256": "3d67a63a29e21a0ba6e3784fb4bd23643681889e0f15c2d79adfdeac61c3c80e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_SBurstFiltered.mat": {
+    "size": 32252769,
+    "mtime_ns": 1464499907000000000,
+    "sha256": "e39becb1b6e3e78d614abe2540bec06e359d2ce3a8170e4f8f1bbae924ac81d0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_Spindles.mat": {
+    "size": 5987752,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "6e80d06276a772fb418d49c4d660ce9c8cd7f53310d6dfee224d98b8b0d87c60"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_SStable.mat": {
+    "size": 33886973,
+    "mtime_ns": 1464499909000000000,
+    "sha256": "b9e35a076c945aea92a379fb6e9e342482e760ca4e9f6f97409f24d63a025eda"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_SSubtypes.mat": {
+    "size": 67781115,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "656dcfaa5644a3a6118ac9c87827942f0798368fe53104ecbf479d11afb69883"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_UPDOWNINtervals.mat": {
+    "size": 231400,
+    "mtime_ns": 1464499912000000000,
+    "sha256": "95ab564d32f39ea03fedc4a3030c9d1cc95b9cfb717929591c48e9342de10311"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140526_277um\\20140526_277um_WSRestrictedIntervals.mat": {
+    "size": 3543,
+    "mtime_ns": 1464499903000000000,
+    "sha256": "1434b510af9b539ef54b4461254fff1107ff8c632f7cf741a9fea0f9cc0bae9a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um.eeg": {
+    "size": 4227664320,
+    "mtime_ns": 1465581152000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um.xml": {
+    "size": 43384,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "0e9dcedaf1ac3228e6adf2a7a42dac19c272c49a434bfc71d1ca1bbcb188f9a6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_BasicMetaData.mat": {
+    "size": 795,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "7c18de4702456e60d3f10993d916b90ec4bac16fd44ea42432bd3aa0526dd1b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_CellClassificationOutput.mat": {
+    "size": 784,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "ea854ed0ffc1e24f1c8b151c943bc85dbb4756653d628ffbba77478676bfb03d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_CellIDs.mat": {
+    "size": 323,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "6f34bb1d584ba1b92387576f42ac207e971583e4b938a69a03f80b9eb5ea5842"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_ChannelAnatomy.csv": {
+    "size": 582,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "4d79574f1e5c7019c2ce5524e205010a0bbc394deb2c98ff087a9a3f18398fba"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_ClusteringNotes.csv": {
+    "size": 101,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "63e7741cd25ce53a6d7650f20423f22c9420dc2f8943fbd4c902167d5c6ac5b5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_ClusterQualityMeasures.mat": {
+    "size": 61594560,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "66722aad3d1e6a4766d91bdac934cfce51cb4d4f077a666f7b5ebda1a1d69c67"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_EMGCorr.mat": {
+    "size": 310866,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "526eea8aa9dde955f6746822ceae26bdd11f50762b7af40403faee663d7951af"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_funcsynapsesMoreStringent.mat": {
+    "size": 370797,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "83723a6f02e4c826d2274eb8555dfaea6c0bb466b37dec1cbd5283c80c921fce"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_GoodSleepInterval.mat": {
+    "size": 368,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "c9843835af109222b7dca579e5e3f600b6b2b10d5f05f8e0db730461cfc835b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_MeanWaveforms.mat": {
+    "size": 7906,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "3eb686a88f83b3a78f5277e315002da0fa77be3980f9ab15c9412f3cbbf7d37a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_Motion.mat": {
+    "size": 134611,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "ad201950d46fddc408a1cb7e5031611f093ac851bda26507ac4c792c77a0ac3d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_SAll.mat": {
+    "size": 26055085,
+    "mtime_ns": 1464499914000000000,
+    "sha256": "724048d13962e398950ab0d308dfbf6e6a7c4637e16dc293ae6ccaa2d751d82d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_SBurstFiltered.mat": {
+    "size": 19049179,
+    "mtime_ns": 1464499915000000000,
+    "sha256": "807a19c81b6c3fe046650a192542af24b403d84fc9f02a4bc25cfcbd7f8eab84"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_Spindles.mat": {
+    "size": 3510534,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "f8feba876c0604ffabaa97748ef3b3d584e86a66e7b3db57ecf2de4c0d5684de"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_SStable.mat": {
+    "size": 19985169,
+    "mtime_ns": 1464499916000000000,
+    "sha256": "03e76662daa598adebc00d9a57bfbc9eef0158e1be50fa1d80a5233ce3729102"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_SSubtypes.mat": {
+    "size": 39971466,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "da85646926893285f61862ae14332b92e4b1eed886de6bb50c5b1e16f901d3f9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_UPDOWNINtervals.mat": {
+    "size": 250774,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "b45c360d8cc14ae5e6ca4d51dc502730dc72853f123d8f8cbd79ed5dcadfe159"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140527_421um\\20140527_421um_WSRestrictedIntervals.mat": {
+    "size": 3234,
+    "mtime_ns": 1464499913000000000,
+    "sha256": "a795cf6af8a00156fa54f9a8be81f69e4c123c914e8a387c8ed449d8ad6bb270"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um.eeg": {
+    "size": 2974976640,
+    "mtime_ns": 1465581291000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um.xml": {
+    "size": 42965,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "ebfea54f182473543fc28e1694a14a47ce9bfb7ef2e2d42e19bf4efbdf044d6d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_BasicMetaData.mat": {
+    "size": 808,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "4a2742c42fffe8d7290f7d5621f99cb3dbf45f3c95932e38c32fab8f38027b7b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_CellClassificationOutput.mat": {
+    "size": 801,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "a76e8a458cee3275930ac2366e1182d17f840c71068e32924216cf690e593cd6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_CellIDs.mat": {
+    "size": 331,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "c62262e1ba7c2b82598c956a7951c04dde35bd1b48935f0f9e882e94f1716342"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_ChannelAnatomy.csv": {
+    "size": 582,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "4d79574f1e5c7019c2ce5524e205010a0bbc394deb2c98ff087a9a3f18398fba"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_ClusteringNotes.csv": {
+    "size": 101,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "24fa3f00001d918cae5cb83e8a3061e708bc4d5d134e2e57757ad5d28dbace56"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_ClusterQualityMeasures.mat": {
+    "size": 42676309,
+    "mtime_ns": 1464499924000000000,
+    "sha256": "6a8bbbd54fa4afa4a612c42003c96d1547e41240805e04824e292687cbd51d86"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_EMGCorr.mat": {
+    "size": 220062,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "a31c137106c37c3b67bf18a87ff3a5071047ab7034378f7330e29b4f001fe049"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_funcsynapsesMoreStringent.mat": {
+    "size": 470486,
+    "mtime_ns": 1464499924000000000,
+    "sha256": "11c05c19d92737e8a5a1c8caf1753746f255cd0ba0ba823905cec9ffbecdf5b7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_GoodSleepInterval.mat": {
+    "size": 368,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "0cbc7f1dc51f1547a44302336c11ae572ae731e3e406b6d755fa9775ec70bcdf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_MeanWaveforms.mat": {
+    "size": 8862,
+    "mtime_ns": 1464499924000000000,
+    "sha256": "1b477a839952c054b90f76af79729b2d6aead2a8fe9aac493658f92474ee7014"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_Motion.mat": {
+    "size": 93437,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "7db7922fbbbb63d976f84b14a333f3bcd1d1c86946345010b3eaacb791cb9e6a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_SAll.mat": {
+    "size": 18263862,
+    "mtime_ns": 1464499919000000000,
+    "sha256": "d91b5081b88a272b6ab88df2a87082ba7aefa30ba27a150b3204de0c63833668"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_SBurstFiltered.mat": {
+    "size": 17461926,
+    "mtime_ns": 1464499920000000000,
+    "sha256": "e12ec2b84c9e98a60575531b7eec012bcb9f227cef0594b4dec2d504487ca462"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_Spindles.mat": {
+    "size": 6026497,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "b1f1f137362bd44fd5dca0a67670afd500a3a31e2aa3dd0a513309f704283ed7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_SStable.mat": {
+    "size": 18205640,
+    "mtime_ns": 1464499921000000000,
+    "sha256": "b91e34d05d68e5d304491da7448af0ae4dec73a9a882a86ab4559d8ef8a56422"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_SSubtypes.mat": {
+    "size": 36412618,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "978017145561af5ce0e62487e8951ff8a35eb50a7df3c9299554003e4aae0c37"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_UPDOWNINtervals.mat": {
+    "size": 312753,
+    "mtime_ns": 1464499923000000000,
+    "sha256": "afcaa6dcee247cd0fdf04ff190f6397b0deafcae8271bebb404f851bf0789245"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\20140528_565um\\20140528_565um_WSRestrictedIntervals.mat": {
+    "size": 3325,
+    "mtime_ns": 1464499918000000000,
+    "sha256": "3d9bc1049508fc9c4946d4d0c23595337a144feb2c279910c4700657f213f7c1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615.eeg": {
+    "size": 5277289500,
+    "mtime_ns": 1464499984000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615.xml": {
+    "size": 50326,
+    "mtime_ns": 1464499984000000000,
+    "sha256": "298fc7787c7475a01842b27dd9f4f7dc419a20d03c6461e744258db9afeb7b76"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_BasicMetaData.mat": {
+    "size": 1009,
+    "mtime_ns": 1464499924000000000,
+    "sha256": "889b20ffcbdfdb31f90a6b2d410abcd32acb4802079c8cafcf588df63a1507c9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_CellClassificationOutput.mat": {
+    "size": 809,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "36fab6fe097af22030ba5d1c4ead5eae6276017bf8b6492579b784d44d8cee07"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_CellIDs.mat": {
+    "size": 321,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "36356c13e35b64f4371930804a62eee93e0acd3c09c37a9bfa2a5a7a61ad43b1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_ChannelAnatomy.csv": {
+    "size": 674,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "5cefb1996d80c3b8e4027e0d035490602b92499e5c015f7dc81d2b8d09a94fa9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_ClusteringNotes.csv": {
+    "size": 189,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "03d68b781267ad6882d2bdd8fed0c624d530cc85a883cc9c02c44ea1a15bee96"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_ClusterQualityMeasures.mat": {
+    "size": 46977477,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "9e003555e710edd5ae91f4fcacd3fd2e22bad7b0246748ec94d15c792a45c26e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_EMGCorr.mat": {
+    "size": 425738,
+    "mtime_ns": 1464499989000000000,
+    "sha256": "c3becd6fcbe74f1e0a699ddda579904d25395eba36e5eb860d64f4985809e3a6"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_funcsynapsesMoreStringent.mat": {
+    "size": 488583,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "4507b7866ed350f727d8cd778af431874a7df5f653c4a7b2f2e68c6a8a4bb98e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_GoodSleepInterval.mat": {
+    "size": 374,
+    "mtime_ns": 1464499924000000000,
+    "sha256": "1218e07b6a8a5704d3406f980d8ed97ed1e9d647242b8cc45b719a644b666032"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_MeanWaveforms.mat": {
+    "size": 78822,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "80c1bec5a9ee5d248b1992e348d117d928888041451832f784d59b6b19cb5e80"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_Motion.mat": {
+    "size": 84292,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "cbfaa6d867522bff207dfcfa8a0a29ccbae511110093a3070aa130d792509bdb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_SAll.mat": {
+    "size": 20195266,
+    "mtime_ns": 1464499985000000000,
+    "sha256": "c5744e830b3fed3150c9cfc33694529fc3b90e9dcda18704ceacaa90ec71a51c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_SBurstFiltered.mat": {
+    "size": 19253559,
+    "mtime_ns": 1464499986000000000,
+    "sha256": "ba60f35b6ea1e4e28b9e0a82aecb8a726965275e29884a510c416ad867f96120"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_Spindles.mat": {
+    "size": 11379035,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "95855b4ae48ac0e4393308ee9907ec62217d185e1bba73d386626978bb96a6dd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_SStable.mat": {
+    "size": 19370404,
+    "mtime_ns": 1464499987000000000,
+    "sha256": "d778e8b4df9b57a0db56c071d41b93b24ee7d4c9a10d29509eea03f5c6947f4a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_SSubtypes.mat": {
+    "size": 38743772,
+    "mtime_ns": 1464499989000000000,
+    "sha256": "eeb8dfd1ed102407ede099e91c36445454075c320e9bb98d51195dc447a50a00"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_UPDOWNINtervals.mat": {
+    "size": 875517,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "b653bb5d262ffbda1403439221df1a6aac8a85fca74fae31ed08bedbeb4f7acb"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Bogey_012615\\Bogey_012615_WSRestrictedIntervals.mat": {
+    "size": 4874,
+    "mtime_ns": 1464499984000000000,
+    "sha256": "802963356477407cd3877e1874dfb23ce6d80556bb340ed9d239ef4e2bafbc2a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515.eeg": {
+    "size": 4171422500,
+    "mtime_ns": 1464500036000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515.xml": {
+    "size": 47371,
+    "mtime_ns": 1464500036000000000,
+    "sha256": "a1a6e087f1b631b8ed2ebddbc5b543cf94c29eae1f9e4a7962533a3d89dca7bd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_BasicMetaData.mat": {
+    "size": 931,
+    "mtime_ns": 1464499991000000000,
+    "sha256": "c9ebc2e491fa42e45cb2071715099c918853219649787a1776a954d48fc95221"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_CellClassificationOutput.mat": {
+    "size": 757,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "92ae7238644e0389924a09d5edfc1398494acb3b14dfdd57c3c430e5375b1e3c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_CellIDs.mat": {
+    "size": 300,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "e77e55164fe7baba1e40848a7c3f77ee52f9b1ae1a505d50e0fdec3bf9b8af6b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_ChannelAnatomy.csv": {
+    "size": 462,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "8c3eed78e5b27cf65ade6c5215f5447681c3358276f48b9ffbcafc5d695d1464"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_ClusteringNotes.csv": {
+    "size": 270,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "75e565b04f9b764bf930dc883576c4693a27232cba74b392aa77dac65d52461b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_ClusterQualityMeasures.mat": {
+    "size": 34266625,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "83b8ada564dc1cda5fc9b357bc85b77777d07ff9e4583974dd25249f97ad255a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_EMGCorr.mat": {
+    "size": 418176,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "c970a02c8d546f1d2fd99b1811c78252854b7f437fe8e6a276d86584e401c475"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_funcsynapsesMoreStringent.mat": {
+    "size": 210139,
+    "mtime_ns": 1464500041000000000,
+    "sha256": "788de183874135ed7e66706043787101861fb308e1b1254451d1e930310962bd"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464499990000000000,
+    "sha256": "0102bfc50ffcf7c187b1c5c2e9379d194cda8638c995e27f2862480388954176"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_MeanWaveforms.mat": {
+    "size": 7317,
+    "mtime_ns": 1464500041000000000,
+    "sha256": "39d42586f9908771c1b1ea239df99b89ac814ae0dd1ee8dcf3c5446a2591ea99"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_Motion.mat": {
+    "size": 22878,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "e61b3237fcee953ffb4ed3bb2f7b36ae332f1e1b4985bbf618bc022560779a7a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_SAll.mat": {
+    "size": 14277771,
+    "mtime_ns": 1464500037000000000,
+    "sha256": "40c1562b74ffbfd1487d3df2b0d2bf0505d7788b278ed8ca08e8b5a66467135b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_SBurstFiltered.mat": {
+    "size": 7695314,
+    "mtime_ns": 1464500038000000000,
+    "sha256": "44c0421604f0e1c6a141d9abd3aac0dd34f1da01785f84d70d6c87d2b27e746d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_Spindles.mat": {
+    "size": 12464385,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "2c44db3345f730cfc6220df37fa1335500fff298f054a4d7c6e44eaf03a85358"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_SStable.mat": {
+    "size": 7780657,
+    "mtime_ns": 1464500038000000000,
+    "sha256": "57bed47d7722c32124ad68d83a344f3946b638091ab37a1c4a79e24ae116be68"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_SSubtypes.mat": {
+    "size": 15561965,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "cb35ffe053b4ed809d6b3f50ae2226fab08ae56dd45e82cf0871fce9eeed1acf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_UPDOWNINtervals.mat": {
+    "size": 755147,
+    "mtime_ns": 1464500040000000000,
+    "sha256": "4903a9f2e8db4bfc0219c50f5b2bfd5d6269380953dd90aaa89bafa9e49509aa"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020515\\Splinter_020515_WSRestrictedIntervals.mat": {
+    "size": 4192,
+    "mtime_ns": 1464500036000000000,
+    "sha256": "b2589c1d77523e585d7d8b1534adc3093d9c1dc77dbd270092dc40663459df02"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915.eeg": {
+    "size": 3170812500,
+    "mtime_ns": 1464500075000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915.xml": {
+    "size": 43627,
+    "mtime_ns": 1464500075000000000,
+    "sha256": "d86f120570fd66dab22c30909e3435cdc0f249a670c2f6bbcf1d03adc39f5177"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_BasicMetaData.mat": {
+    "size": 910,
+    "mtime_ns": 1464500041000000000,
+    "sha256": "4f89974795580f190a3fb4ff97b81ee6e57a847e133abd4534163b0ca0fab342"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_CellClassificationOutput.mat": {
+    "size": 935,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "a2b6a42a9862de5e923a8da882452b88b871dba808ae3d5a29accb2df63b621c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_CellIDs.mat": {
+    "size": 357,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "dd0966865e960b952b6a23a383cc36008b6dd800e09373a31bdaac0916545617"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_ChannelAnatomy.csv": {
+    "size": 350,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "1cd4cc899d90856e8d31639a5e72c5914b577b14d21ee201475f621d1da5cba1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_ClusteringNotes.csv": {
+    "size": 98,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "9396bece67245c4d2f030a6a8350637b502267ccb91f88e32a9753d98b160c80"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_ClusterQualityMeasures.mat": {
+    "size": 80687611,
+    "mtime_ns": 1464500086000000000,
+    "sha256": "b2cea1758026016350c57e9fa7395ca0c35ba99c5d7d615611a00cfdb30073f2"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_EMGCorr.mat": {
+    "size": 411575,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "11c250dfe35d6c7027b7453203849db7484237f3d11cd530a6db4ba8523c78e3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_funcsynapsesMoreStringent.mat": {
+    "size": 929670,
+    "mtime_ns": 1464500086000000000,
+    "sha256": "d859d66b0708525c4264442edac4444f3445d66456b671a1d4b8446165b20df5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_GoodSleepInterval.mat": {
+    "size": 372,
+    "mtime_ns": 1464500041000000000,
+    "sha256": "443520203c4afff9c76ce5ed1bce973249fa6ae5f113973c5ff56ce470abad21"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_MeanWaveforms.mat": {
+    "size": 111107,
+    "mtime_ns": 1464500086000000000,
+    "sha256": "ce36456b542cd7d159f43f725ef9d3e4caaae14bd8eb40733a8ea513855ad8ac"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_Motion.mat": {
+    "size": 85180,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "db16a57637b4caceabd77c0501f761eaba7342f603eb17e1ee88eaea0262f961"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_SAll.mat": {
+    "size": 34181158,
+    "mtime_ns": 1464500078000000000,
+    "sha256": "6f9de3a2fb3eaacd4958672f32409179b6e3e67778cec1dd729b02bf65e7eca3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_SBurstFiltered.mat": {
+    "size": 31394834,
+    "mtime_ns": 1464500080000000000,
+    "sha256": "669cabff9ee0a150e6bb5b6c16e523c7442ca629450d5bc342b22d9d220c4ae8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_Spindles.mat": {
+    "size": 13321896,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "5976e6a36992cc92699ff6e6afab20ab556553502a371415fa207df8154f449d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_SStable.mat": {
+    "size": 32333616,
+    "mtime_ns": 1464500082000000000,
+    "sha256": "f5f7b2558a72c09c795e3642dab58765bd04ec9d09e194052e9504ede41318e9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_SSubtypes.mat": {
+    "size": 64665720,
+    "mtime_ns": 1464500084000000000,
+    "sha256": "955dffd653c54f23c85ac82ab394f946adb9fca40a7d293c66d3ca99c6d24407"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_UPDOWNINtervals.mat": {
+    "size": 1154649,
+    "mtime_ns": 1464500085000000000,
+    "sha256": "591d4fe560e76e623604f00b35186aa74d87b43de7640532cf166a5fe4c95f02"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Splinter_020915\\Splinter_020915_WSRestrictedIntervals.mat": {
+    "size": 4088,
+    "mtime_ns": 1464500075000000000,
+    "sha256": "e01e24c897a7016c9576bcb6edec9afe0ecaa639db15dc58556ff3276f04d733"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615.eeg": {
+    "size": 6691591500,
+    "mtime_ns": 1464500161000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615.xml": {
+    "size": 55976,
+    "mtime_ns": 1464500161000000000,
+    "sha256": "4a6cc10a998c7c342d0d0df343507d97255070bba76b65bd9f49c4b5bfad3f2c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_BasicMetaData.mat": {
+    "size": 988,
+    "mtime_ns": 1464500086000000000,
+    "sha256": "99921234155967bf2c68d11885268fa2e1168a36bdc47cecfe0e2a09bb50a510"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_CellClassificationOutput.mat": {
+    "size": 711,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "6e7865057bd25b65a4778a64f63cd6e7c3e62eb5ec56938bfb52e06cc78eb97c"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_CellIDs.mat": {
+    "size": 314,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "70468c93699db98528901eb5b3484aae59071ade97545012daded596125532a3"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_ChannelAnatomy.csv": {
+    "size": 446,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "75efbcdb110d6596dd90a558f1174765c87666bbdc7a8778de97eb44cc8be6e7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_ClusteringNotes.csv": {
+    "size": 929,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "1dd2ed5d909c57f81d0b2e6a0b31ac5088e2794dc2073c3f30fc3ace1514578d"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_ClusterQualityMeasures.mat": {
+    "size": 278035722,
+    "mtime_ns": 1464500181000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_EMGCorr.mat": {
+    "size": 705945,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "32d10c0744648efa18113c4dbc18e8c600df29c4647359617baae1f47334ff3a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_funcsynapsesMoreStringent.mat": {
+    "size": 343567,
+    "mtime_ns": 1464500181000000000,
+    "sha256": "111c7fb2c6893bad0cac88722b540b7168952b88d8095af099702e3e5a038168"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_GoodSleepInterval.mat": {
+    "size": 376,
+    "mtime_ns": 1464500086000000000,
+    "sha256": "47801ed1cc966af6976c67b39b3fb9c5cc9980be8397b341a2f787cd1342fe81"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_MeanWaveforms.mat": {
+    "size": 57964,
+    "mtime_ns": 1464500181000000000,
+    "sha256": "c5a141cce3c7e5494f8f39e981fd246a2c4a15ab8efbdb97c84f8ecb356a7860"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_Motion.mat": {
+    "size": 146832,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "aab4e505594f0d84fa3ea1edb1a1af0c9dd61c0ed2938253456841c3f7b59ac1"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_SAll.mat": {
+    "size": 115206667,
+    "mtime_ns": 1464500167000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_SBurstFiltered.mat": {
+    "size": 37058839,
+    "mtime_ns": 1464500171000000000,
+    "sha256": "ed70e066fb95b6c7a152b8a1346941c3b14f0eccbe24e3e7f09cd7e06c045d61"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_Spindles.mat": {
+    "size": 33516633,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "32155a0be9c8a5ea4190b541265d1db95690dbff32925cc65311a80a730b9d63"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_SStable.mat": {
+    "size": 38333252,
+    "mtime_ns": 1464500174000000000,
+    "sha256": "11678e7ae9086ab9744a0c731f9c3862cbc76e9b1325c29cad51b688066e06a5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_SSubtypes.mat": {
+    "size": 76664857,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "573b2208d2b5db02bbc2d410acd6c98772bf281ea833907575fce04a2c4a0010"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_UPDOWNINtervals.mat": {
+    "size": 1804163,
+    "mtime_ns": 1464500178000000000,
+    "sha256": "c4a9202af6a94be9c349572472fc317e07963337e4cd738d508892b53b999178"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022615\\Rizzo_022615_WSRestrictedIntervals.mat": {
+    "size": 4845,
+    "mtime_ns": 1464500161000000000,
+    "sha256": "95d5a104f7bcc76d1f8fdca5005ef819ef0ed4e16a33e262916e3db9ab809f2e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715.eeg": {
+    "size": 4278796500,
+    "mtime_ns": 1464500234000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715.xml": {
+    "size": 54934,
+    "mtime_ns": 1464500234000000000,
+    "sha256": "84fd0ee122ae25dc0067b0d8403833dc7b7abdd6ca123d076fee7dcfa78a28ff"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_BasicMetaData.mat": {
+    "size": 964,
+    "mtime_ns": 1464500181000000000,
+    "sha256": "b8f7fbbdcae1c31faff257b9a31ba493d1b374702d84f34c7a9593d5ddc949fe"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_CellClassificationOutput.mat": {
+    "size": 1252,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "17f9d5089ea6ff4d6b0b95d668b2b6d37260f67e7cd51938bcc34be38f160495"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_CellIDs.mat": {
+    "size": 402,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "980228c3d26db6ceea501b43f87abd2a0e8cc1c75aa52d47ca9c50f3c4215a73"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_ChannelAnatomy.csv": {
+    "size": 446,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "75efbcdb110d6596dd90a558f1174765c87666bbdc7a8778de97eb44cc8be6e7"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_ClusteringNotes.csv": {
+    "size": 100,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "501e7436f37c1ce2fc5549868a36e364c980638e1c7014344641c4cf8e0b71df"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_ClusterQualityMeasures.mat": {
+    "size": 163570792,
+    "mtime_ns": 1464500253000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_EMGCorr.mat": {
+    "size": 453801,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "1009d14dcec001235d32b3c19587aa9ae5d79d33f0728798f86d0ac28d6ca4b5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_funcsynapsesMoreStringent.mat": {
+    "size": 3693060,
+    "mtime_ns": 1464500253000000000,
+    "sha256": "041033b2a43beb3264e4d09b51389432e2ed3a17372830dfd162986b7c6499e5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_GoodSleepInterval.mat": {
+    "size": 371,
+    "mtime_ns": 1464500181000000000,
+    "sha256": "0d578402d265ff0c7e33e1c904a7c9dbef00eda8d8f1ef93b2905a24ecc077d9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_MeanWaveforms.mat": {
+    "size": 204676,
+    "mtime_ns": 1464500253000000000,
+    "sha256": "0edbf0e3c93cdcc448579e514899d5e2714c7c036db3a5fc45bcb5e1db396a62"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_Motion.mat": {
+    "size": 93035,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "105d12ad1a3c4a26dea5076f1c2ea9a410e9caeeb4a8e73d3aa661a32808b4a0"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_SAll.mat": {
+    "size": 69818906,
+    "mtime_ns": 1464500238000000000,
+    "sha256": "5f8c6a7108c097e6a5769837b6a108d5df377cf732f355b2e85dede7cfefbfcf"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_SBurstFiltered.mat": {
+    "size": 66688936,
+    "mtime_ns": 1464500241000000000,
+    "sha256": "c6d5c7ba27e4a517bedebcf471a0161c3392779690f54707e7cd9efb3967ccd5"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_Spindles.mat": {
+    "size": 11667598,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "16d19fac26203181250eabdb797bbe7327060615e0a0f64587e8a9982b6c4706"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_SStable.mat": {
+    "size": 69096140,
+    "mtime_ns": 1464500244000000000,
+    "sha256": "224cea632b52152b7f6b96c384649525830a7dd258a7377c9e173095c1213b76"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_SSubtypes.mat": {
+    "size": 138196313,
+    "mtime_ns": 1464500251000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_UPDOWNINtervals.mat": {
+    "size": 774589,
+    "mtime_ns": 1464500251000000000,
+    "sha256": "ce4a284f6b93e12a4320dc13e85e07d11460dd5eab8f3875f422a3e0efeb09a4"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Rizzo_022715\\Rizzo_022715_WSRestrictedIntervals.mat": {
+    "size": 4014,
+    "mtime_ns": 1464500234000000000,
+    "sha256": "692059046d3cfb21ae27baa807fa6700f72157e8a41876e6bd4289ce642c53ae"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415.eeg": {
+    "size": 4621468000,
+    "mtime_ns": 1464500306000000000
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415.xml": {
+    "size": 49044,
+    "mtime_ns": 1464500306000000000,
+    "sha256": "cf991ba9f519d7131b63b13fddf28d009c92d7951fb83b567271af847d743ae8"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_BasicMetaData.mat": {
+    "size": 1026,
+    "mtime_ns": 1464500253000000000,
+    "sha256": "e16bc75cac1ed1ea93f54d842875988b271aa774cfdafb13d00fd3588de69a8e"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_CellClassificationOutput.mat": {
+    "size": 501,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "c10fe4f791ba0875a643bc9c02add1df52709681758a7832598d43567cdf5f58"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_CellIDs.mat": {
+    "size": 261,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "8f3fb0aa89cf57f3ebae7323c4024b5440570a7f0d74769570e1cd3a6f6d9f22"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_ChannelAnatomy.csv": {
+    "size": 826,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "8656b644739a0ee1a1cf5b8f427fcffa2548220127e5047156921d2b8ba826de"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_ClusteringNotes.csv": {
+    "size": 111,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "b355afa26f74ec89e7085fd21e1525dcb91bc5a870286aee04c0bf75ad0ec4ab"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_ClusterQualityMeasures.mat": {
+    "size": 4542631,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "7cc7b0718c54983885e6488f7acad94231022e7810f6651a0c76e7727f902eff"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_EMGCorr.mat": {
+    "size": 336138,
+    "mtime_ns": 1464500307000000000,
+    "sha256": "362829977eb99d5625bf3fc4fcc81552d8509053b6eb611a615d9569d5534816"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_funcsynapsesMoreStringent.mat": {
+    "size": 28818,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "1e3af9e55e00d67232860c41ac2395712afb6617247af705adfeb09be10b94ef"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_GoodSleepInterval.mat": {
+    "size": 373,
+    "mtime_ns": 1464500253000000000,
+    "sha256": "45943924178b4c5677074c9d5faf7a42acb65a02ecb168f54f272d003f47f5a9"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_MeanWaveforms.mat": {
+    "size": 21700,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "d6fac91f013ffc593d06f456ca3f54c88f7759c8bd5b5e126d169a57b63d3213"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_Motion.mat": {
+    "size": 54188,
+    "mtime_ns": 1464500307000000000,
+    "sha256": "19110324adebcf917e8630f1a1f2b70b18741d772f7ffdfa88d45ee63c89387a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_SAll.mat": {
+    "size": 2025433,
+    "mtime_ns": 1464500306000000000,
+    "sha256": "5592cb3c331b6e19eb0ac54331ec0e8066a3208badb30d2a2eb0c1364f79ab3a"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_SBurstFiltered.mat": {
+    "size": 1998052,
+    "mtime_ns": 1464500306000000000,
+    "sha256": "da959e395e9a7fcd4f93c632c8581ef327db559024846cfe27f4581670d822ca"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_Spindles.mat": {
+    "size": 17288522,
+    "mtime_ns": 1464500308000000000,
+    "sha256": "45322e431891bb1b615a88416949b83bf1ab8fb9d45113c0ea5939f42a309e42"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_SStable.mat": {
+    "size": 2025593,
+    "mtime_ns": 1464500306000000000,
+    "sha256": "d69afe97f4d43750999288369e7dce89f0e0ae074c6cfbcadc1f799fb3b5e01b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_SSubtypes.mat": {
+    "size": 4050455,
+    "mtime_ns": 1464500307000000000,
+    "sha256": "f909554fe6ff18ec0ccdab9e4e2be2230144ac00f700daa8ff8ecdfbb8946a2b"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_UPDOWNINtervals.mat": {
+    "size": 801650,
+    "mtime_ns": 1464500307000000000,
+    "sha256": "87eeb5450ecd1918ce82c6cc0c87a2ad60c3d17101b596bbf3e9af699cbe9684"
+  },
+  "F:\\CfC-Sleep\\crcns-downloader\\fcx-1\\data\\Templeton_032415\\Templeton_032415_WSRestrictedIntervals.mat": {
+    "size": 4552,
+    "mtime_ns": 1464500306000000000,
+    "sha256": "9231265fd0bbee91a8c8f63a7f8a6784d0a6bbb9b05f346d3596ca17099ac883"
+  }
+}

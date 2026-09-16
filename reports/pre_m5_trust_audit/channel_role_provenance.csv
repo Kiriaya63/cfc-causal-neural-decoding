@@ -1,0 +1,165 @@
+﻿animal_id,session_id,semantic_role,source_field,source_file,raw_value,source_indexing,physical_channel_one_based,numpy_column_zero_based,anatomy_raw,missing,malformed,used_by_m4,shares_physical_channel_with,cross_source_check
+BWRat17,BWRat17_121712,recommended_lfp,goodeegchannel,BWRat17_121712_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,True,spindle|up_state,
+BWRat17,BWRat17_121712,theta,Thetachannel,BWRat17_121712_BasicMetaData.mat,65,1-based (official data description),65,64,dhipp,False,False,True,,
+BWRat17,BWRat17_121712,spindle,Spindlechannel,BWRat17_121712_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,False,recommended_lfp|up_state,
+BWRat17,BWRat17_121712,up_state,UPstatechannel,BWRat17_121712_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,False,recommended_lfp|spindle,
+BWRat17,BWRat17_121712,up_state_detector,UPchannel,BWRat17_121712_UPDOWNINtervals.mat,13,1-based (matches BasicMetaData and detector output),13,12,ACC,False,False,False,,MATCH
+BWRat17,BWRat17_121712,spindle_detector,SpindleData.detectionchan,BWRat17_121712_Spindles.mat,13,1-based (matches BasicMetaData and detector output),13,12,ACC,False,False,False,,MATCH
+BWRat17,BWRat17_121912,recommended_lfp,goodeegchannel,BWRat17_121912_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,True,spindle|up_state,
+BWRat17,BWRat17_121912,theta,Thetachannel,BWRat17_121912_BasicMetaData.mat,67,1-based (official data description),67,66,dhipp,False,False,True,,
+BWRat17,BWRat17_121912,spindle,Spindlechannel,BWRat17_121912_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,False,recommended_lfp|up_state,
+BWRat17,BWRat17_121912,up_state,UPstatechannel,BWRat17_121912_BasicMetaData.mat,13,1-based (official data description),13,12,ACC,False,False,False,recommended_lfp|spindle,
+BWRat17,BWRat17_121912,up_state_detector,UPchannel,BWRat17_121912_UPDOWNINtervals.mat,13,1-based (matches BasicMetaData and detector output),13,12,ACC,False,False,False,,MATCH
+BWRat17,BWRat17_121912,spindle_detector,SpindleData.detectionchan,BWRat17_121912_Spindles.mat,13,1-based (matches BasicMetaData and detector output),13,12,ACC,False,False,False,,MATCH
+BWRat18,BWRat18_020513,recommended_lfp,goodeegchannel,BWRat18_020513_BasicMetaData.mat,59,1-based (official data description),59,58,MotorCtx,False,False,True,spindle|up_state,
+BWRat18,BWRat18_020513,theta,Thetachannel,BWRat18_020513_BasicMetaData.mat,113,1-based (official data description),113,112,piriformL3,False,False,True,,
+BWRat18,BWRat18_020513,spindle,Spindlechannel,BWRat18_020513_BasicMetaData.mat,59,1-based (official data description),59,58,MotorCtx,False,False,False,recommended_lfp|up_state,
+BWRat18,BWRat18_020513,up_state,UPstatechannel,BWRat18_020513_BasicMetaData.mat,59,1-based (official data description),59,58,MotorCtx,False,False,False,recommended_lfp|spindle,
+BWRat18,BWRat18_020513,up_state_detector,UPchannel,BWRat18_020513_UPDOWNINtervals.mat,59,1-based (matches BasicMetaData and detector output),59,58,MotorCtx,False,False,False,,MATCH
+BWRat18,BWRat18_020513,spindle_detector,SpindleData.detectionchan,BWRat18_020513_Spindles.mat,59,1-based (matches BasicMetaData and detector output),59,58,MotorCtx,False,False,False,,MATCH
+BWRat19,BWRat19_032413,recommended_lfp,goodeegchannel,BWRat19_032413_BasicMetaData.mat,54,1-based (official data description),54,53,MotorCtx,False,False,True,theta|spindle|up_state,
+BWRat19,BWRat19_032413,theta,Thetachannel,BWRat19_032413_BasicMetaData.mat,54,1-based (official data description),54,53,MotorCtx,False,False,True,recommended_lfp|spindle|up_state,
+BWRat19,BWRat19_032413,spindle,Spindlechannel,BWRat19_032413_BasicMetaData.mat,54,1-based (official data description),54,53,MotorCtx,False,False,False,recommended_lfp|theta|up_state,
+BWRat19,BWRat19_032413,up_state,UPstatechannel,BWRat19_032413_BasicMetaData.mat,54,1-based (official data description),54,53,MotorCtx,False,False,False,recommended_lfp|theta|spindle,
+BWRat19,BWRat19_032413,up_state_detector,UPchannel,BWRat19_032413_UPDOWNINtervals.mat,54,1-based (matches BasicMetaData and detector output),54,53,MotorCtx,False,False,False,,MATCH
+BWRat19,BWRat19_032413,spindle_detector,SpindleData.detectionchan,BWRat19_032413_Spindles.mat,54,1-based (matches BasicMetaData and detector output),54,53,MotorCtx,False,False,False,,MATCH
+BWRat19,BWRat19_032513,recommended_lfp,goodeegchannel,BWRat19_032513_BasicMetaData.mat,24,1-based (official data description),24,23,MotorCtx,False,False,True,spindle|up_state,
+BWRat19,BWRat19_032513,theta,Thetachannel,BWRat19_032513_BasicMetaData.mat,8,1-based (official data description),8,7,MotorCtx,False,False,True,,
+BWRat19,BWRat19_032513,spindle,Spindlechannel,BWRat19_032513_BasicMetaData.mat,24,1-based (official data description),24,23,MotorCtx,False,False,False,recommended_lfp|up_state,
+BWRat19,BWRat19_032513,up_state,UPstatechannel,BWRat19_032513_BasicMetaData.mat,24,1-based (official data description),24,23,MotorCtx,False,False,False,recommended_lfp|spindle,
+BWRat19,BWRat19_032513,up_state_detector,UPchannel,BWRat19_032513_UPDOWNINtervals.mat,24,1-based (matches BasicMetaData and detector output),24,23,MotorCtx,False,False,False,,MATCH
+BWRat19,BWRat19_032513,spindle_detector,SpindleData.detectionchan,BWRat19_032513_Spindles.mat,24,1-based (matches BasicMetaData and detector output),24,23,MotorCtx,False,False,False,,MATCH
+BWRat20,BWRat20_101013,recommended_lfp,goodeegchannel,BWRat20_101013_BasicMetaData.mat,22,1-based (official data description),22,21,ACC,False,False,True,up_state,
+BWRat20,BWRat20_101013,theta,Thetachannel,BWRat20_101013_BasicMetaData.mat,25,1-based (official data description),25,24,ACC,False,False,True,,
+BWRat20,BWRat20_101013,spindle,Spindlechannel,BWRat20_101013_BasicMetaData.mat,59,1-based (official data description),59,58,ACC,False,False,False,,
+BWRat20,BWRat20_101013,up_state,UPstatechannel,BWRat20_101013_BasicMetaData.mat,22,1-based (official data description),22,21,ACC,False,False,False,recommended_lfp,
+BWRat20,BWRat20_101013,up_state_detector,UPchannel,BWRat20_101013_UPDOWNINtervals.mat,22,1-based (matches BasicMetaData and detector output),22,21,ACC,False,False,False,,MATCH
+BWRat20,BWRat20_101013,spindle_detector,SpindleData.detectionchan,BWRat20_101013_Spindles.mat,59,1-based (matches BasicMetaData and detector output),59,58,ACC,False,False,False,,MATCH
+BWRat20,BWRat20_101513,recommended_lfp,goodeegchannel,BWRat20_101513_BasicMetaData.mat,61,1-based (official data description),61,60,ACC,False,False,True,spindle|up_state,
+BWRat20,BWRat20_101513,theta,Thetachannel,BWRat20_101513_BasicMetaData.mat,22,1-based (official data description),22,21,ACC,False,False,True,,
+BWRat20,BWRat20_101513,spindle,Spindlechannel,BWRat20_101513_BasicMetaData.mat,61,1-based (official data description),61,60,ACC,False,False,False,recommended_lfp|up_state,
+BWRat20,BWRat20_101513,up_state,UPstatechannel,BWRat20_101513_BasicMetaData.mat,61,1-based (official data description),61,60,ACC,False,False,False,recommended_lfp|spindle,
+BWRat20,BWRat20_101513,up_state_detector,UPchannel,BWRat20_101513_UPDOWNINtervals.mat,61,1-based (matches BasicMetaData and detector output),61,60,ACC,False,False,False,,MATCH
+BWRat20,BWRat20_101513,spindle_detector,SpindleData.detectionchan,BWRat20_101513_Spindles.mat,61,1-based (matches BasicMetaData and detector output),61,60,ACC,False,False,False,,MATCH
+BWRat21,BWRat21_121113,recommended_lfp,goodeegchannel,BWRat21_121113_BasicMetaData.mat,14,1-based (official data description),14,13,mPFC,False,False,True,up_state,
+BWRat21,BWRat21_121113,theta,Thetachannel,BWRat21_121113_BasicMetaData.mat,60,1-based (official data description),60,59,,False,False,True,,
+BWRat21,BWRat21_121113,spindle,Spindlechannel,BWRat21_121113_BasicMetaData.mat,7,1-based (official data description),7,6,mPFC,False,False,False,,
+BWRat21,BWRat21_121113,up_state,UPstatechannel,BWRat21_121113_BasicMetaData.mat,14,1-based (official data description),14,13,mPFC,False,False,False,recommended_lfp,
+BWRat21,BWRat21_121113,up_state_detector,UPchannel,BWRat21_121113_UPDOWNINtervals.mat,14,1-based (matches BasicMetaData and detector output),14,13,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121113,spindle_detector,SpindleData.detectionchan,BWRat21_121113_Spindles.mat,7,1-based (matches BasicMetaData and detector output),7,6,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121613,recommended_lfp,goodeegchannel,BWRat21_121613_BasicMetaData.mat,22,1-based (official data description),22,21,mPFC,False,False,True,up_state,
+BWRat21,BWRat21_121613,theta,Thetachannel,BWRat21_121613_BasicMetaData.mat,55,1-based (official data description),55,54,mPFC,False,False,True,,
+BWRat21,BWRat21_121613,spindle,Spindlechannel,BWRat21_121613_BasicMetaData.mat,12,1-based (official data description),12,11,mPFC,False,False,False,,
+BWRat21,BWRat21_121613,up_state,UPstatechannel,BWRat21_121613_BasicMetaData.mat,22,1-based (official data description),22,21,mPFC,False,False,False,recommended_lfp,
+BWRat21,BWRat21_121613,up_state_detector,UPchannel,BWRat21_121613_UPDOWNINtervals.mat,22,1-based (matches BasicMetaData and detector output),22,21,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121613,spindle_detector,SpindleData.detectionchan,BWRat21_121613_Spindles.mat,12,1-based (matches BasicMetaData and detector output),12,11,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121813,recommended_lfp,goodeegchannel,BWRat21_121813_BasicMetaData.mat,22,1-based (official data description),22,21,mPFC,False,False,True,up_state,
+BWRat21,BWRat21_121813,theta,Thetachannel,BWRat21_121813_BasicMetaData.mat,55,1-based (official data description),55,54,mPFC,False,False,True,,
+BWRat21,BWRat21_121813,spindle,Spindlechannel,BWRat21_121813_BasicMetaData.mat,12,1-based (official data description),12,11,mPFC,False,False,False,,
+BWRat21,BWRat21_121813,up_state,UPstatechannel,BWRat21_121813_BasicMetaData.mat,22,1-based (official data description),22,21,mPFC,False,False,False,recommended_lfp,
+BWRat21,BWRat21_121813,up_state_detector,UPchannel,BWRat21_121813_UPDOWNINtervals.mat,22,1-based (matches BasicMetaData and detector output),22,21,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121813,spindle_detector,SpindleData.detectionchan,BWRat21_121813_Spindles.mat,12,1-based (matches BasicMetaData and detector output),12,11,mPFC,False,False,False,,MATCH
+BWRat21,BWRat21_121813,theta_alternate_plural,Thetachannels,BWRat21_121813_BasicMetaData.mat,57,apparently 1-based; not documented explicitly,57,56,mPFC,False,False,False,,alternate field; not canonical
+Dino,Dino_061814_mPFC,recommended_lfp,goodeegchannel,Dino_061814_mPFC_BasicMetaData.mat,69,1-based (official data description),69,68,mPFC,False,False,True,up_state,
+Dino,Dino_061814_mPFC,theta,Thetachannel,Dino_061814_mPFC_BasicMetaData.mat,7,1-based (official data description),7,6,ACC,False,False,True,,
+Dino,Dino_061814_mPFC,spindle,Spindlechannel,Dino_061814_mPFC_BasicMetaData.mat,92,1-based (official data description),92,91,mPFC,False,False,False,,
+Dino,Dino_061814_mPFC,up_state,UPstatechannel,Dino_061814_mPFC_BasicMetaData.mat,69,1-based (official data description),69,68,mPFC,False,False,False,recommended_lfp,
+Dino,Dino_061814_mPFC,up_state_detector,UPchannel,Dino_061814_mPFC_UPDOWNINtervals.mat,69,1-based (matches BasicMetaData and detector output),69,68,mPFC,False,False,False,,MATCH
+Dino,Dino_061814_mPFC,spindle_detector,SpindleData.detectionchan,Dino_061814_mPFC_Spindles.mat,92,1-based (matches BasicMetaData and detector output),92,91,mPFC,False,False,False,,MATCH
+Dino,Dino_061914_ACC,recommended_lfp,goodeegchannel,Dino_061914_ACC_BasicMetaData.mat,19,1-based (official data description),19,18,ACC,False,False,True,spindle|up_state,
+Dino,Dino_061914_ACC,theta,Thetachannel,Dino_061914_ACC_BasicMetaData.mat,129,1-based (official data description),129,128,,False,False,True,,
+Dino,Dino_061914_ACC,spindle,Spindlechannel,Dino_061914_ACC_BasicMetaData.mat,19,1-based (official data description),19,18,ACC,False,False,False,recommended_lfp|up_state,
+Dino,Dino_061914_ACC,up_state,UPstatechannel,Dino_061914_ACC_BasicMetaData.mat,19,1-based (official data description),19,18,ACC,False,False,False,recommended_lfp|spindle,
+Dino,Dino_061914_ACC,up_state_detector,UPchannel,Dino_061914_ACC_UPDOWNINtervals.mat,19,1-based (matches BasicMetaData and detector output),19,18,ACC,False,False,False,,MATCH
+Dino,Dino_061914_ACC,spindle_detector,SpindleData.detectionchan,Dino_061914_ACC_Spindles.mat,19,1-based (matches BasicMetaData and detector output),19,18,ACC,False,False,False,,MATCH
+Dino,Dino_061914_mPFC,recommended_lfp,goodeegchannel,Dino_061914_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,True,spindle|up_state,
+Dino,Dino_061914_mPFC,theta,Thetachannel,Dino_061914_mPFC_BasicMetaData.mat,129,1-based (official data description),129,128,,False,False,True,,
+Dino,Dino_061914_mPFC,spindle,Spindlechannel,Dino_061914_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,False,recommended_lfp|up_state,
+Dino,Dino_061914_mPFC,up_state,UPstatechannel,Dino_061914_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,False,recommended_lfp|spindle,
+Dino,Dino_061914_mPFC,up_state_detector,UPchannel,Dino_061914_mPFC_UPDOWNINtervals.mat,83,1-based (matches BasicMetaData and detector output),83,82,mPFC,False,False,False,,MATCH
+Dino,Dino_061914_mPFC,spindle_detector,SpindleData.detectionchan,Dino_061914_mPFC_Spindles.mat,83,1-based (matches BasicMetaData and detector output),83,82,mPFC,False,False,False,,MATCH
+Dino,Dino_062014_ACC,recommended_lfp,goodeegchannel,Dino_062014_ACC_BasicMetaData.mat,18,1-based (official data description),18,17,ACC,False,False,True,up_state,
+Dino,Dino_062014_ACC,theta,Thetachannel,Dino_062014_ACC_BasicMetaData.mat,129,1-based (official data description),129,128,,False,False,True,,
+Dino,Dino_062014_ACC,spindle,Spindlechannel,Dino_062014_ACC_BasicMetaData.mat,14,1-based (official data description),14,13,ACC,False,False,False,,
+Dino,Dino_062014_ACC,up_state,UPstatechannel,Dino_062014_ACC_BasicMetaData.mat,18,1-based (official data description),18,17,ACC,False,False,False,recommended_lfp,
+Dino,Dino_062014_ACC,up_state_detector,UPchannel,Dino_062014_ACC_UPDOWNINtervals.mat,18,1-based (matches BasicMetaData and detector output),18,17,ACC,False,False,False,,MATCH
+Dino,Dino_062014_ACC,spindle_detector,SpindleData.detectionchan,Dino_062014_ACC_Spindles.mat,14,1-based (matches BasicMetaData and detector output),14,13,ACC,False,False,False,,MATCH
+Dino,Dino_062014_mPFC,recommended_lfp,goodeegchannel,Dino_062014_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,True,spindle|up_state,
+Dino,Dino_062014_mPFC,theta,Thetachannel,Dino_062014_mPFC_BasicMetaData.mat,129,1-based (official data description),129,128,,False,False,True,,
+Dino,Dino_062014_mPFC,spindle,Spindlechannel,Dino_062014_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,False,recommended_lfp|up_state,
+Dino,Dino_062014_mPFC,up_state,UPstatechannel,Dino_062014_mPFC_BasicMetaData.mat,83,1-based (official data description),83,82,mPFC,False,False,False,recommended_lfp|spindle,
+Dino,Dino_062014_mPFC,up_state_detector,UPchannel,Dino_062014_mPFC_UPDOWNINtervals.mat,83,1-based (matches BasicMetaData and detector output),83,82,mPFC,False,False,False,,MATCH
+Dino,Dino_062014_mPFC,spindle_detector,SpindleData.detectionchan,Dino_062014_mPFC_Spindles.mat,83,1-based (matches BasicMetaData and detector output),83,82,mPFC,False,False,False,,MATCH
+Dino,Dino_072114_mPFC,recommended_lfp,goodeegchannel,Dino_072114_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,theta|up_state,
+Dino,Dino_072114_mPFC,theta,Thetachannel,Dino_072114_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,recommended_lfp|up_state,
+Dino,Dino_072114_mPFC,spindle,Spindlechannel,Dino_072114_mPFC_BasicMetaData.mat,106,1-based (official data description),106,105,mPFC,False,False,False,,
+Dino,Dino_072114_mPFC,up_state,UPstatechannel,Dino_072114_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,False,recommended_lfp|theta,
+Dino,Dino_072114_mPFC,up_state_detector,UPchannel,Dino_072114_mPFC_UPDOWNINtervals.mat,120,1-based (matches BasicMetaData and detector output),120,119,mPFC,False,False,False,,MATCH
+Dino,Dino_072114_mPFC,spindle_detector,SpindleData.detectionchan,Dino_072114_mPFC_Spindles.mat,106,1-based (matches BasicMetaData and detector output),106,105,mPFC,False,False,False,,MATCH
+Dino,Dino_072314_mPFC,recommended_lfp,goodeegchannel,Dino_072314_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,theta|up_state,
+Dino,Dino_072314_mPFC,theta,Thetachannel,Dino_072314_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,recommended_lfp|up_state,
+Dino,Dino_072314_mPFC,spindle,Spindlechannel,Dino_072314_mPFC_BasicMetaData.mat,106,1-based (official data description),106,105,mPFC,False,False,False,,
+Dino,Dino_072314_mPFC,up_state,UPstatechannel,Dino_072314_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,False,recommended_lfp|theta,
+Dino,Dino_072314_mPFC,up_state_detector,UPchannel,Dino_072314_mPFC_UPDOWNINtervals.mat,120,1-based (matches BasicMetaData and detector output),120,119,mPFC,False,False,False,,MATCH
+Dino,Dino_072314_mPFC,spindle_detector,SpindleData.detectionchan,Dino_072314_mPFC_Spindles.mat,106,1-based (matches BasicMetaData and detector output),106,105,mPFC,False,False,False,,MATCH
+Dino,Dino_072414_mPFC,recommended_lfp,goodeegchannel,Dino_072414_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,theta|up_state,
+Dino,Dino_072414_mPFC,theta,Thetachannel,Dino_072414_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,True,recommended_lfp|up_state,
+Dino,Dino_072414_mPFC,spindle,Spindlechannel,Dino_072414_mPFC_BasicMetaData.mat,106,1-based (official data description),106,105,mPFC,False,False,False,,
+Dino,Dino_072414_mPFC,up_state,UPstatechannel,Dino_072414_mPFC_BasicMetaData.mat,120,1-based (official data description),120,119,mPFC,False,False,False,recommended_lfp|theta,
+Dino,Dino_072414_mPFC,up_state_detector,UPchannel,Dino_072414_mPFC_UPDOWNINtervals.mat,120,1-based (matches BasicMetaData and detector output),120,119,mPFC,False,False,False,,MATCH
+Dino,Dino_072414_mPFC,spindle_detector,SpindleData.detectionchan,Dino_072414_mPFC_Spindles.mat,106,1-based (matches BasicMetaData and detector output),106,105,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140526_277um,recommended_lfp,goodeegchannel,20140526_277um_BasicMetaData.mat,33,1-based (official data description),33,32,mPFC,False,False,True,spindle|up_state,
+JennBuzsaki22,20140526_277um,theta,Thetachannel,20140526_277um_BasicMetaData.mat,65,1-based (official data description),65,64,dHipp,False,False,True,,
+JennBuzsaki22,20140526_277um,spindle,Spindlechannel,20140526_277um_BasicMetaData.mat,33,1-based (official data description),33,32,mPFC,False,False,False,recommended_lfp|up_state,
+JennBuzsaki22,20140526_277um,up_state,UPstatechannel,20140526_277um_BasicMetaData.mat,33,1-based (official data description),33,32,mPFC,False,False,False,recommended_lfp|spindle,
+JennBuzsaki22,20140526_277um,up_state_detector,UPchannel,20140526_277um_UPDOWNINtervals.mat,33,1-based (matches BasicMetaData and detector output),33,32,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140526_277um,spindle_detector,SpindleData.detectionchan,20140526_277um_Spindles.mat,33,1-based (matches BasicMetaData and detector output),33,32,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140527_421um,recommended_lfp,goodeegchannel,20140527_421um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,True,spindle|up_state,
+JennBuzsaki22,20140527_421um,theta,Thetachannel,20140527_421um_BasicMetaData.mat,65,1-based (official data description),65,64,dHipp,False,False,True,,
+JennBuzsaki22,20140527_421um,spindle,Spindlechannel,20140527_421um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,False,recommended_lfp|up_state,
+JennBuzsaki22,20140527_421um,up_state,UPstatechannel,20140527_421um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,False,recommended_lfp|spindle,
+JennBuzsaki22,20140527_421um,up_state_detector,UPchannel,20140527_421um_UPDOWNINtervals.mat,9,1-based (matches BasicMetaData and detector output),9,8,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140527_421um,spindle_detector,SpindleData.detectionchan,20140527_421um_Spindles.mat,9,1-based (matches BasicMetaData and detector output),9,8,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140528_565um,recommended_lfp,goodeegchannel,20140528_565um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,True,spindle|up_state,
+JennBuzsaki22,20140528_565um,theta,Thetachannel,20140528_565um_BasicMetaData.mat,65,1-based (official data description),65,64,dHipp,False,False,True,,
+JennBuzsaki22,20140528_565um,spindle,Spindlechannel,20140528_565um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,False,recommended_lfp|up_state,
+JennBuzsaki22,20140528_565um,up_state,UPstatechannel,20140528_565um_BasicMetaData.mat,9,1-based (official data description),9,8,mPFC,False,False,False,recommended_lfp|spindle,
+JennBuzsaki22,20140528_565um,up_state_detector,UPchannel,20140528_565um_UPDOWNINtervals.mat,9,1-based (matches BasicMetaData and detector output),9,8,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140528_565um,spindle_detector,SpindleData.detectionchan,20140528_565um_Spindles.mat,9,1-based (matches BasicMetaData and detector output),9,8,mPFC,False,False,False,,MATCH
+JennBuzsaki22,20140528_565um,ripple_noise,RippleNoiseChannel,20140528_565um_BasicMetaData.mat,3,apparently 1-based; not documented explicitly,3,2,mPFC,False,False,False,,alternate field; not canonical
+Bogey,Bogey_012615,recommended_lfp,goodeegchannel,Bogey_012615_BasicMetaData.mat,46,1-based (official data description),46,45,mPFC,False,False,True,spindle|up_state,
+Bogey,Bogey_012615,theta,Thetachannel,Bogey_012615_BasicMetaData.mat,67,1-based (official data description),67,66,dHipp,False,False,True,,
+Bogey,Bogey_012615,spindle,Spindlechannel,Bogey_012615_BasicMetaData.mat,46,1-based (official data description),46,45,mPFC,False,False,False,recommended_lfp|up_state,
+Bogey,Bogey_012615,up_state,UPstatechannel,Bogey_012615_BasicMetaData.mat,46,1-based (official data description),46,45,mPFC,False,False,False,recommended_lfp|spindle,
+Bogey,Bogey_012615,up_state_detector,UPchannel,Bogey_012615_UPDOWNINtervals.mat,46,1-based (matches BasicMetaData and detector output),46,45,mPFC,False,False,False,,MATCH
+Bogey,Bogey_012615,spindle_detector,SpindleData.detectionchan,Bogey_012615_Spindles.mat,46,1-based (matches BasicMetaData and detector output),46,45,mPFC,False,False,False,,MATCH
+Splinter,Splinter_020515,recommended_lfp,goodeegchannel,Splinter_020515_BasicMetaData.mat,42,1-based (official data description),42,41,OFC,False,False,True,theta|spindle|up_state,
+Splinter,Splinter_020515,theta,Thetachannel,Splinter_020515_BasicMetaData.mat,42,1-based (official data description),42,41,OFC,False,False,True,recommended_lfp|spindle|up_state,
+Splinter,Splinter_020515,spindle,Spindlechannel,Splinter_020515_BasicMetaData.mat,42,1-based (official data description),42,41,OFC,False,False,False,recommended_lfp|theta|up_state,
+Splinter,Splinter_020515,up_state,UPstatechannel,Splinter_020515_BasicMetaData.mat,42,1-based (official data description),42,41,OFC,False,False,False,recommended_lfp|theta|spindle,
+Splinter,Splinter_020515,up_state_detector,UPchannel,Splinter_020515_UPDOWNINtervals.mat,42,1-based (matches BasicMetaData and detector output),42,41,OFC,False,False,False,,MATCH
+Splinter,Splinter_020515,spindle_detector,SpindleData.detectionchan,Splinter_020515_Spindles.mat,42,1-based (matches BasicMetaData and detector output),42,41,OFC,False,False,False,,MATCH
+Splinter,Splinter_020915,recommended_lfp,goodeegchannel,Splinter_020915_BasicMetaData.mat,43,1-based (official data description),43,42,OFC,False,False,True,spindle|up_state,
+Splinter,Splinter_020915,theta,Thetachannel,Splinter_020915_BasicMetaData.mat,12,1-based (official data description),12,11,OFC,False,False,True,,
+Splinter,Splinter_020915,spindle,Spindlechannel,Splinter_020915_BasicMetaData.mat,43,1-based (official data description),43,42,OFC,False,False,False,recommended_lfp|up_state,
+Splinter,Splinter_020915,up_state,UPstatechannel,Splinter_020915_BasicMetaData.mat,43,1-based (official data description),43,42,OFC,False,False,False,recommended_lfp|spindle,
+Splinter,Splinter_020915,up_state_detector,UPchannel,Splinter_020915_UPDOWNINtervals.mat,43,1-based (matches BasicMetaData and detector output),43,42,OFC,False,False,False,,MATCH
+Splinter,Splinter_020915,spindle_detector,SpindleData.detectionchan,Splinter_020915_Spindles.mat,43,1-based (matches BasicMetaData and detector output),43,42,OFC,False,False,False,,MATCH
+Rizzo,Rizzo_022615,recommended_lfp,goodeegchannel,Rizzo_022615_BasicMetaData.mat,60,1-based (official data description),60,59,OFC,False,False,True,,
+Rizzo,Rizzo_022615,theta,Thetachannel,Rizzo_022615_BasicMetaData.mat,1,1-based (official data description),1,0,OFC,False,False,True,up_state,
+Rizzo,Rizzo_022615,spindle,Spindlechannel,Rizzo_022615_BasicMetaData.mat,17,1-based (official data description),17,16,OFC,False,False,False,,
+Rizzo,Rizzo_022615,up_state,UPstatechannel,Rizzo_022615_BasicMetaData.mat,1,1-based (official data description),1,0,OFC,False,False,False,theta,
+Rizzo,Rizzo_022615,up_state_detector,UPchannel,Rizzo_022615_UPDOWNINtervals.mat,1,1-based (matches BasicMetaData and detector output),1,0,OFC,False,False,False,,MATCH
+Rizzo,Rizzo_022615,spindle_detector,SpindleData.detectionchan,Rizzo_022615_Spindles.mat,17,1-based (matches BasicMetaData and detector output),17,16,OFC,False,False,False,,MATCH
+Rizzo,Rizzo_022715,recommended_lfp,goodeegchannel,Rizzo_022715_BasicMetaData.mat,40,1-based (official data description),40,39,OFC,False,False,True,,
+Rizzo,Rizzo_022715,theta,Thetachannel,Rizzo_022715_BasicMetaData.mat,1,1-based (official data description),1,0,OFC,False,False,True,,
+Rizzo,Rizzo_022715,spindle,Spindlechannel,Rizzo_022715_BasicMetaData.mat,52,1-based (official data description),52,51,OFC,False,False,False,,
+Rizzo,Rizzo_022715,up_state,UPstatechannel,Rizzo_022715_BasicMetaData.mat,17,1-based (official data description),17,16,OFC,False,False,False,,
+Rizzo,Rizzo_022715,up_state_detector,UPchannel,Rizzo_022715_UPDOWNINtervals.mat,17,1-based (matches BasicMetaData and detector output),17,16,OFC,False,False,False,,MATCH
+Rizzo,Rizzo_022715,spindle_detector,SpindleData.detectionchan,Rizzo_022715_Spindles.mat,52,1-based (matches BasicMetaData and detector output),52,51,OFC,False,False,False,,MATCH
+Templeton,Templeton_032415,recommended_lfp,goodeegchannel,Templeton_032415_BasicMetaData.mat,27,1-based (official data description),27,26,mPFC,False,False,True,spindle|up_state,
+Templeton,Templeton_032415,theta,Thetachannel,Templeton_032415_BasicMetaData.mat,57,1-based (official data description),57,56,dhipp,False,False,True,,
+Templeton,Templeton_032415,spindle,Spindlechannel,Templeton_032415_BasicMetaData.mat,27,1-based (official data description),27,26,mPFC,False,False,False,recommended_lfp|up_state,
+Templeton,Templeton_032415,up_state,UPstatechannel,Templeton_032415_BasicMetaData.mat,27,1-based (official data description),27,26,mPFC,False,False,False,recommended_lfp|spindle,
+Templeton,Templeton_032415,up_state_detector,UPchannel,Templeton_032415_UPDOWNINtervals.mat,27,1-based (matches BasicMetaData and detector output),27,26,mPFC,False,False,False,,MATCH
+Templeton,Templeton_032415,spindle_detector,SpindleData.detectionchan,Templeton_032415_Spindles.mat,27,1-based (matches BasicMetaData and detector output),27,26,mPFC,False,False,False,,MATCH

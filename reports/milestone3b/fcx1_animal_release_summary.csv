@@ -1,0 +1,12 @@
+animal_id,session_count,sessions,currently_audited_sessions,currently_covered
+BWRat17,2,BWRat17_121712|BWRat17_121912,BWRat17_121712,true
+BWRat18,1,BWRat18_020513,BWRat18_020513,true
+BWRat19,2,BWRat19_032413|BWRat19_032513,BWRat19_032513,true
+BWRat20,2,BWRat20_101013|BWRat20_101513,BWRat20_101013,true
+BWRat21,3,BWRat21_121113|BWRat21_121613|BWRat21_121813,,false
+Dino,8,Dino_061814_mPFC|Dino_061914_ACC|Dino_061914_mPFC|Dino_062014_ACC|Dino_062014_mPFC|Dino_072114_mPFC|Dino_072314_mPFC|Dino_072414_mPFC,,false
+JennBuzsaki22,3,20140526_277um|20140527_421um|20140528_565um,,false
+Bogey,1,Bogey_012615,,false
+Splinter,2,Splinter_020515|Splinter_020915,Splinter_020915,true
+Rizzo,2,Rizzo_022615|Rizzo_022715,,false
+Templeton,1,Templeton_032415,,false

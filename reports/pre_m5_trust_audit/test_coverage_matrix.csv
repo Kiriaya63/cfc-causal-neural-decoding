@@ -1,0 +1,40 @@
+invariant,test_or_evidence,coverage,status_or_gap,recommended_followup
+Official manifest has 27 unique sessions / 11 animals,test_fullrelease_audit.test_official_manifest_and_readable_cohort; raw directory + filelist + official workbook triangulation,covered,PASS,retain
+Raw required files readable,test_fullrelease_audit.test_official_manifest_and_readable_cohort,covered,PASS,retain
+MAT/XML scalar acquisition agreement,test_session_pipeline.test_metadata_cross_file_values; audit across all 27,partially covered,Only one regression session but full audit found zero disagreements,add dataset-wide synthetic or table-driven regression
+Channel indexing conversions,test_session_pipeline.test_metadata_cross_file_values; source census,partially covered,1-based BMD/CSV to 0-based NumPy and 0-based XML verified but not fully regression-tested,add explicit indexing fixture
+Full metadata field census,pre-M5 read-only catalog only,uncovered,No regression detects newly appearing relevant BMD fields,add schema-census snapshot or approved field classifier
+Channel role sharing / duplicate physical channels,M4 full-release audit metadata only,partially covered,No dedicated test asserts duplicate role semantics or prevents accidental de-duplication/duplication changes,add after representation decision
+Spindle and UP detector channel cross-source agreement,pre-M5 read-only audit only,uncovered,All 27 agree now,add provenance regression if these roles are retained
+Anatomy source provenance conflicts,pre-M5 read-only audit only,uncovered,Templeton workbook/CSV conflict and five missing theta labels are not regression-tested,add provenance-only check
+EEG frame geometry,test_session_pipeline.test_lfp_size_and_short_read; structural extension tests,covered,PASS,retain
+Open-ended provenance,test_open_ended_time_support.*,covered,PASS,retain
+Finite empty intervals and reversed/malformed rejection,test_structural_extensions.test_empty* and test_reversed*,covered,PASS,retain
+Incomplete final EEG frame,test_structural_extensions.test_subframe*,covered,PASS,retain
+Analysis support remains inside physical LFP,test_fullrelease_audit.test_successful_sessions_have_valid_support_and_past_only_targets,covered,PASS,retain
+GoodSleep/metadata shorter than physical LFP,support implementation review,uncovered,Current loader demands analysis end equal physical LFP; not exercised by 27 release sessions,add synthetic regression before claiming generic support behavior
+Spike/annotation endpoints never define support,test_time_support; test_open_ended_time_support,covered,PASS,retain
+Raw sleep fields map exactly to labels,test_causal_pipeline.test_strict_label_counts_and_boundary; full raw reconstruction audit,partially covered,Representative test plus 27-session audit exact,add compact all-session summary regression if desired
+Broad Sleep is not NREM / auxiliary not core,test_causal_pipeline.test_strict_label_counts_and_boundary; OOB test,covered,PASS,retain
+Conflict and OOB never supervised,test_deep_qc; test_multisession_audit; test_causal_pipeline,covered,PASS,retain
+Stable unit source and local ordering,test_session_pipeline.test_stable_spikes; structural spike tests,partially covered,SStable exact but XML-unit incompleteness is not tested,add provenance diagnostic test
+Spike finite/nonnegative/sorted/raw preservation,test_structural_extensions.test_invalid_spike_timestamps_remain_fatal and off-grid tests,covered,PASS,retain
+Declared/observed event-clock mismatch,test_structural_extensions.test_off_declared_grid_raw_seconds_are_binned_half_open,covered,PASS,retain
+Half-open spike bins,test_milestone4_representation.test_spike_half_open_boundary_and_future_perturbation,covered,PASS,retain
+Spike-bin contiguity at large absolute times,source review of np.allclose default rtol,uncovered,Validator may accept a nontrivial large-time gap,add rtol=0 regression after approval
+M2 X_t=[t-W,t) / y_t=[t-1,t),test_causal_pipeline.test_window_boundary_is_strictly_past and context tests,covered,PASS,retain
+M2 machine-precision target and conflict boundaries,existing representative tests,partially covered,No exhaustive nextafter/ULP boundary fixture,add numerical edge fixture
+M4 exact 5/10/30 shapes,test_milestone4_representation.test_fullrelease_shapes_are_exact_for_every_session,covered,PASS,retain
+M4 1250-to-50 phase/right-edge causality,future perturbation tests; pre-M5 direct raw-index reconstruction,partially covered,Causality covered; exact phase examples not a dedicated regression,add phase/off-by-one test
+FIR specification and startup mask,test_milestone4_representation.test_filter_design_meets_frozen_specification and startup test,covered,PASS,retain
+Chunked FIR equals one-shot causal filtering,pre-M5 numerical audit only,uncovered,Four sessions agree exactly after float32 rounding; no regression prevents future chunk-boundary regression,add synthetic multi-chunk equivalence test
+Physiological features are causal,test_milestone4_representation.test_lfp_future_perturbation_cannot_change_current_physio,covered,PASS,retain
+Physiological 10.86 s first-valid derivation,filter design test plus pre-M5 derivation,partially covered,Final step is asserted but component formula is not,add first-principles mask test
+Spike Branch A/B count conservation,population definition/permutation tests; pre-M5 raw checks,partially covered,Synthetic conservation covered; raw low/median/high checked manually,optional table-driven regression
+Variable-N padding masks,test_milestone4_representation.test_padding_mask_excludes_padded_neurons and variable range,covered,PASS,retain
+No fitted normalization,test_milestone4_representation.test_no_fitted_normalization_or_forbidden_filter_calls; source scan,covered,PASS,retain and model-adapter audit in M5
+No identity-specific processing,test_fullrelease_audit and M4 AST test; broader pre-M5 search,covered,PASS,broaden AST test beyond src/representation if desired
+Raw-data immutability,structural read-only test; M4 preservation report; pre-M5 523-file comparison,partially covered,No single regression statically rejects all future raw write paths,add scoped write-path/static policy check
+Cache invalidation on protocol/code/source change,current cache unit has no direct tests,uncovered,Implementation hashes code/config but source fingerprint is size/mtime only,add cache identity tests after approval
+Cache array corruption/content authentication,no current test,uncovered,Loadable wrong arrays can be accepted,add shape/dtype/hash validation tests after approval
+Source-parser-derived three-way agreement,pre-M5 audit only,uncovered,Verified now but not continuously enforced,decide compact release-integrity regression suite

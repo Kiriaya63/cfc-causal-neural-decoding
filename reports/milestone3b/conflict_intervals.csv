@@ -1,0 +1,5 @@
+﻿session_id,type,start_s,stop_s,duration_s
+BWRat18_020513,WAKE+MA,3644.0,3653.0,9.0
+BWRat18_020513,WAKE+WakeInterruption,3712.0,3793.0,81.0
+Splinter_020915,WAKE+WakeInterruption,17349.0,17424.0,75.0
+Splinter_020915,WAKE+MA,17432.0,17443.0,11.0

@@ -1,0 +1,100 @@
+{
+  "sessions": [
+    {
+      "session_id": "Templeton_032415",
+      "n_units": 10,
+      "window_s": [
+        100.0,
+        110.0
+      ],
+      "raw_event_count_half_open": 51,
+      "branch_b_sum": 51,
+      "population_count_sum": 51,
+      "count_conservation": true,
+      "branch_a_formula_allclose_1e-12": true,
+      "branch_a_formula_max_abs_float_difference": 2.9842794901924208e-12,
+      "effective_float_bin_width_s": 0.01999999999999602,
+      "branch_b_shape": [
+        500,
+        10
+      ],
+      "branch_a_shape": [
+        500,
+        1
+      ],
+      "permutation_equivariance": true,
+      "population_invariance": true
+    },
+    {
+      "session_id": "Bogey_012615",
+      "n_units": 36,
+      "window_s": [
+        100.0,
+        110.0
+      ],
+      "raw_event_count_half_open": 602,
+      "branch_b_sum": 602,
+      "population_count_sum": 602,
+      "count_conservation": true,
+      "branch_a_formula_allclose_1e-12": true,
+      "branch_a_formula_max_abs_float_difference": 1.105782132526656e-12,
+      "effective_float_bin_width_s": 0.01999999999999602,
+      "branch_b_shape": [
+        500,
+        36
+      ],
+      "branch_a_shape": [
+        500,
+        1
+      ],
+      "permutation_equivariance": true,
+      "population_invariance": true
+    },
+    {
+      "session_id": "Dino_061814_mPFC",
+      "n_units": 113,
+      "window_s": [
+        100.0,
+        110.0
+      ],
+      "raw_event_count_half_open": 1446,
+      "branch_b_sum": 1446,
+      "population_count_sum": 1446,
+      "count_conservation": true,
+      "branch_a_formula_allclose_1e-12": true,
+      "branch_a_formula_max_abs_float_difference": 7.926992395823618e-13,
+      "effective_float_bin_width_s": 0.01999999999999602,
+      "branch_b_shape": [
+        500,
+        113
+      ],
+      "branch_a_shape": [
+        500,
+        1
+      ],
+      "permutation_equivariance": true,
+      "population_invariance": true
+    }
+  ],
+  "batch_shape": [
+    3,
+    500,
+    113
+  ],
+  "neuron_mask_shape": [
+    3,
+    113
+  ],
+  "padding_mask_population_rate_allclose_1e-12": [
+    true,
+    true,
+    true
+  ],
+  "padding_max_abs_float_difference": [
+    2.9842794901924208e-12,
+    1.105782132526656e-12,
+    7.926992395823618e-13
+  ],
+  "note": "Sub-1e-11 differences arise only from binary floating representation of 0.02 at nonzero absolute times; integer counts are exact.",
+  "all_checks_pass": true
+}

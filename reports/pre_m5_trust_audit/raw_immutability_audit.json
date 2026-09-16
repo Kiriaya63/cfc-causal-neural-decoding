@@ -1,0 +1,12 @@
+{
+  "baseline": "reports/milestone3b2_2/raw_files_before.json",
+  "files_checked": 523,
+  "missing_count": 0,
+  "size_or_mtime_changed_count": 0,
+  "sha256_checked_non_eeg_files": 491,
+  "sha256_mismatch_count": 0,
+  "eeg_access_mode_in_code": "numpy.memmap mode=r",
+  "raw_write_path_found_in_src": false,
+  "audit_modified_raw_data": false,
+  "note": "mtime comparison uses Unix epoch nanoseconds; an earlier diagnostic with .NET ticks was discarded as a unit-conversion error."
+}

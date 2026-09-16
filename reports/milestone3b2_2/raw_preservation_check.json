@@ -1,0 +1,5 @@
+{
+  "files_checked": 523,
+  "changed_files": [],
+  "method": "All file sizes/mtime; SHA256 for non-EEG files below 100 MB. EEG was only opened read-only; no full EEG rehash."
+}

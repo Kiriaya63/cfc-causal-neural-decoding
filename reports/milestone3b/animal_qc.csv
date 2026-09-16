@@ -1,0 +1,6 @@
+﻿animal_id,session_count,valid_session_count,failed_session_count,effective_recording_duration_s,stable_units_per_session,wake_seconds,nrem_seconds,rem_seconds,ignore_seconds,missing_core_classes,class_coverage_assessed,qc_status
+BWRat17,1,1,0,6059.4,[50],2426,952,103,2578,[],True,WARN
+BWRat18,1,1,0,7591.0,[40],2012,4158,611,810,[],True,WARN
+BWRat19,1,1,0,3928.8,[61],453,1087,227,2161,[],True,WARN
+BWRat20,1,1,0,13364.3,[22],705,1942,654,10063,[],True,WARN
+Splinter,1,1,0,23487.5,[51],3852,8336,1064,10235,[],True,WARN

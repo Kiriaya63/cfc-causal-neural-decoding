@@ -1,0 +1,122 @@
+{
+  "scope": "5-session pilot only; not full-dataset estimates",
+  "stable_units": [
+    {
+      "session_id": "BWRat17_121712",
+      "animal_id": "BWRat17",
+      "count": 50
+    },
+    {
+      "session_id": "BWRat18_020513",
+      "animal_id": "BWRat18",
+      "count": 40
+    },
+    {
+      "session_id": "BWRat19_032513",
+      "animal_id": "BWRat19",
+      "count": 61
+    },
+    {
+      "session_id": "BWRat20_101013",
+      "animal_id": "BWRat20",
+      "count": 22
+    },
+    {
+      "session_id": "Splinter_020915",
+      "animal_id": "Splinter",
+      "count": 51
+    }
+  ],
+  "regions_session_count": {
+    "ACC": 2,
+    "dhipp": 2,
+    "MotorCtx": 2,
+    "piriformL3": 1,
+    "CeA": 1,
+    "OFC": 1
+  },
+  "channel_availability": [
+    {
+      "session_id": "BWRat17_121712",
+      "lfp": 13,
+      "lfp_region": "ACC",
+      "theta": 65,
+      "theta_region": "dhipp",
+      "unlabeled_channels": 6
+    },
+    {
+      "session_id": "BWRat18_020513",
+      "lfp": 59,
+      "lfp_region": "MotorCtx",
+      "theta": 113,
+      "theta_region": "piriformL3",
+      "unlabeled_channels": 7
+    },
+    {
+      "session_id": "BWRat19_032513",
+      "lfp": 24,
+      "lfp_region": "MotorCtx",
+      "theta": 8,
+      "theta_region": "MotorCtx",
+      "unlabeled_channels": 7
+    },
+    {
+      "session_id": "BWRat20_101013",
+      "lfp": 22,
+      "lfp_region": "ACC",
+      "theta": 25,
+      "theta_region": "ACC",
+      "unlabeled_channels": 8
+    },
+    {
+      "session_id": "Splinter_020915",
+      "lfp": 43,
+      "lfp_region": "OFC",
+      "theta": 12,
+      "theta_region": "OFC",
+      "unlabeled_channels": 6
+    }
+  ],
+  "coverage": [
+    {
+      "session_id": "BWRat17_121712",
+      "wake_seconds": 2426,
+      "nrem_seconds": 952,
+      "rem_seconds": 103,
+      "ignore_seconds": 2578,
+      "full_1s_bin_count": 6059
+    },
+    {
+      "session_id": "BWRat18_020513",
+      "wake_seconds": 2012,
+      "nrem_seconds": 4158,
+      "rem_seconds": 611,
+      "ignore_seconds": 810,
+      "full_1s_bin_count": 7591
+    },
+    {
+      "session_id": "BWRat19_032513",
+      "wake_seconds": 453,
+      "nrem_seconds": 1087,
+      "rem_seconds": 227,
+      "ignore_seconds": 2161,
+      "full_1s_bin_count": 3928
+    },
+    {
+      "session_id": "BWRat20_101013",
+      "wake_seconds": 705,
+      "nrem_seconds": 1942,
+      "rem_seconds": 654,
+      "ignore_seconds": 10063,
+      "full_1s_bin_count": 13364
+    },
+    {
+      "session_id": "Splinter_020915",
+      "wake_seconds": 3852,
+      "nrem_seconds": 8336,
+      "rem_seconds": 1064,
+      "ignore_seconds": 10235,
+      "full_1s_bin_count": 23487
+    }
+  ]
+}

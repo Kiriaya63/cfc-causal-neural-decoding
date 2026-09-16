@@ -1,0 +1,12 @@
+session_id,animal_id,local_path,availability,processing_status
+BWRat17_121712,BWRat17,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat17_121712,true,audited
+BWRat18_020513,BWRat18,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat18_020513,true,audited
+BWRat19_032513,BWRat19,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat19_032513,true,audited
+BWRat20_101013,BWRat20,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat20_101013,true,audited
+Splinter_020915,Splinter,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Splinter_020915,true,audited
+20140528_565um,JennBuzsaki22,F:\CfC-Sleep\crcns-downloader\fcx-1\data\20140528_565um,true,audited
+Bogey_012615,Bogey,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Bogey_012615,true,audited
+BWRat21_121813,BWRat21,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat21_121813,true,audited
+Dino_072314_mPFC,Dino,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Dino_072314_mPFC,true,audited
+Rizzo_022715,Rizzo,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Rizzo_022715,true,audited
+Templeton_032415,Templeton,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Templeton_032415,true,audited

@@ -1,0 +1,8 @@
+﻿session_id,animal_id,role,physical_channel_one_based,source_a,claim_a,source_b,claim_b,disagreement_type,severity,notes
+BWRat21_121113,BWRat21,theta,60,ChannelAnatomy.csv,,BasicMetaData role selection,Thetachannel,missing_anatomy_label,WARN,Physical channel identity agrees; textual anatomy is absent.
+Dino_061914_ACC,Dino,theta,129,ChannelAnatomy.csv,,BasicMetaData role selection,Thetachannel,missing_anatomy_label,WARN,Physical channel identity agrees; textual anatomy is absent.
+Dino_061914_mPFC,Dino,theta,129,ChannelAnatomy.csv,,BasicMetaData role selection,Thetachannel,missing_anatomy_label,WARN,Physical channel identity agrees; textual anatomy is absent.
+Dino_062014_ACC,Dino,theta,129,ChannelAnatomy.csv,,BasicMetaData role selection,Thetachannel,missing_anatomy_label,WARN,Physical channel identity agrees; textual anatomy is absent.
+Dino_062014_mPFC,Dino,theta,129,ChannelAnatomy.csv,,BasicMetaData role selection,Thetachannel,missing_anatomy_label,WARN,Physical channel identity agrees; textual anatomy is absent.
+Templeton_032415,Templeton,recommended_lfp,27,ChannelAnatomy.csv,mPFC,WatsonSleepHomestasis2016Table.xlsx animal heading,OFC,anatomical_label_disagreement,REVIEW,Coarse animal/session region summary disagrees with per-channel CSV; raw claims preserved.
+release_wide,,all,,ChannelAnatomy.csv,dHipp,ChannelAnatomy.csv,dhipp,spelling_case_normalization_difference,INFO,Same intended hippocampal label appears with case variation; raw spellings preserved.

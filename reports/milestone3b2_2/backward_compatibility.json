@@ -1,0 +1,11 @@
+{
+  "previous_successful_sessions": 24,
+  "unexpected_changes": [],
+  "frozen_label_causal_modules_unchanged": {
+    "bin_spikes.py": true,
+    "build_state_labels.py": true,
+    "causal_dataset.py": true,
+    "causal_windows.py": true,
+    "deep_qc.py": true
+  }
+}

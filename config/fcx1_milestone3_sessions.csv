@@ -1,0 +1,6 @@
+session_id,animal_id,local_path,availability,processing_status
+BWRat17_121712,BWRat17,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat17_121712,true,audited
+BWRat18_020513,BWRat18,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat18_020513,true,audited
+BWRat19_032513,BWRat19,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat19_032513,true,audited
+BWRat20_101013,BWRat20,F:\CfC-Sleep\crcns-downloader\fcx-1\data\BWRat20_101013,true,audited
+Splinter_020915,Splinter,F:\CfC-Sleep\crcns-downloader\fcx-1\data\Splinter_020915,true,audited
