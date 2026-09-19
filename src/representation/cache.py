@@ -32,6 +32,17 @@ from .provenance import (
 
 
 HASH_CHUNK_BYTES = 8 * 1024 * 1024
+CACHE_ARRAY_IMPLEMENTATION_FILES = (
+    "src/data/align_session.py",
+    "src/data/interval_support.py",
+    "src/data/load_lfp.py",
+    "src/data/load_metadata.py",
+    "src/data/time_support.py",
+    "src/representation/cache.py",
+    "src/representation/config.py",
+    "src/representation/filters.py",
+    "src/representation/provenance.py",
+)
 
 
 def _sha256_file(path: str | Path) -> str:
@@ -65,9 +76,15 @@ def file_content_fingerprint(path: str | Path) -> dict[str, object]:
 
 
 def representation_implementation_hash() -> str:
+    """Hash only code that can change cached LFP array contents/geometry."""
+
     digest = hashlib.sha256()
-    for path in sorted(Path(__file__).parent.glob("*.py")):
-        digest.update(path.name.encode("utf-8"))
+    project_root = Path(__file__).resolve().parents[2]
+    for relative in CACHE_ARRAY_IMPLEMENTATION_FILES:
+        path = project_root / relative
+        if not path.is_file():
+            raise FileNotFoundError(f"Cache implementation source is missing: {path}")
+        digest.update(relative.encode("utf-8"))
         digest.update(path.read_bytes())
     return digest.hexdigest()
 
@@ -138,7 +155,8 @@ def _metadata_matches(
         return False, None
     matches = (
         payload.get("protocol_hash") == config.protocol_hash
-        and payload.get("implementation_hash") == representation_implementation_hash()
+        and payload.get("cache_array_implementation_hash")
+        == representation_implementation_hash()
         and payload.get("source_signature") == source_signature
     )
     return matches, payload
@@ -251,7 +269,7 @@ def ensure_lfp_cache(
     metadata = {
         "protocol_version": config.protocol_version,
         "protocol_hash": config.protocol_hash,
-        "implementation_hash": representation_implementation_hash(),
+        "cache_array_implementation_hash": representation_implementation_hash(),
         "source_signature": source_signature,
         "session_id": session.metadata.basename,
         "runtime": {

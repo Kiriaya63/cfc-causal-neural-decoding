@@ -15,7 +15,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 from representation import (
+    CACHE_ARRAY_IMPLEMENTATION_FILES,
     DEFAULT_CONFIG,
+    MODEL_INPUT_SCHEMA_VERSION,
     MODEL_INPUT_FIELD_WHITELIST,
     anatomy_provenance_conflicts,
     cache_artifacts_match,
@@ -25,11 +27,14 @@ from representation import (
     design_physio_filters,
     design_waveform_filter,
     ensure_lfp_cache,
+    model_input_schema_hash,
     open_cached_lfp,
     representation_cache_identity,
     role_channel_mapping,
     to_model_input,
 )
+import representation.model_input as model_input_module
+from unittest.mock import patch
 
 
 class SyntheticMetadata:
@@ -200,6 +205,48 @@ class PreM5ResolutionTest(unittest.TestCase):
             model_input.observation_delta_t_s,
             np.full(1500, 0.02, dtype=np.float64),
         )
+
+    def test_model_delta_t_rejects_invalid_timing(self):
+        sample = self._model_sample_at(10.0)
+        mismatched = SimpleNamespace(**vars(sample))
+        mismatched.observation_right_edges_s = sample.observation_right_edges_s.copy()
+        mismatched.observation_right_edges_s[2] += 0.001
+        with self.assertRaisesRegex(ValueError, "disagree"):
+            to_model_input(mismatched)
+
+        nonmonotonic = SimpleNamespace(**vars(sample))
+        intervals = sample.observation_intervals_s.copy()
+        intervals[2, 1] = intervals[1, 1]
+        nonmonotonic.observation_intervals_s = intervals
+        nonmonotonic.observation_right_edges_s = intervals[:, 1].copy()
+        with self.assertRaisesRegex(ValueError, "strictly positive"):
+            to_model_input(nonmonotonic)
+
+    def test_cache_hash_scope_excludes_model_adapter(self):
+        names = set(CACHE_ARRAY_IMPLEMENTATION_FILES)
+        self.assertNotIn("src/representation/model_input.py", names)
+        self.assertNotIn("src/representation/samples.py", names)
+        self.assertTrue(
+            {
+                "src/representation/cache.py",
+                "src/representation/config.py",
+                "src/representation/filters.py",
+                "src/representation/provenance.py",
+                "src/data/load_lfp.py",
+                "src/data/load_metadata.py",
+                "src/data/time_support.py",
+            }.issubset(names)
+        )
+
+    def test_model_input_schema_has_independent_versioned_hash(self):
+        current = model_input_schema_hash()
+        self.assertEqual(MODEL_INPUT_SCHEMA_VERSION, "m4-model-input-v1.0.0")
+        with patch.object(
+            model_input_module,
+            "MODEL_INPUT_SCHEMA_VERSION",
+            "m4-model-input-v1.0.1",
+        ):
+            self.assertNotEqual(current, model_input_schema_hash())
 
     def test_cache_detects_readable_content_corruption(self):
         raw = np.arange(2500, dtype=np.int16)[:, None]

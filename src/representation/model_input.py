@@ -9,6 +9,11 @@ import numpy as np
 from .samples import MultimodalRepresentationSample
 
 
+MODEL_INPUT_SCHEMA_VERSION = "m4-model-input-v1.0.0"
+MODEL_INPUT_TIME_SEMANTICS = "relative_elapsed_since_previous_observation_seconds"
+MODEL_INPUT_DELTA_T_DECIMALS = 9
+
+
 @dataclass(frozen=True)
 class ModelInput:
     observation_delta_t_s: np.ndarray
@@ -24,6 +29,24 @@ class ModelInput:
 
 
 MODEL_INPUT_FIELD_WHITELIST = tuple(field.name for field in fields(ModelInput))
+
+
+def model_input_schema_hash() -> str:
+    """Fingerprint the model-boundary contract independently of LFP caches."""
+
+    import hashlib
+    import json
+
+    payload = {
+        "schema_version": MODEL_INPUT_SCHEMA_VERSION,
+        "fields": MODEL_INPUT_FIELD_WHITELIST,
+        "time_semantics": MODEL_INPUT_TIME_SEMANTICS,
+        "delta_t_rounding_decimals": MODEL_INPUT_DELTA_T_DECIMALS,
+        "absolute_session_time_allowed": False,
+        "provenance_identifiers_allowed": False,
+    }
+    encoded = json.dumps(payload, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(encoded.encode("utf-8")).hexdigest()
 
 
 def _observation_delta_t_s(sample: MultimodalRepresentationSample) -> np.ndarray:
@@ -49,7 +72,7 @@ def _observation_delta_t_s(sample: MultimodalRepresentationSample) -> np.ndarray
         # cannot encode session position. Nanosecond precision is far finer
         # than the current 20-ms grid and remains suitable for future irregular
         # observation intervals.
-        delta_t = np.round(delta_t, decimals=9)
+        delta_t = np.round(delta_t, decimals=MODEL_INPUT_DELTA_T_DECIMALS)
     if np.any(delta_t <= 0):
         raise ValueError("Observation elapsed times must be strictly positive.")
     delta_t.setflags(write=False)

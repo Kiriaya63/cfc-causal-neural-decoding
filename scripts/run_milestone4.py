@@ -21,9 +21,11 @@ sys.path.insert(0, str(ROOT / "src"))
 from data import load_aligned_session, load_lfp_window, load_session_manifest
 from representation import (
     DEFAULT_CONFIG,
+    MODEL_INPUT_SCHEMA_VERSION,
     RepresentationSessionDataset,
     design_physio_filters,
     design_waveform_filter,
+    model_input_schema_hash,
     representation_implementation_hash,
 )
 
@@ -246,7 +248,9 @@ def main():
     physio = design_physio_filters(waveform)
     design_report = {
         "config": DEFAULT_CONFIG.to_dict(), "protocol_hash": DEFAULT_CONFIG.protocol_hash,
-        "implementation_hash": representation_implementation_hash(),
+        "cache_array_implementation_hash": representation_implementation_hash(),
+        "model_input_schema_version": MODEL_INPUT_SCHEMA_VERSION,
+        "model_input_schema_hash": model_input_schema_hash(),
         "waveform": {key: safe(value) for key, value in waveform.__dict__.items() if key != "taps"},
         "waveform_coefficients": waveform.taps.tolist(),
         "physio": {
@@ -278,6 +282,9 @@ def main():
         "sessions": len(rows), "animals": len({row["animal_id"] for row in rows}),
         "status_counts": status, "protocol_version": DEFAULT_CONFIG.protocol_version,
         "protocol_hash": DEFAULT_CONFIG.protocol_hash, "identity_specific_branches": branches,
+        "cache_array_implementation_hash": representation_implementation_hash(),
+        "model_input_schema_version": MODEL_INPUT_SCHEMA_VERSION,
+        "model_input_schema_hash": model_input_schema_hash(),
         "stable_unit_min_median_max": [min(row["stable_unit_count"] for row in rows if row["qc_status"]!="FAIL"), float(np.median([row["stable_unit_count"] for row in rows if row["qc_status"]!="FAIL"])), max(row["stable_unit_count"] for row in rows if row["qc_status"]!="FAIL")],
         "m2_valid_samples_by_context": total_m2,
         "representation_invalid_samples_by_context": total_invalid,

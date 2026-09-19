@@ -51,11 +51,14 @@ normalization:
 cache:
   root: cache/milestone4
   format: rebuildable_versioned_npy_memmap
-  identity: protocol_hash_plus_implementation_hash
+  identity: protocol_hash_plus_cache_array_implementation_hash
+  implementation_hash_scope: cached_LFP_array_producers_only
   source_integrity: sha256_content_fingerprint
   array_integrity: [shape, dtype, file_size, sha256]
   raw_data_is_source_of_truth: true
 model_input:
+  schema_version: m4-model-input-v1.0.0
+  schema_hash: generated_from_version_fields_and_relative_time_semantics
   allowed:
     - neural_observation_values
     - observation_delta_t_or_relative_elapsed_timing_only

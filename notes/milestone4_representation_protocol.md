@@ -109,6 +109,8 @@ The audit representation object retains absolute observation intervals and right
 
 The remaining model-facing fields contain only neural values, causal/modality masks, and computational neuron-padding masks. The adapter excludes session/animal identifiers, paths, channel numbers, anatomy, local unit identifiers, recording condition, and role mapping. Unit count is not added as an explicit feature; neuron masks remain necessary for correct variable-size computation.
 
+The model boundary is versioned independently as `m4-model-input-v1.0.0`. Its schema hash covers the whitelist, relative-time semantics, delta-t precision, and explicit exclusion of absolute time/provenance. Model-interface revisions therefore remain reproducible without being treated as changes to cached LFP array contents.
+
 For 5/10/30 s contexts, all dense modalities therefore have `T = 250/500/1500`. The neuron dimension alone varies by session.
 
 ## 7. Normalization and fairness
@@ -141,7 +143,7 @@ The affected sessions are `BWRat17_121712`, `BWRat17_121912`, `BWRat18_020513`, 
 
 ## 9. Cache and raw-data preservation
 
-The rebuildable cache is stored under `cache/milestone4/<protocol+implementation hash>/<session>/` as versioned NumPy arrays plus metadata. Cache identity includes the protocol hash and representation implementation hash. Relevant raw/metadata sources receive SHA-256 content fingerprints. Each cached array records and validates shape, dtype, file size, and SHA-256 before acceptance. The cache is never a source of truth.
+The rebuildable cache is stored under `cache/milestone4/<protocol+cache-array-implementation hash>/<session>/` as versioned NumPy arrays plus metadata. Cache identity includes the protocol hash and a deliberately scoped implementation hash containing only code that can change cached LFP array contents or geometry, including the relevant metadata/LFP/time-support loaders. Model adapters and sample-interface code are excluded, so an interface-only change cannot invalidate unchanged LFP arrays. Relevant raw/metadata sources receive SHA-256 content fingerprints. Each cached array records and validates shape, dtype, file size, and SHA-256 before acceptance. The cache is never a source of truth.
 
 The explicit role-to-physical-channel provenance records GoodEEG, Theta, Spindle, and UPstate source field, original 1-based value, zero-based NumPy column, and anatomy claim. The known Templeton conflict (official workbook `OFC`; recommended-channel ChannelAnatomy `mPFC`) preserves both claims and a conflict flag, causes no exclusion, and is absent from the model-facing whitelist.
 
@@ -149,6 +151,6 @@ The preservation audit checked 523 raw files. All files were checked by size/mti
 
 ## 10. Verification and freeze boundary
 
-The complete test suite passes: 69/69, with 0 failed and 0 skipped. All 66 tests that predated the final relative-time boundary patch still pass. Three additional tests verify invariance to absolute session-time shifts, exclusion of absolute/provenance fields, and exact 20-ms relative elapsed timing on the regular 50-Hz grid.
+The complete test suite passes: 72/72, with 0 failed and 0 skipped. In addition to the relative-time boundary tests, the final cache/schema tests verify that model adapters are excluded from cache-array invalidation, the model-input schema has an independent versioned hash, and malformed or non-positive observation timing is rejected.
 
 M4 meets its technical freeze criteria: 27/27 sessions are representable, all causal invariants pass, no future-dependent operation exists, no session/animal branch exists, and no unresolved structural issue remains. The Phase I handoff accepted the formal M4 freeze on 2026-09-16. Entry into M5 remains a separate milestone: this implementation does not create splits, fit normalization statistics, or train any model.
